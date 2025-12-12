@@ -1,9 +1,6 @@
 # EXTREMES  
 ### EXTREME_LANGUAGE  
-:no_entry: EXTREME_LANGUAGE **missing**:  
-1. Assign the language code (i.e. 'en', 'de') as new repository secret at https://github.com/picawe-news/hebrewExtremes/settings/secrets/actions  
-   * Name:  **EXTREME_LANGUAGE**   
-   * Value: **Your language code here**   
+:white_check_mark: EXTREME_LANGUAGE key exists (he)  
 ### EXTREME_GH_TOKEN  
 :white_check_mark: EXTREME_GH_TOKEN exists  
 :white_check_mark: EXTREME_GH_TOKEN working  
