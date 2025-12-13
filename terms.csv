@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2025-12-09T03:41:00+00:00,Israel,0.6648690638511141,1,2,he,MED,Asia
-'183de728c2',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-11-25T03:37:00+00:00,Israel,0.6614759705874413,0,2,he,MED,Asia
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2025-12-05T03:41:00+00:00,Israel,0.6490710989091227,2,2,he,MED,Asia
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2025-12-10T03:45:00+00:00,Israel,0.6426913865419291,2,1,he,MED,Asia
 '78e909d3d3',extremes,Flood,#030ba1,wmo,מבול ישראל,2025-11-25T03:37:00+00:00,Israel,0.6364329769086305,1,1,he,MED,Asia
@@ -16,10 +14,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-11-25T03:37:00+00:00,Israel,0.487186058224091,2,1,he,MED,Asia
 '615eb4c759',extremes,Tropical Cyclone,#4f4f4f,eonet,דיטווה ציקלון טרופי,2025-11-28T03:33:00+00:00,,0.3189006492895961,0,2,he,EIO,Indian Ocean
 '641ad67faf',extremes,Wildfire,#d60d2b,acwe,איסור שריפות דרום אוסטרליה,2025-11-27T03:34:00+00:00,Australia,0.3187725605764006,0,2,he,CAU,Oceania
-'83c282088c',extremes,Precipitation,#d60d2b,acwe,גשם כבד בשטח הצפוני,2025-11-26T03:37:00+00:00,Australia,0.3187491654813343,0,2,he,CAU,Oceania
 '9d59b1d751',extremes,Flood,#030ba1,acwe,שיטפון בזק דרום אוסטרליה,2025-11-27T03:34:00+00:00,Australia,0.3187414096991603,0,2,he,SAU,Oceania
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,שריפה בשטח צפוני,2025-11-27T03:34:00+00:00,Australia,0.3186710523035853,0,2,he,CAU,Oceania
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,גל חום טריטוריה צפונית,2025-11-26T03:37:00+00:00,Australia,0.3183462179056731,0,2,he,NAU,Oceania
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,לחש רטוב אוסטרליה,2025-11-27T03:34:00+00:00,Australia,0.3182085863292513,0,2,he,CAU,Oceania
 'cf0028758b',extremes,Flood,#030ba1,acwe,מבול קווינסלנד,2025-11-26T03:37:00+00:00,Australia,0.3181718136200919,0,2,he,CAU,Oceania
 '8d8981ac5b',extremes,Flood,#030ba1,acwe,הצפה של קווינסלנד,2025-11-27T03:34:00+00:00,Australia,0.2709775415588232,1,1,he,CAU,Oceania
+'83c282088c',extremes,Precipitation,#d60d2b,acwe,גשם כבד בשטח הצפוני,2025-11-26T03:37:00+00:00,Australia,0.2709367906591342,1,1,he,CAU,Oceania
