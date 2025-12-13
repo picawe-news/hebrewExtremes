@@ -13,6 +13,7 @@ import aiohttp
 import asyncio
 import requests
 from urllib.parse import urlparse
+import urllib
 import json
 import time
 import smtplib
@@ -637,7 +638,7 @@ def inqRandomNews(maxCount=1):
         # https://newsapi.org/docs/endpoints/everything
         url = ('https://newsapi.org/v2/everything?'+
             #"q='"+keyWord+"'&"
-            "q="+keyWord+"&"
+            "q="+urllib.parse.quote(keyWord)+"&"
             'pageSize='+str(pageSize)+'&'
             'language='+language+'&'
             'page='+str(currPage)+'&'
@@ -700,6 +701,9 @@ def inqRandomNews(maxCount=1):
                 if(foundNew):     
                     maxCount  -= (2 + len(newArticles))  
                     storeCollection()
+             else:
+               #0 articles found
+               print(['0 articles found, counter:',newCounter ,'ratio: ',currRatio, 'pages:', newLimit])
             else:
               print(response.text)
               if(jsonData['code'] == 'maximumResultsReached'):
