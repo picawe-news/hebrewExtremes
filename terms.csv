@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '02842ef41a',extremes,Fog,#d60d2b,wmo,ערפל מהמר עמק שאן עמק החולה,2025-12-14T03:49:00+00:00,Israel,0.6766375886335853,0,2,he,MED,Asia
-'183de728c2',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-11-25T03:37:00+00:00,Israel,0.6614759705874413,0,2,he,MED,Asia
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2025-12-10T03:45:00+00:00,Israel,0.6426913865419291,2,1,he,MED,Asia
 '92e2638c77',extremes,Flood,#030ba1,wmo,מציף את ישראל,2025-12-12T03:45:00+00:00,Israel,0.6298215635133072,1,1,he,MED,Asia
 'f8f5c3ad5f',extremes,Drought,#edc291,edo,חוסר גשם ישראל,2025-11-29T03:34:00+00:00,Israel,0.6113606809964689,1,1,he,MED,Asia
@@ -17,10 +16,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-11-25T03:37:00+00:00,Israel,0.487186058224091,2,1,he,MED,Asia
 '9d59b1d751',extremes,Flood,#030ba1,acwe,שיטפון בזק דרום אוסטרליה,2025-11-27T03:34:00+00:00,Australia,0.3187414096991603,0,2,he,SAU,Oceania
 'cf0028758b',extremes,Flood,#030ba1,acwe,מבול קווינסלנד,2025-11-26T03:37:00+00:00,Australia,0.3181718136200919,0,2,he,CAU,Oceania
-'b747714817',extremes,Cold Wave,#a7e9fa,acwe,גל קר ויקטוריה,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,he,SAU,Oceania
 '8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,גל חום אוסטרליה,2025-11-26T03:37:00+00:00,Australia,0.3166173437169293,0,2,he,CAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,wmo,מציפה את אוסטרליה,2025-11-24T03:46:00+00:00,Australia,0.3154685749461587,0,2,he,CAU,Oceania
-'6dfc67df50',extremes,Flood,#030ba1,cmeter,מבול אלבניה,2025-11-30T03:47:00+00:00,Albania,0.3147785346184448,0,2,he,MED,Europe
 '8a011225a4',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי senyar,2025-11-27T03:33:00+00:00,,0.3121637538580205,0,2,he,SEA,Asia
 '291335c911',extremes,Drought,#edc291,edo,חוסר גבון גשם,2025-12-08T03:45:00+00:00,Gabon,0.3107013622976347,0,2,he,CAF,Africa
 '5a20612e67',extremes,Drought,#edc291,edo,חוסר גשם טרינידד וטובגו,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.3098781522363908,0,2,he,NSA,North-America
@@ -38,4 +35,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,לחש רטוב אוסטרליה,2025-11-27T03:34:00+00:00,Australia,0.2704772983798636,1,1,he,CAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,לחש רטוב ניו דרום ויילס,2025-11-27T03:34:00+00:00,Australia,0.2702642822971516,1,1,he,EAU,Oceania
 '6977afac24',extremes,Volcano,#b83202,eonet,puracé volcano colombia,2025-12-06T03:32:00+00:00,Colombia,0.2699202938116671,1,1,he,NWS,South-America
-'59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,מלכת האש בשדה קוצים,2025-11-27T03:34:00+00:00,Australia,0.26569060494971175,1,1,he,CAU,Oceania
+'b747714817',extremes,Cold Wave,#a7e9fa,acwe,גל קר ויקטוריה,2025-12-04T03:42:00+00:00,Australia,0.2692333508802405,1,1,he,SAU,Oceania
+'6dfc67df50',extremes,Flood,#030ba1,cmeter,מבול אלבניה,2025-11-30T03:47:00+00:00,Albania,0.2675617544256781,1,1,he,MED,Europe
+'59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,מלכת האש בשדה קוצים,2025-11-27T03:34:00+00:00,Australia,0.2656906049497117,1,1,he,CAU,Oceania
