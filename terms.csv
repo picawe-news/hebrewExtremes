@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2025-12-09T03:41:00+00:00,Israel,0.6925516986483696,0,2,he,MED,Asia
+'183de728c2',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-11-25T03:37:00+00:00,Israel,0.6614759705874413,0,2,he,MED,Asia
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2025-12-05T03:41:00+00:00,Israel,0.6490710989091227,2,2,he,MED,Asia
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2025-12-10T03:45:00+00:00,Israel,0.6426913865419291,2,1,he,MED,Asia
 '78e909d3d3',extremes,Flood,#030ba1,wmo,מבול ישראל,2025-11-25T03:37:00+00:00,Israel,0.6364329769086305,1,1,he,MED,Asia
@@ -19,5 +21,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,גל חום טריטוריה צפונית,2025-11-26T03:37:00+00:00,Australia,0.3183462179056731,0,2,he,NAU,Oceania
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,לחש רטוב אוסטרליה,2025-11-27T03:34:00+00:00,Australia,0.3182085863292513,0,2,he,CAU,Oceania
 'cf0028758b',extremes,Flood,#030ba1,acwe,מבול קווינסלנד,2025-11-26T03:37:00+00:00,Australia,0.3181718136200919,0,2,he,CAU,Oceania
+'83b05b31d0',extremes,Precipitation,#d60d2b,acwe,לחש רטוב ניו דרום ויילס,2025-11-27T03:34:00+00:00,Australia,0.3179579791731195,0,2,he,EAU,Oceania
+'6977afac24',extremes,Volcano,#b83202,eonet,puracé volcano colombia,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,2,he,NWS,South-America
+'b747714817',extremes,Cold Wave,#a7e9fa,acwe,גל קר ויקטוריה,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,he,SAU,Oceania
+'8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,גל חום אוסטרליה,2025-11-26T03:37:00+00:00,Australia,0.31661734371692934,0,2,he,CAU,Oceania
+'44211c95de',extremes,Flood,#030ba1,wmo,מציפה את אוסטרליה,2025-11-24T03:46:00+00:00,Australia,0.31546857494615876,0,2,he,CAU,Oceania
+'6dfc67df50',extremes,Flood,#030ba1,cmeter,מבול אלבניה,2025-11-30T03:47:00+00:00,Albania,0.31477853461844485,0,2,he,MED,Europe
+'59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,מלכת האש בשדה קוצים,2025-11-27T03:34:00+00:00,Australia,0.3125771822937785,0,2,he,CAU,Oceania
+'8a011225a4',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי senyar,2025-11-27T03:33:00+00:00,,0.3121637538580205,0,2,he,SEA,Asia
 '8d8981ac5b',extremes,Flood,#030ba1,acwe,הצפה של קווינסלנד,2025-11-27T03:34:00+00:00,Australia,0.2709775415588232,1,1,he,CAU,Oceania
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,גשם כבד בשטח הצפוני,2025-11-26T03:37:00+00:00,Australia,0.2709367906591342,1,1,he,CAU,Oceania
