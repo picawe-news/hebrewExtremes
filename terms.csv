@@ -2,22 +2,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2025-12-09T03:41:00+00:00,Israel,0.6925516986483696,0,2,he,MED,Asia
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2025-12-05T03:41:00+00:00,Israel,0.6490710989091227,2,2,he,MED,Asia
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2025-12-10T03:45:00+00:00,Israel,0.6426913865419291,2,1,he,MED,Asia
-'78e909d3d3',extremes,Flood,#030ba1,wmo,מבול ישראל,2025-11-25T03:37:00+00:00,Israel,0.6364329769086305,1,1,he,MED,Asia
 '92e2638c77',extremes,Flood,#030ba1,wmo,מציף את ישראל,2025-12-12T03:45:00+00:00,Israel,0.6298215635133072,1,1,he,MED,Asia
 'aab7909052',extremes,Fog,#d60d2b,wmo,ערפל ישראל,2025-12-07T03:47:00+00:00,Israel,0.6296014147162052,1,1,he,MED,Asia
 'f8f5c3ad5f',extremes,Drought,#edc291,edo,חוסר גשם ישראל,2025-11-29T03:34:00+00:00,Israel,0.6113606809964689,1,1,he,MED,Asia
 'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2025-12-12T03:45:00+00:00,Israel,0.5978337694104079,1,1,he,MED,Asia
 '5282102178',extremes,Flood,#030ba1,wmo,flashflood ישראל,2025-12-10T03:45:00+00:00,Israel,0.5644025902169318,1,1,he,MED,Asia
+'78e909d3d3',extremes,Flood,#030ba1,wmo,מבול ישראל,2025-11-25T03:37:00+00:00,Israel,0.540968030372336,2,1,he,MED,Asia
 'f4c69d2f52',extremes,Storm,#b3b2b1,wmo,סערה בצפון מזרח השומרון,2025-11-27T03:34:00+00:00,Israel,0.5237483805504632,1,1,he,MED,Asia
 '79c5f0a682',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ים צפון,2025-12-08T03:44:00+00:00,Israel,0.5217947188167888,1,1,he,MED,Asia
 'e5cad95879',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ישראל,2025-12-10T03:45:00+00:00,Israel,0.5146532449576366,2,1,he,MED,Asia
 '37e971ba15',extremes,Fog,#d60d2b,wmo,ערפל עמק החולה עמק יזרעאל,2025-12-07T03:47:00+00:00,Israel,0.5126067488716298,2,1,he,MED,Asia
 '7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-11-25T03:37:00+00:00,Israel,0.487186058224091,2,1,he,MED,Asia
-'615eb4c759',extremes,Tropical Cyclone,#4f4f4f,eonet,דיטווה ציקלון טרופי,2025-11-28T03:33:00+00:00,,0.3189006492895961,0,2,he,EIO,Indian Ocean
 '641ad67faf',extremes,Wildfire,#d60d2b,acwe,איסור שריפות דרום אוסטרליה,2025-11-27T03:34:00+00:00,Australia,0.3187725605764006,0,2,he,CAU,Oceania
 '9d59b1d751',extremes,Flood,#030ba1,acwe,שיטפון בזק דרום אוסטרליה,2025-11-27T03:34:00+00:00,Australia,0.3187414096991603,0,2,he,SAU,Oceania
-'e6d1629586',extremes,Wildfire,#d60d2b,acwe,שריפה בשטח צפוני,2025-11-27T03:34:00+00:00,Australia,0.3186710523035853,0,2,he,CAU,Oceania
-'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,לחש רטוב אוסטרליה,2025-11-27T03:34:00+00:00,Australia,0.3182085863292513,0,2,he,CAU,Oceania
 'cf0028758b',extremes,Flood,#030ba1,acwe,מבול קווינסלנד,2025-11-26T03:37:00+00:00,Australia,0.3181718136200919,0,2,he,CAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,לחש רטוב ניו דרום ויילס,2025-11-27T03:34:00+00:00,Australia,0.3179579791731195,0,2,he,EAU,Oceania
 '6977afac24',extremes,Volcano,#b83202,eonet,puracé volcano colombia,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,2,he,NWS,South-America
@@ -27,6 +24,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,מבול אלבניה,2025-11-30T03:47:00+00:00,Albania,0.3147785346184448,0,2,he,MED,Europe
 '59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,מלכת האש בשדה קוצים,2025-11-27T03:34:00+00:00,Australia,0.3125771822937785,0,2,he,CAU,Oceania
 '8a011225a4',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי senyar,2025-11-27T03:33:00+00:00,,0.3121637538580205,0,2,he,SEA,Asia
+'615eb4c759',extremes,Tropical Cyclone,#4f4f4f,eonet,דיטווה ציקלון טרופי,2025-11-28T03:33:00+00:00,,0.27106555189615666,1,1,he,EIO,Indian Ocean
 '8d8981ac5b',extremes,Flood,#030ba1,acwe,הצפה של קווינסלנד,2025-11-27T03:34:00+00:00,Australia,0.2709775415588232,1,1,he,CAU,Oceania
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,גשם כבד בשטח הצפוני,2025-11-26T03:37:00+00:00,Australia,0.2709367906591342,1,1,he,CAU,Oceania
+'e6d1629586',extremes,Wildfire,#d60d2b,acwe,שריפה בשטח צפוני,2025-11-27T03:34:00+00:00,Australia,0.2708703944580475,1,1,he,CAU,Oceania
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,גל חום טריטוריה צפונית,2025-11-26T03:37:00+00:00,Australia,0.2705942852198221,1,1,he,NAU,Oceania
+'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,לחש רטוב אוסטרליה,2025-11-27T03:34:00+00:00,Australia,0.2704772983798636,1,1,he,CAU,Oceania
