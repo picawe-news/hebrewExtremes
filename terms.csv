@@ -12,16 +12,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-11-25T03:37:00+00:00,Israel,0.487186058224091,2,1,he,MED,Asia
 '5282102178',extremes,Flood,#030ba1,wmo,flashflood ישראל,2025-12-10T03:45:00+00:00,Israel,0.4797422016843921,2,1,he,MED,Asia
 'aab7909052',extremes,Fog,#d60d2b,wmo,ערפל ישראל,2025-12-07T03:47:00+00:00,Israel,0.4548870221324582,3,1,he,MED,Asia
-'f4c69d2f52',extremes,Storm,#b3b2b1,wmo,סערה בצפון מזרח השומרון,2025-11-27T03:34:00+00:00,Israel,0.44518612346789377,2,1,he,MED,Asia
+'f4c69d2f52',extremes,Storm,#b3b2b1,wmo,סערה בצפון מזרח השומרון,2025-11-27T03:34:00+00:00,Israel,0.4451861234678937,2,1,he,MED,Asia
 '37e971ba15',extremes,Fog,#d60d2b,wmo,ערפל עמק החולה עמק יזרעאל,2025-12-07T03:47:00+00:00,Israel,0.4357157365408853,3,1,he,MED,Asia
 '8a011225a4',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי senyar,2025-11-27T03:33:00+00:00,,0.3121637538580205,0,2,he,SEA,Asia
-'291335c911',extremes,Drought,#edc291,edo,חוסר גבון גשם,2025-12-08T03:45:00+00:00,Gabon,0.3107013622976347,0,2,he,CAF,Africa
-'cc855d70a2',extremes,Drought,#edc291,edo,יובש טג'יקיסטן,2025-12-08T03:45:00+00:00,Tajikistan,0.3098758690337233,0,2,he,WCA,Asia
 '0d2f7df845',extremes,Drought,#edc291,edo,בצורת טריטוריה פלסטינית,2025-11-29T03:34:00+00:00,Palestinian Territory,0.3098543848739005,0,2,he,MED,Asia
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,הודו מקפיאה,2025-12-07T03:47:00+00:00,India,0.3094058161213626,0,2,he,SAS,Asia
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,סופת רעמים אוסטרליה,2025-12-05T03:41:00+00:00,Australia,0.3087605287264497,0,2,he,SAU,Oceania
-'99251f8aa7',extremes,Drought,#edc291,edo,חוסר גשם בליבריה,2025-12-08T03:45:00+00:00,Liberia,0.3086632499214838,0,2,he,WAF,Africa
-'56dca2743f',extremes,Drought,#edc291,edo,גינאה המשוונית יבשה,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.3078450454677852,0,2,he,WAF,Africa
 '989439d143',extremes,Snow&Ice,#d60d2b,wmo,קרח אתיופיה,2025-12-09T03:41:00+00:00,Ethiopia,0.3075462733965737,0,2,he,NEAF,Africa
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,משקעים ברזיל,2025-11-27T03:34:00+00:00,Brazil,0.3069755929876847,0,2,he,SAM,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,גשם בארגנטינה,2025-11-25T03:37:00+00:00,Argentina,0.3068970577684877,0,2,he,SES,South-America
@@ -44,5 +40,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '44211c95de',extremes,Flood,#030ba1,wmo,מציפה את אוסטרליה,2025-11-24T03:46:00+00:00,Australia,0.2681482887042349,1,1,he,CAU,Oceania
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,מבול אלבניה,2025-11-30T03:47:00+00:00,Albania,0.2675617544256781,1,1,he,MED,Europe
 '59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,מלכת האש בשדה קוצים,2025-11-27T03:34:00+00:00,Australia,0.2656906049497117,1,1,he,CAU,Oceania
+'291335c911',extremes,Drought,#edc291,edo,חוסר גבון גשם,2025-12-08T03:45:00+00:00,Gabon,0.26409615795298946,1,1,he,CAF,Africa
 '5a20612e67',extremes,Drought,#edc291,edo,חוסר גשם טרינידד וטובגו,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.2633964294009321,1,1,he,NSA,North-America
+'cc855d70a2',extremes,Drought,#edc291,edo,יובש טג'יקיסטן,2025-12-08T03:45:00+00:00,Tajikistan,0.2633944886786648,1,1,he,WCA,Asia
+'99251f8aa7',extremes,Drought,#edc291,edo,חוסר גשם בליבריה,2025-12-08T03:45:00+00:00,Liberia,0.2623637624332612,1,1,he,WAF,Africa
+'56dca2743f',extremes,Drought,#edc291,edo,גינאה המשוונית יבשה,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.2616682886476174,1,1,he,WAF,Africa
 'c4be795f03',extremes,Drought,#edc291,edo,חוסר גשם גינאה המשוונית,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.2610809309296003,1,1,he,WAF,Africa
