@@ -486,7 +486,22 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              max(valid,0.6) 
       if(not found):
         for index2, column2 in termsLangDF.iterrows(): 
-           allFound = checkKeywordInQuote(keyword, fullQuote, case=True, anyKey=True)
+           allFound = checkKeywordInQuote(keyword, fullQuote, case=False)
+           if(allFound):
+             foundKeywords.append(keyword) 
+             found = True
+             max(valid,0.55) 
+      if(not found):
+        for index2, column2 in termsLangDF.iterrows(): 
+           allFound = checkKeywordInQuote(keyword, searchQuote+fullQuote, case=True, anyKey=True)
+           if(allFound):
+             foundKeywords.append(keyword) 
+             foundColumns.append(column2) 
+             found = True
+             max(valid,0.3) 
+      if(not found):
+        for index2, column2 in termsLangDF.iterrows(): 
+           allFound = checkKeywordInQuote(keyword, searchQuote+fullQuote, case=False, anyKey=True)
            if(allFound):
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
