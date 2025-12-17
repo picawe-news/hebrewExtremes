@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2025-12-12T03:45:00+00:00,Israel,0.719110403864445,0,1,he,MED,Asia
+'023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2025-12-10T03:45:00+00:00,Israel,0.7128911540372722,0,1,he,MED,Asia
+'79c5f0a682',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ים צפון,2025-12-08T03:44:00+00:00,Israel,0.6138761397844575,0,1,he,MED,Asia
 '183de728c2',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-12-16T03:47:00+00:00,Israel,0.5242778539462859,1,1,he,MED,Asia
 '6ae2fe0eac',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון,2025-12-16T03:47:00+00:00,Israel,0.5221146665868738,1,1,he,MED,Asia
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2025-12-05T03:41:00+00:00,Israel,0.5218486266591228,2,1,he,MED,Asia
@@ -18,12 +21,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5d85dc5645',extremes,Drought,#edc291,edo,יובש ברואנדה,2025-12-16T03:47:00+00:00,Rwanda,0.3097434164637586,0,1,he,SEAF,Africa
 'da5c6d0821',extremes,Drought,#edc291,edo,חוסר גשם בקירגיזסטן,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.3088233747425803,0,1,he,WCA,Asia
 '53af3d9646',extremes,Drought,#edc291,edo,בצורת טורקמניסטן,2025-12-15T03:54:00+00:00,Turkmenistan,0.3083762106398596,0,1,he,WCA,Asia
+'2407b3a8ab',extremes,Drought,#edc291,edo,יובש בורונדי,2025-12-03T03:40:00+00:00,Burundi,0.30817215710272894,0,1,he,SEAF,Africa
+'99d338c49c',extremes,Drought,#edc291,edo,בצורת אוזבקיסטן,2025-11-30T03:47:00+00:00,Uzbekistan,0.30805157951839723,0,1,he,WCA,Asia
+'42f1336000',extremes,Drought,#edc291,edo,יובש סומליה,2025-12-11T03:46:00+00:00,Somalia,0.3079220502193101,0,1,he,NEAF,Africa
 '989439d143',extremes,Snow&Ice,#d60d2b,wmo,קרח אתיופיה,2025-12-09T03:41:00+00:00,Ethiopia,0.3075462733965737,0,2,he,NEAF,Africa
+'707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי 08p,2025-12-16T03:46:00+00:00,,0.3074508515967833,0,1,he,SPO,Pacific Ocean
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,משקעים ברזיל,2025-11-27T03:34:00+00:00,Brazil,0.3069755929876847,0,2,he,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,גשם שוטף ברזיל,2025-11-26T03:37:00+00:00,Brazil,0.306685968300643,0,1,he,SAM,South-America
 '00856d5d4e',extremes,Precipitation,#d60d2b,wmo,משקעים כווית,2025-12-11T03:46:00+00:00,Kuwait,0.3066341126997313,0,1,he,ARP,Asia
 '12775cc05a',extremes,Drought,#edc291,edo,בצורת ברזיל,2025-11-26T03:37:00+00:00,Brazil,0.3065380357444656,0,1,he,SAM,South-America
 'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,משקעים אלבניה,2025-12-01T04:03:00+00:00,Albania,0.3063696583380044,0,1,he,MED,Europe
+'4455655d11',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות המלדיביים,2025-12-13T03:38:00+00:00,Maldives,0.30631935163135227,0,1,he,EIO,Indian Ocean
+'27e5411070',extremes,Precipitation,#d60d2b,wmo,גשם של איי שלמה,2025-12-11T03:46:00+00:00,Solomon Islands,0.3060589720757731,0,1,he,EPO,Oceania
+'c72865acbd',extremes,Drought,#edc291,edo,חוסר גשם בטוגו,2025-12-08T03:45:00+00:00,Togo,0.3057250827152196,0,1,he,WAF,Africa
 '615eb4c759',extremes,Tropical Cyclone,#4f4f4f,eonet,דיטווה ציקלון טרופי,2025-11-28T03:33:00+00:00,,0.2710655518961566,1,1,he,EIO,Indian Ocean
 '8d8981ac5b',extremes,Flood,#030ba1,acwe,הצפה של קווינסלנד,2025-11-27T03:34:00+00:00,Australia,0.2709775415588232,1,1,he,CAU,Oceania
 '641ad67faf',extremes,Wildfire,#d60d2b,acwe,איסור שריפות דרום אוסטרליה,2025-11-27T03:34:00+00:00,Australia,0.2709566764899405,1,1,he,CAU,Oceania
