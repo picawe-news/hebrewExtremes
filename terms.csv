@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2025-12-05T03:41:00+00:00,Israel,0.6134100960695562,1,1,he,MED,Asia
 '423b70f0cc',extremes,Snow&Ice,#d60d2b,wmo,ice israel,2025-12-18T03:44:00+00:00,Israel,0.5342380051990627,1,1,he,MED,Asia
+'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2025-12-05T03:41:00+00:00,Israel,0.5218486266591228,2,1,he,MED,Asia
 'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2025-12-12T03:45:00+00:00,Israel,0.5195572667920615,2,1,he,MED,Asia
 'e5cad95879',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ישראל,2025-12-10T03:45:00+00:00,Israel,0.4374552582139911,3,1,he,MED,Asia
 'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2025-12-09T03:41:00+00:00,Israel,0.42801470704493,3,1,he,MED,Asia
@@ -9,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2025-12-10T03:45:00+00:00,Israel,0.3726116795265438,4,1,he,MED,Asia
 '7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-11-25T03:37:00+00:00,Israel,0.3519919270669057,4,1,he,MED,Asia
 'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2025-12-15T03:54:00+00:00,Israel,0.3406432316864723,3,1,he,MED,Asia
-'183de728c2',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-12-16T03:47:00+00:00,Israel,0.3219721370547628,4,1,he,MED,Asia
 '79c5f0a682',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ים צפון,2025-12-08T03:44:00+00:00,Israel,0.3204471816933604,4,1,he,MED,Asia
 'f8f5c3ad5f',extremes,Drought,#edc291,edo,חוסר גשם ישראל,2025-11-29T03:34:00+00:00,Israel,0.3191340964844129,5,1,he,MED,Asia
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות בזונה סור,2025-12-19T03:46:00+00:00,Ecuador,0.3079706041549017,0,1,he,NWS,South-America
@@ -29,7 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a2c72301a8',extremes,Drought,#edc291,edo,בצורת קמרון,2025-12-08T03:45:00+00:00,Cameroon,0.3042533854610161,0,1,he,CAF,Africa
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,גל סערה דרום אפריקה,2025-12-01T04:02:00+00:00,South Africa,0.3041979809158852,0,1,he,WSAF,Africa
 '8be002d270',extremes,Drought,#edc291,edo,חוסר גשם בוונצואלה,2025-12-02T03:41:00+00:00,Venezuela,0.3041846740851435,0,1,he,NSA,South-America
-'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,גל סערה פרגוואי,2025-11-30T03:46:00+00:00,Paraguay,0.3041685363814227,0,1,he,SES,South-America
 '46e78fc4cd',extremes,Precipitation,#d60d2b,wmo,גשם מלדיביים,2025-11-30T03:46:00+00:00,Maldives,0.3041559310830806,0,1,he,EIO,Indian Ocean
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,מפולת קנדה,2025-12-10T03:45:00+00:00,Canada,0.3041520329813526,0,1,he,NEN,North-America
 'bf84083cec',extremes,Landslide,#572c03,wmo,מפולת נורווגיה,2025-12-10T03:45:00+00:00,Norway,0.303989294061139,0,1,he,NEU,Europe
@@ -99,7 +97,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,שריפה בדרום אפריקה,2025-12-02T03:41:00+00:00,South Africa,0.2587928345985154,1,1,he,WSAF,Africa
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,גל סערה reg. 4 קורדיירה,2025-12-04T03:42:00+00:00,Chile,0.2587146084225356,1,1,he,SWS,South-America
 '9044bc0335',extremes,Earthquake,#870007,usgs,רעידת אדמה ג'ורג'טאון,2025-11-30T03:46:00+00:00,Saint Helena,0.258696291317243,1,1,he,EAO,Atlantic Ocean
-'bf37dbf3d7',extremes,Thunderstorm,#53785a,wmo,שלום ניו זילנד,2025-12-02T03:41:00+00:00,New Zealand,0.25843352964560296,1,1,he,NZ,Oceania
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,גל סערה פרגוואי,2025-11-30T03:46:00+00:00,Paraguay,0.2585432559242093,1,1,he,SES,South-America
+'bf37dbf3d7',extremes,Thunderstorm,#53785a,wmo,שלום ניו זילנד,2025-12-02T03:41:00+00:00,New Zealand,0.2584335296456029,1,1,he,NZ,Oceania
 '291335c911',extremes,Drought,#edc291,edo,חוסר גבון גשם,2025-12-08T03:45:00+00:00,Gabon,0.2244817342600409,2,1,he,CAF,Africa
 '0d2f7df845',extremes,Drought,#edc291,edo,בצורת טריטוריה פלסטינית,2025-11-29T03:34:00+00:00,Palestinian Territory,0.223869793071393,2,1,he,MED,Asia
 '53af3d9646',extremes,Drought,#edc291,edo,בצורת טורקמניסטן,2025-12-15T03:54:00+00:00,Turkmenistan,0.2228018121872985,2,1,he,WCA,Asia
