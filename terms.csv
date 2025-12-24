@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2025-12-09T03:41:00+00:00,Israel,0.5023112965234471,2,1,he,MED,Asia
 '183de728c2',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-12-16T03:47:00+00:00,Israel,0.445636175854343,2,1,he,MED,Asia
 'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2025-12-12T03:45:00+00:00,Israel,0.3753801252572644,4,1,he,MED,Asia
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2025-12-10T03:45:00+00:00,Israel,0.3726116795265438,4,1,he,MED,Asia
@@ -117,7 +116,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8982a15e86',extremes,Wildfire,#d60d2b,wmo,שריפה בשטח צפוני בצפון,2025-12-01T04:02:00+00:00,Australia,0.2582050299510057,1,1,he,CAU,Oceania
 '3e99480ef7',extremes,Drought,#edc291,edo,חוסר גשם אוזבקיסטן,2025-12-06T03:32:00+00:00,Uzbekistan,0.2581433092486364,1,1,he,WCA,Asia
 'ebb583160c',extremes,Precipitation,#d60d2b,wmo,גשם שוטף של הרמה הגבוהה וחלקים מזרחיים,2025-12-06T03:32:00+00:00,Madagascar,0.2581407461048502,1,1,he,MDG,Africa
-'1c4e7fb6c7',extremes,Fog,#d60d2b,wmo,ערפל ליטא,2025-11-30T03:46:00+00:00,Lithuania,0.25813729573269506,1,1,he,WCE,Europe
+'1c4e7fb6c7',extremes,Fog,#d60d2b,wmo,ערפל ליטא,2025-11-30T03:46:00+00:00,Lithuania,0.258137295732695,1,1,he,WCE,Europe
 '06285e171c',extremes,Flood,#030ba1,wmo,מציפה את נורווגיה,2025-12-02T03:41:00+00:00,Norway,0.2580827573032458,1,1,he,NEU,Europe
 '388a6dbadc',extremes,Storm,#b3b2b1,wmo,סערה אלג'יריה,2025-12-06T03:32:00+00:00,Algeria,0.2580425451290766,1,1,he,SAH,Africa
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,סערה ונואטו,2025-12-06T03:32:00+00:00,Vanuatu,0.2580404535021183,1,1,he,SPO,Oceania
