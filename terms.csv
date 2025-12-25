@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2025-12-05T03:41:00+00:00,Israel,0.7211294718465368,0,1,he,MED,Asia
 'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2025-12-09T03:41:00+00:00,Israel,0.6925516986483696,0,1,he,MED,Asia
+'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2025-12-05T03:41:00+00:00,Israel,0.6135601110695562,1,1,he,MED,Asia
 '183de728c2',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-12-16T03:47:00+00:00,Israel,0.445636175854343,2,1,he,MED,Asia
-'6ae2fe0eac',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון,2025-12-16T03:47:00+00:00,Israel,0.3206436696176638,4,1,he,MED,Asia
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2025-12-10T03:45:00+00:00,Israel,0.3168699425975622,5,1,he,MED,Asia
 'e5cad95879',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ישראל,2025-12-10T03:45:00+00:00,Israel,0.3160614240596085,5,1,he,MED,Asia
 '7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-12-15T03:54:00+00:00,Israel,0.3040461018478802,4,1,he,MED,Asia
@@ -12,23 +11,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,גל חום רוסיה,2025-12-10T03:45:00+00:00,Russia,0.3024090499046859,0,1,he,ESB,Europe
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,גשם בניו זילנד,2025-12-02T03:41:00+00:00,New Zealand,0.3023686986462397,0,1,he,NZ,Oceania
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות איי שלמה,2025-12-10T03:45:00+00:00,Solomon Islands,0.3022670112011385,0,1,he,EPO,Oceania
-'559acde5fe',extremes,Fog,#d60d2b,wmo,ערפל סרביה,2025-12-01T04:02:00+00:00,Serbia,0.3022448158326494,0,1,he,MED,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות בארגנטינה,2025-12-14T03:49:00+00:00,Argentina,0.3020438869586991,0,1,he,SES,South-America
 '0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,שריפה בסין,2025-12-05T03:41:00+00:00,China,0.3020267391424865,0,1,he,EAS,Asia
-'5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,ברד קטאר,2025-12-13T03:38:00+00:00,Qatar,0.3020086304721588,0,1,he,ARP,Asia
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,סערה בחריין,2025-12-19T03:46:00+00:00,Bahrain,0.3019434617494929,0,1,he,ARP,Asia
 '05ddbeae20',extremes,Earthquake,#870007,usgs,רעידת אדמה רפובליקה דמוקרטית,2025-11-30T03:46:00+00:00,Democratic Republic,0.3019338998946773,0,1,he,SEAF,Africa
-'f3823dead6',extremes,Storm,#b3b2b1,wmo,גל סערה amazonía ecuatoriana,2025-12-18T03:44:00+00:00,Ecuador,0.30190898073177247,0,1,he,NWS,South-America
+'f3823dead6',extremes,Storm,#b3b2b1,wmo,גל סערה amazonía ecuatoriana,2025-12-18T03:44:00+00:00,Ecuador,0.3019089807317724,0,1,he,NWS,South-America
 '3c9166481f',extremes,Wildfire,#d60d2b,wmo,אש בשדה קוצים ויקטוריה מאלי,2025-12-05T03:41:00+00:00,Australia,0.3018910352463275,0,1,he,CAU,Oceania
-'5ec8a07269',extremes,Heat Wave,#c40202,wmo,גל חום מחוז קווינסלנד המפרץ.,2025-12-05T03:41:00+00:00,Australia,0.30188363808619717,0,1,he,CAU,Oceania
-'b354d99860',extremes,Snow&Ice,#d60d2b,wmo,שלג אתיופיה,2025-12-13T03:38:00+00:00,Ethiopia,0.30186670035220553,0,1,he,NEAF,Africa
-'4ae7b6e63c',extremes,Snow&Ice,#d60d2b,wmo,אתיופיה מקפיאה,2025-12-12T03:45:00+00:00,Ethiopia,0.30180969948284075,0,1,he,NEAF,Africa
+'5ec8a07269',extremes,Heat Wave,#c40202,wmo,גל חום מחוז קווינסלנד המפרץ.,2025-12-05T03:41:00+00:00,Australia,0.3018836380861971,0,1,he,CAU,Oceania
+'b354d99860',extremes,Snow&Ice,#d60d2b,wmo,שלג אתיופיה,2025-12-13T03:38:00+00:00,Ethiopia,0.3018667003522055,0,1,he,NEAF,Africa
+'4ae7b6e63c',extremes,Snow&Ice,#d60d2b,wmo,אתיופיה מקפיאה,2025-12-12T03:45:00+00:00,Ethiopia,0.3018096994828407,0,1,he,NEAF,Africa
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,סערה ברזיל,2025-12-14T03:49:00+00:00,Brazil,0.3018040627479539,0,1,he,SAM,South-America
 '0d9db7ec5c',extremes,Drought,#edc291,edo,יובש ישראל,2025-12-16T03:47:00+00:00,Israel,0.298950500985884,3,1,he,MED,Asia
 '5282102178',extremes,Flood,#030ba1,wmo,flashflood ישראל,2025-12-10T03:45:00+00:00,Israel,0.2946216796094272,5,1,he,MED,Asia
 'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2025-12-15T03:54:00+00:00,Israel,0.2895467469335014,4,1,he,MED,Asia
 '92e2638c77',extremes,Flood,#030ba1,wmo,מציף את ישראל,2025-12-12T03:45:00+00:00,Israel,0.2794551736579104,6,1,he,MED,Asia
 '423b70f0cc',extremes,Snow&Ice,#d60d2b,wmo,ice israel,2025-12-18T03:44:00+00:00,Israel,0.2788755777014431,5,1,he,MED,Asia
+'6ae2fe0eac',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון,2025-12-16T03:47:00+00:00,Israel,0.2725471191750142,5,1,he,MED,Asia
 '79c5f0a682',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ים צפון,2025-12-08T03:44:00+00:00,Israel,0.2723801044393563,5,1,he,MED,Asia
 'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2025-12-12T03:45:00+00:00,Israel,0.2712121404983735,6,1,he,MED,Asia
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,גל חום טריטוריה צפונית,2025-11-26T03:37:00+00:00,Australia,0.2705942852198221,1,1,he,NAU,Oceania
@@ -139,6 +137,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,גל סערה ברזיל,2025-12-14T03:49:00+00:00,Brazil,0.2571574304222133,1,1,he,SAM,South-America
 '3a583bc64a',extremes,Drought,#edc291,edo,תקופת יובש ברפובליקה המרכז אפריקאית,2025-12-03T03:40:00+00:00,Central African Republic,0.2570254020064553,1,1,he,CAF,Africa
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,מפולת סלעים נורווגיה,2025-12-12T03:45:00+00:00,Norway,0.2569966844988926,1,1,he,NEU,Europe
+'559acde5fe',extremes,Fog,#d60d2b,wmo,ערפל סרביה,2025-12-01T04:02:00+00:00,Serbia,0.25690809345775195,1,1,he,MED,Europe
 '50a3485796',extremes,Flood,#030ba1,wmo,מבול נורווגיה,2025-12-01T04:02:00+00:00,Norway,0.2568742402151612,1,1,he,NEU,Europe
 '87ba69f7f2',extremes,Storm,#b3b2b1,wmo,גל סערה המלדיביים,2025-12-01T04:02:00+00:00,Maldives,0.2568471298730987,1,1,he,EIO,Indian Ocean
 '11db661ab4',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה המלדיביים,2025-12-18T03:44:00+00:00,Maldives,0.256758686048425,1,1,he,EIO,Indian Ocean
