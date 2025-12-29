@@ -6,14 +6,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2025-12-09T03:41:00+00:00,Israel,0.3767279785375654,4,1,he,MED,Asia
 '37e971ba15',extremes,Fog,#d60d2b,wmo,ערפל עמק החולה עמק יזרעאל,2025-12-07T03:47:00+00:00,Israel,0.3703583760597524,4,1,he,MED,Asia
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2025-12-10T03:45:00+00:00,Israel,0.3168699425975622,5,1,he,MED,Asia
+'c85db986fe',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות מדגסקר,2025-12-06T03:32:00+00:00,Madagascar,0.30435429246648593,0,1,he,MDG,Africa
+'fb43bdaa2f',extremes,Drought,#edc291,edo,יובש סנט פייר ומיקלון,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.3013192013029018,0,1,he,ENA,North-America
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,גשם בארגנטינה,2025-12-16T03:47:00+00:00,Argentina,0.3012320105111286,0,1,he,SES,South-America
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,ציקלון אוסטרליה,2025-12-12T03:46:00+00:00,Australia,0.3011009710432263,0,1,he,NAU,Oceania
 '872efa97c6',extremes,Snow&Ice,#d60d2b,wmo,כפור דמפסטר,2025-12-03T03:40:00+00:00,Canada,0.3010617692466334,0,1,he,NEN,North-America
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,גל סערה איסלנד,2025-12-08T03:44:00+00:00,Iceland,0.3010192053750318,0,1,he,GIC,Europe
 '037bb37761',extremes,Flood,#030ba1,wmo,הצפה בארצות הברית,2025-12-07T03:47:00+00:00,United States,0.3009993724856827,0,1,he,CNA,North-America
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,שריפה בשדה קוצים בהודו,2025-12-19T03:46:00+00:00,India,0.300993607099314,0,1,he,SAS,Asia
 '2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,storm مملكة البحرين والمناطق المحيطة بها,2025-12-19T03:46:00+00:00,Bahrain,0.300971527926072,0,1,he,ARP,Asia
+'90353f7f8d',extremes,Fog,#d60d2b,wmo,ערפל הולנד,2025-12-05T03:41:00+00:00,Netherlands,0.3009374438560363,0,1,he,NEU,Europe
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,flashflood tillamook או,2025-12-09T03:41:00+00:00,United States,0.3009183860725961,0,1,he,CNA,North-America
 '38da30ea06',extremes,Storm,#b3b2b1,wmo,גל סערה taranaki,2025-12-02T03:41:00+00:00,New Zealand,0.3009030653734496,0,1,he,NZ,Oceania
+'57401e749f',extremes,Storm,#b3b2b1,wmo,סערה רג. 11 פטגוניה סובנדינה נורטה,2025-12-16T03:47:00+00:00,Chile,0.3008716145469334,0,1,he,SWS,South-America
+'8c64e91fe4',extremes,Precipitation,#d60d2b,wmo,אזורי משקעים של אזורי לינדי ומטווארה.,2025-12-18T03:44:00+00:00,Tanzania,0.3008697777240748,0,1,he,SEAF,Africa
+'432bab655c',extremes,Wildfire,#d60d2b,eonet,שריפה בארצות הברית,2025-12-07T03:46:00+00:00,United States,0.30083986015614533,0,1,he,ENA,North-America
+'8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,איסלנד מקפיאה,2025-12-10T03:45:00+00:00,Iceland,0.30080661967873623,0,1,he,GIC,Europe
+'98cf5a1a2b',extremes,Tsunami,#690191,usgs,צונאמי סוסיטנה,2025-11-30T03:46:00+00:00,Alaska,0.30073570934043803,0,1,he,NWN,North-America
+'fa77cf1f9e',extremes,Storm,#b3b2b1,wmo,storm mendoza gral alvear malargue.,2025-12-04T03:42:00+00:00,Argentina,0.30071607759849117,0,1,he,SES,South-America
 'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2025-12-15T03:54:00+00:00,Israel,0.2895467469335014,4,1,he,MED,Asia
 'e5cad95879',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ישראל,2025-12-10T03:45:00+00:00,Israel,0.2686522104506672,6,1,he,MED,Asia
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,מבול אלבניה,2025-11-30T03:47:00+00:00,Albania,0.2675617544256781,1,1,he,MED,Europe
