@@ -184,7 +184,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,גל חום צ'ילה,2025-12-04T03:42:00+00:00,Chile,0.2199802197077019,2,1,he,SWS,South-America
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,גל סערה reg. 4 קורדיירה,2025-12-04T03:42:00+00:00,Chile,0.2199074171591552,2,1,he,SWS,South-America
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,אש בשדה קוצים madhya pradesh,2025-11-30T03:46:00+00:00,India,0.2198864236577934,2,1,he,SAS,Asia
-'7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-12-15T03:54:00+00:00,Israel,0.21982332358509346,6,1,he,MED,Asia
+'7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-12-15T03:54:00+00:00,Israel,0.2198233235850934,6,1,he,MED,Asia
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,גל סערה דרום אפריקה,2025-12-01T04:02:00+00:00,South Africa,0.219783041211727,2,1,he,WSAF,Africa
 'bf37dbf3d7',extremes,Thunderstorm,#53785a,wmo,שלום ניו זילנד,2025-12-02T03:41:00+00:00,New Zealand,0.2196685001987624,2,1,he,NZ,Oceania
 '14ecb8c2a0',extremes,Drought,#edc291,edo,בצורת ניגריה,2025-12-08T03:45:00+00:00,Nigeria,0.2195686788713353,2,1,he,WAF,Africa
