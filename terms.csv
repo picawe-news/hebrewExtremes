@@ -1,11 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2025-12-09T03:41:00+00:00,Israel,0.3214189017569306,5,1,he,MED,Asia
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2025-12-10T03:45:00+00:00,Israel,0.3168699425975622,5,1,he,MED,Asia
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,ערפל בלגיה,2025-12-14T03:49:00+00:00,Belgium,0.3005953112388111,0,1,he,WCE,Europe
 'e2082c3612',extremes,Storm,#b3b2b1,wmo,גל סערה דרום איסלנד,2025-12-01T04:02:00+00:00,Iceland,0.3005878200897114,0,1,he,GIC,Europe
 '33cc9b24b0',extremes,Cold Wave,#a7e9fa,wmo,גל קר gongliu מחוז,2025-12-10T03:45:00+00:00,China,0.3005787083291602,0,1,he,EAS,Asia
 '63f0055272',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה khâi ma pofadder beaufort west,2025-12-16T03:47:00+00:00,South Africa,0.3005772437256646,0,1,he,WSAF,Africa
 '26ee8382ea',extremes,Snow&Ice,#d60d2b,wmo,מקפיא סימקו דלהי נורפולק,2025-12-01T04:02:00+00:00,Canada,0.3005662233564166,0,1,he,NEN,North-America
+'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2025-12-09T03:41:00+00:00,Israel,0.2912228681600577,6,1,he,MED,Asia
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות בזונה סור,2025-12-19T03:46:00+00:00,Ecuador,0.2617750135316664,1,1,he,NWS,South-America
 'c4be795f03',extremes,Drought,#edc291,edo,חוסר גשם גינאה המשוונית,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.2610809309296003,1,1,he,WAF,Africa
 'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,משקעים אלבניה,2025-12-01T04:03:00+00:00,Albania,0.2604142095873037,1,1,he,MED,Europe
@@ -20,7 +20,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc8be80c47',extremes,Drought,#edc291,edo,יובש באיי פארו,2025-12-05T03:41:00+00:00,Faroe Islands,0.2586500118598764,1,1,he,NEU,Europe
 '80d6b52deb',extremes,Precipitation,#d60d2b,wmo,torrential rain على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.2586363034560902,1,1,he,SAH,Africa
 'a2c72301a8',extremes,Drought,#edc291,edo,בצורת קמרון,2025-12-08T03:45:00+00:00,Cameroon,0.2586153776418636,1,1,he,CAF,Africa
-'8be002d270',extremes,Drought,#edc291,edo,חוסר גשם בוונצואלה,2025-12-02T03:41:00+00:00,Venezuela,0.2585569729723719,1,1,he,NSA,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,גל סערה פרגוואי,2025-11-30T03:46:00+00:00,Paraguay,0.2585432559242093,1,1,he,SES,South-America
 '46e78fc4cd',extremes,Precipitation,#d60d2b,wmo,גשם מלדיביים,2025-11-30T03:46:00+00:00,Maldives,0.2585325414206185,1,1,he,EIO,Indian Ocean
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,מפולת קנדה,2025-12-10T03:45:00+00:00,Canada,0.2585292280341497,1,1,he,NEN,North-America
