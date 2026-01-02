@@ -1,11 +1,21 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'5282102178',extremes,Flood,#030ba1,wmo,flashflood ישראל,2025-12-10T03:45:00+00:00,Israel,0.7388773811985954,0,1,he,MED,Asia
+'37e971ba15',extremes,Fog,#d60d2b,wmo,ערפל עמק החולה עמק יזרעאל,2025-12-07T03:47:00+00:00,Israel,0.7094903098569272,0,1,he,MED,Asia
+'79c5f0a682',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ים צפון,2025-12-08T03:44:00+00:00,Israel,0.6138761397844575,0,1,he,MED,Asia
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2025-12-10T03:45:00+00:00,Israel,0.5904914015419291,2,2,he,MED,Asia
 '92e2638c77',extremes,Flood,#030ba1,wmo,מציף את ישראל,2025-12-12T03:45:00+00:00,Israel,0.5356258567363111,2,1,he,MED,Asia
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2025-12-05T03:41:00+00:00,Israel,0.5221261544091228,2,1,he,MED,Asia
 'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2025-12-12T03:45:00+00:00,Israel,0.5195572667920615,2,1,he,MED,Asia
 'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2025-12-09T03:41:00+00:00,Israel,0.5028663520234471,2,1,he,MED,Asia
 'e5cad95879',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ישראל,2025-12-10T03:45:00+00:00,Israel,0.3718369694818924,4,1,he,MED,Asia
-'aab7909052',extremes,Fog,#d60d2b,wmo,ערפל ישראל,2025-12-07T03:47:00+00:00,Israel,0.32865587349070097,5,1,he,MED,Asia
+'aab7909052',extremes,Fog,#d60d2b,wmo,ערפל ישראל,2025-12-07T03:47:00+00:00,Israel,0.3286558734907009,5,1,he,MED,Asia
+'6dfc67df50',extremes,Flood,#030ba1,cmeter,מבול אלבניה,2025-11-30T03:47:00+00:00,Albania,0.31477853461844485,0,1,he,MED,Europe
+'99d338c49c',extremes,Drought,#edc291,edo,בצורת אוזבקיסטן,2025-11-30T03:47:00+00:00,Uzbekistan,0.30805157951839723,0,1,he,WCA,Asia
+'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,משקעים אלבניה,2025-12-01T04:03:00+00:00,Albania,0.30636965833800445,0,1,he,MED,Europe
+'4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,ציקלון ציקלון להעניק קתרין שיטפונות רכבת ירידת פסים לשפוך כימיקלים,2025-12-01T04:03:00+00:00,Australia,0.3048591746563622,0,1,he,NAU,Oceania
+'7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ניו זילנד,2025-11-30T03:46:00+00:00,New Zealand,0.3045580522474928,0,1,he,NZ,Oceania
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,אש בשדה קוצים madhya pradesh,2025-11-30T03:46:00+00:00,India,0.30434107080663475,0,1,he,SAS,Asia
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,גל סערה פרגוואי,2025-11-30T03:46:00+00:00,Paraguay,0.30416853638142277,0,1,he,SES,South-America
 '8a654473a4',extremes,Drought,#edc291,edo,בצורת סאו טומה ופרינסיפה,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.2659355972009389,1,1,he,WAF,Africa
 'da5c6d0821',extremes,Drought,#edc291,edo,חוסר גשם בקירגיזסטן,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.2624998685311933,1,1,he,WCA,Asia
 'c4be795f03',extremes,Drought,#edc291,edo,חוסר גשם גינאה המשוונית,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.2610809309296003,1,1,he,WAF,Africa
@@ -156,14 +166,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '25bb73581e',extremes,Flood,#030ba1,wmo,פלאש מבול פיליפינים,2025-12-07T03:47:00+00:00,Philippines,0.218500964705727,2,1,he,SEA,Asia
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,גל חום רוסיה,2025-12-10T03:45:00+00:00,Russia,0.2184905385561355,2,1,he,ESB,Europe
 '3a583bc64a',extremes,Drought,#edc291,edo,תקופת יובש ברפובליקה המרכז אפריקאית,2025-12-03T03:40:00+00:00,Central African Republic,0.218471591705487,2,1,he,CAF,Africa
-'8abdb9b5f3',extremes,Landslide,#572c03,wmo,מפולת סלעים נורווגיה,2025-12-12T03:45:00+00:00,Norway,0.21844718182405873,2,1,he,NEU,Europe
+'8abdb9b5f3',extremes,Landslide,#572c03,wmo,מפולת סלעים נורווגיה,2025-12-12T03:45:00+00:00,Norway,0.2184471818240587,2,1,he,NEU,Europe
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,אש בשדה קוצים רוסיה,2025-12-07T03:47:00+00:00,Russia,0.2184180453454726,2,1,he,ESB,Europe
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות איי שלמה,2025-12-10T03:45:00+00:00,Solomon Islands,0.2183879155928225,2,1,he,EPO,Oceania
 '11db661ab4',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה המלדיביים,2025-12-18T03:44:00+00:00,Maldives,0.2182448831411612,2,1,he,EIO,Indian Ocean
 '8f29727ea9',extremes,Drought,#edc291,edo,בצורת גינאה המשוונית,2025-12-05T03:41:00+00:00,Equatorial Guinea,0.2181931865454772,2,1,he,WAF,Africa
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,סערה בחריין,2025-12-19T03:46:00+00:00,Bahrain,0.2181541511140085,2,1,he,ARP,Asia
 'f3823dead6',extremes,Storm,#b3b2b1,wmo,גל סערה amazonía ecuatoriana,2025-12-18T03:44:00+00:00,Ecuador,0.2181292385787055,2,1,he,NWS,South-America
-'5ec8a07269',extremes,Heat Wave,#c40202,wmo,גל חום מחוז קווינסלנד המפרץ.,2025-12-05T03:41:00+00:00,Australia,0.21811092851727737,2,1,he,CAU,Oceania
+'5ec8a07269',extremes,Heat Wave,#c40202,wmo,גל חום מחוז קווינסלנד המפרץ.,2025-12-05T03:41:00+00:00,Australia,0.2181109285172773,2,1,he,CAU,Oceania
 '4ae7b6e63c',extremes,Snow&Ice,#d60d2b,wmo,אתיופיה מקפיאה,2025-12-12T03:45:00+00:00,Ethiopia,0.2180575078763524,2,1,he,NEAF,Africa
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,משקעים אקוודור,2025-12-19T03:46:00+00:00,Ecuador,0.2180288361283774,2,1,he,NWS,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,סערה אקוודור,2025-12-19T03:46:00+00:00,Ecuador,0.217894413515714,2,1,he,NWS,South-America
@@ -178,5 +188,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי 08p,2025-12-16T03:46:00+00:00,,0.1888132542368745,3,1,he,SPO,Pacific Ocean
 '9d50c81991',extremes,Precipitation,#d60d2b,wmo,משקעים eswatini,2025-12-14T03:49:00+00:00,Eswatini,0.1871116395952297,3,1,he,ESAF,Africa
 'a999041fe7',extremes,Precipitation,#d60d2b,wmo,גשם בלוב,2025-12-05T03:41:00+00:00,Libya,0.1870146886540956,3,1,he,SAH,Africa
-'dc8be80c47',extremes,Drought,#edc291,edo,יובש באיי פארו,2025-12-05T03:41:00+00:00,Faroe Islands,0.18687463356876066,3,1,he,NEU,Europe
+'dc8be80c47',extremes,Drought,#edc291,edo,יובש באיי פארו,2025-12-05T03:41:00+00:00,Faroe Islands,0.1868746335687606,3,1,he,NEU,Europe
 '53af3d9646',extremes,Drought,#edc291,edo,בצורת טורקמניסטן,2025-12-15T03:54:00+00:00,Turkmenistan,0.1609743093053231,4,1,he,WCA,Asia
