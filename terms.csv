@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'92e2638c77',extremes,Flood,#030ba1,wmo,מציף את ישראל,2025-12-12T03:45:00+00:00,Israel,0.7409665453097732,0,1,he,MED,Asia
 '183de728c2',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-12-16T03:47:00+00:00,Israel,0.6167974752309245,0,1,he,MED,Asia
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2025-12-05T03:41:00+00:00,Israel,0.6134100960695562,1,1,he,MED,Asia
 'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2025-12-12T03:45:00+00:00,Israel,0.6112438432847782,1,1,he,MED,Asia
@@ -22,8 +21,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,גל קר הודו,2025-12-08T03:44:00+00:00,India,0.308512567006855,0,1,he,SAS,Asia
 '2407b3a8ab',extremes,Drought,#edc291,edo,יובש בורונדי,2025-12-03T03:40:00+00:00,Burundi,0.3081721571027289,0,1,he,SEAF,Africa
 '99d338c49c',extremes,Drought,#edc291,edo,בצורת אוזבקיסטן,2025-11-30T03:47:00+00:00,Uzbekistan,0.3080515795183972,0,1,he,WCA,Asia
-'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,משקעים אלבניה,2025-12-01T04:03:00+00:00,Albania,0.30636965833800445,0,1,he,MED,Europe
-'0626237bf9',extremes,Flood,#030ba1,cmeter,מבול טירנה,2025-12-06T03:33:00+00:00,Albania,0.30530404541526246,0,1,he,MED,Europe
+'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,משקעים אלבניה,2025-12-01T04:03:00+00:00,Albania,0.3063696583380044,0,1,he,MED,Europe
+'0626237bf9',extremes,Flood,#030ba1,cmeter,מבול טירנה,2025-12-06T03:33:00+00:00,Albania,0.3053040454152624,0,1,he,MED,Europe
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,סערה אורוגוואי,2025-12-02T03:41:00+00:00,Uruguay,0.3049937080995548,0,1,he,SES,South-America
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,גל סערה אורוגוואי,2025-12-02T03:41:00+00:00,Uruguay,0.3048721290934512,0,1,he,SES,South-America
 '4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,ציקלון ציקלון להעניק קתרין שיטפונות רכבת ירידת פסים דליפה כימית,2025-12-01T04:03:00+00:00,Australia,0.3048591746563622,0,1,he,NAU,Oceania
