@@ -1,22 +1,19 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '92e2638c77',extremes,Flood,#030ba1,wmo,מציף את ישראל,2025-12-12T03:45:00+00:00,Israel,0.6299715785133072,1,1,he,MED,Asia
 'aab7909052',extremes,Fog,#d60d2b,wmo,ערפל ישראל,2025-12-07T03:47:00+00:00,Israel,0.6296014147162052,1,1,he,MED,Asia
-'423b70f0cc',extremes,Snow&Ice,#d60d2b,wmo,ice israel,2025-12-18T03:44:00+00:00,Israel,0.6285153002341914,0,1,he,MED,Asia
 '5282102178',extremes,Flood,#030ba1,wmo,flashflood ישראל,2025-12-10T03:45:00+00:00,Israel,0.628045774018806,1,1,he,MED,Asia
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2025-12-05T03:41:00+00:00,Israel,0.6134100960695562,1,1,he,MED,Asia
 'e5cad95879',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ישראל,2025-12-10T03:45:00+00:00,Israel,0.6054744058325138,1,1,he,MED,Asia
 '37e971ba15',extremes,Fog,#d60d2b,wmo,ערפל עמק החולה עמק יזרעאל,2025-12-07T03:47:00+00:00,Israel,0.603066763378388,1,1,he,MED,Asia
-'02842ef41a',extremes,Fog,#d60d2b,wmo,ערפל מהמר עמק שאן עמק החולה,2025-12-14T03:49:00+00:00,Israel,0.5751419503385474,1,1,he,MED,Asia
 'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2025-12-09T03:41:00+00:00,Israel,0.537276324273447,2,1,he,MED,Asia
+'423b70f0cc',extremes,Snow&Ice,#d60d2b,wmo,ice israel,2025-12-18T03:44:00+00:00,Israel,0.5342380051990627,1,1,he,MED,Asia
+'02842ef41a',extremes,Fog,#d60d2b,wmo,ערפל מהמר עמק שאן עמק החולה,2025-12-14T03:49:00+00:00,Israel,0.4888706577877653,2,1,he,MED,Asia
 '183de728c2',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-12-16T03:47:00+00:00,Israel,0.445913703604343,2,1,he,MED,Asia
 '6ae2fe0eac',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון,2025-12-16T03:47:00+00:00,Israel,0.4437974665988426,3,1,he,MED,Asia
 '79c5f0a682',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ים צפון,2025-12-08T03:44:00+00:00,Israel,0.4435255109942705,2,1,he,MED,Asia
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2025-12-10T03:45:00+00:00,Israel,0.4381901935606398,3,1,he,MED,Asia
 '7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-12-15T03:54:00+00:00,Israel,0.4211025822107339,2,1,he,MED,Asia
 'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2025-12-15T03:54:00+00:00,Israel,0.3406432316864723,3,1,he,MED,Asia
-'b747714817',extremes,Cold Wave,#a7e9fa,acwe,גל קר ויקטוריה,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,1,he,SAU,Oceania
-'8a654473a4',extremes,Drought,#edc291,edo,בצורת סאו טומה ופרינסיפה,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.3128654084716928,0,1,he,WAF,Africa
-'291335c911',extremes,Drought,#edc291,edo,חוסר גשם גאבון,2025-12-08T03:45:00+00:00,Gabon,0.3107013622976347,0,1,he,CAF,Africa
 '5a20612e67',extremes,Drought,#edc291,edo,חוסר גשם טרינידד וטובגו,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.3098781522363908,0,1,he,NSA,North-America
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,הודו מקפיאה,2025-12-07T03:47:00+00:00,India,0.3094058161213626,0,1,he,SAS,Asia
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,סופת רעמים אוסטרליה,2025-12-05T03:41:00+00:00,Australia,0.3087605287264497,0,1,he,SAU,Oceania
@@ -30,10 +27,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a999041fe7',extremes,Precipitation,#d60d2b,wmo,גשם בלוב,2025-12-05T03:41:00+00:00,Libya,0.3045221879162967,0,1,he,SAH,Africa
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,גל חום צ'ילה,2025-12-04T03:42:00+00:00,Chile,0.3044708923289994,0,1,he,SWS,South-America
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,שריפה בדרום אפריקה,2025-12-02T03:41:00+00:00,South Africa,0.3044621583511946,0,1,he,WSAF,Africa
-'0f045e33e1',extremes,Storm,#b3b2b1,wmo,גל סערה reg. 4 קורדיירה,2025-12-04T03:42:00+00:00,Chile,0.3043701275559243,0,1,he,SWS,South-America
 '6977afac24',extremes,Volcano,#b83202,eonet,puracé volcano colombia,2025-12-06T03:32:00+00:00,Colombia,0.2699202938116671,1,1,he,NWS,South-America
 'cc855d70a2',extremes,Drought,#edc291,edo,יובש טג'יקיסטן,2025-12-08T03:45:00+00:00,Tajikistan,0.2633944886786648,1,1,he,WCA,Asia
-'5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,גל קר הודו,2025-12-08T03:44:00+00:00,India,0.2622356819558267,1,1,he,SAS,Asia
 '56dca2743f',extremes,Drought,#edc291,edo,גינאה המשוונית יבשה,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.2616682886476174,1,1,he,WAF,Africa
 'c4be795f03',extremes,Drought,#edc291,edo,חוסר גשם גינאה המשוונית,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.2610809309296003,1,1,he,WAF,Africa
 '0626237bf9',extremes,Flood,#030ba1,cmeter,מבול טירנה,2025-12-06T03:33:00+00:00,Albania,0.259508438602973,1,1,he,MED,Europe
@@ -91,13 +86,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa56a8832c',extremes,Snow&Ice,#d60d2b,wmo,מפולת אתיופיה,2025-12-14T03:49:00+00:00,Ethiopia,0.2177985404399654,2,1,he,NEAF,Africa
 '20a8865cfc',extremes,Storm,#b3b2b1,aidr,סערה בריסביין 2014,2025-12-13T03:38:00+00:00,Australia,0.2176752455443875,2,1,he,EAU,Oceania
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,סערה ליטורל,2025-12-19T03:46:00+00:00,Ecuador,0.2176039223343179,2,1,he,NWS,South-America
-'00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,ציקלון אוסטרליה,2025-12-12T03:46:00+00:00,Australia,0.2175454515787309,2,1,he,NAU,Oceania
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,ערפל בלגיה,2025-12-14T03:49:00+00:00,Belgium,0.2171801123700409,2,1,he,WCE,Europe
 '9d50c81991',extremes,Precipitation,#d60d2b,wmo,משקעים eswatini,2025-12-14T03:49:00+00:00,Eswatini,0.1871116395952297,3,1,he,ESAF,Africa
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,מפולת סלעים נורווגיה,2025-12-12T03:45:00+00:00,Norway,0.1856801045504499,3,1,he,NEU,Europe
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,גל סערה בארגנטינה,2025-12-14T03:49:00+00:00,Argentina,0.1853084599842722,3,1,he,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,סערה ארגנטינה,2025-12-14T03:49:00+00:00,Argentina,0.1852729699760635,3,1,he,SES,South-America
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,משקעים litoral,2025-12-18T03:44:00+00:00,Ecuador,0.1850722480840065,3,1,he,NWS,South-America
+'00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,ציקלון אוסטרליה,2025-12-12T03:46:00+00:00,Australia,0.18491363384192125,3,1,he,NAU,Oceania
 '2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,storm مملكة البحرين والمناطق المحيطة بها,2025-12-19T03:46:00+00:00,Bahrain,0.1848341395875989,3,1,he,ARP,Asia
 '53af3d9646',extremes,Drought,#edc291,edo,בצורת טורקמניסטן,2025-12-15T03:54:00+00:00,Turkmenistan,0.1609743093053231,4,1,he,WCA,Asia
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי 08p,2025-12-16T03:46:00+00:00,,0.1604912661013433,4,1,he,SPO,Pacific Ocean
