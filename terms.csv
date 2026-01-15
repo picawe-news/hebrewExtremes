@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-01-15T10:56:00+00:00,Israel,0.6849209228488521,0,1,he,MED,Asia
 '5282102178',extremes,Flood,#030ba1,wmo,פלאשפליד ישראל,2025-12-10T03:45:00+00:00,Israel,0.628045774018806,1,1,he,MED,Asia
 'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2025-12-09T03:41:00+00:00,Israel,0.6111476202796855,1,1,he,MED,Asia
 '02842ef41a',extremes,Fog,#d60d2b,wmo,ערפל מהמר עמק שאן עמק החולה,2025-12-14T03:49:00+00:00,Israel,0.5751419503385474,1,1,he,MED,Asia
