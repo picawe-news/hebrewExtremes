@@ -13,6 +13,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '423b70f0cc',extremes,Snow&Ice,#d60d2b,wmo,ice israel,2025-12-18T03:44:00+00:00,Israel,0.3859869587563228,3,1,he,MED,Asia
 '183de728c2',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-12-16T03:47:00+00:00,Israel,0.3791766630636916,3,1,he,MED,Asia
 '6ae2fe0eac',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון,2025-12-16T03:47:00+00:00,Israel,0.3772278466090162,3,1,he,MED,Asia
+'a241cba1ba',extremes,Volcano,#b83202,eonet,אמבריים געש ונואטו,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,he,SPO,Oceania
+'6f7179aa00',extremes,Volcano,#b83202,eonet,הר געש פיליפינים,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,he,SEA,Asia
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,נהר מציף את אוסטרליה,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,he,EAU,Oceania
+'ebe314dd99',extremes,Flood,#030ba1,aidr,גשמים כבדים ושיטפונות קווינסלנד בפברואר 2020,2026-01-15T10:57:00+00:00,Australia,0.3199146917595632,0,1,he,EAU,Oceania
+'02f56319a7',extremes,Flood,#030ba1,wmo,הצפה אוסטרליה,2026-01-15T10:56:00+00:00,Australia,0.3199135658236194,0,1,he,CAU,Oceania
+'3894a694d1',extremes,Flood,#030ba1,aidr,שיטפון הבזק אוסטרליה,2026-01-15T10:57:00+00:00,Australia,0.3199061281685654,0,1,he,EAU,Oceania
+'c797f587a9',extremes,Flood,#030ba1,aidr,מבול boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.31972742418184474,0,1,he,EAU,Oceania
+'2407b3a8ab',extremes,Drought,#edc291,edo,יובש בורונדי,2026-01-15T10:57:00+00:00,Burundi,0.3196375825182323,0,1,he,SEAF,Africa
+'f6ff301646',extremes,Drought,#edc291,edo,בצורת סומליה,2026-01-15T10:57:00+00:00,Somalia,0.3195655994444291,0,1,he,NEAF,Africa
+'d9cc56f031',extremes,Drought,#edc291,edo,תקופה יבשה טג'יקיסטן,2026-01-15T10:57:00+00:00,Tajikistan,0.31956404664829663,0,1,he,WCA,Asia
 '5ea67ea4a7',extremes,Drought,#edc291,edo,בצורת טרינידד וטובגו,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.3113742365775311,0,1,he,NSA,North-America
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי 08p,2025-12-16T03:46:00+00:00,,0.2695350848605743,1,1,he,SPO,Pacific Ocean
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות ברזיל,2025-12-18T03:44:00+00:00,Brazil,0.2561731939153775,1,1,he,SAM,South-America
