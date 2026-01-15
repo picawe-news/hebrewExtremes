@@ -33,3 +33,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3421a57149',extremes,Storm,#b3b2b1,wmo,סערה אקוודור,2025-12-19T03:46:00+00:00,Ecuador,0.217894413515714,2,1,he,NWS,South-America
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,סערה ליטורל,2025-12-19T03:46:00+00:00,Ecuador,0.2176039223343179,2,1,he,NWS,South-America
 '63f0055272',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה khâi ma pofadder beaufort west,2025-12-16T03:47:00+00:00,South Africa,0.2171670585917926,2,1,he,WSAF,Africa
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,השנה הקרה ביותר,2026-01-15T10:20:00+00:00,,0.14717214146114996,0,1,he,,
+'b6cef22543',extremes,Drought,#edc291,random,הגבלת מים,2026-01-15T10:20:00+00:00,,0.14669966665781384,0,1,he,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,נהר אטמוספרי,2026-01-15T10:20:00+00:00,,0.14657695119733327,0,1,he,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,קור שיא,2026-01-15T10:20:00+00:00,,0.14652936773153366,0,1,he,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,קרח ים ארקטי,2026-01-15T10:20:00+00:00,,0.14641731972714797,0,1,he,,
+'0053afc92f',extremes,Volcano,#b83202,random,להאר,2026-01-15T10:20:00+00:00,,0.14629143172280423,0,1,he,,
+'ccefefc59e',extremes,Drought,#edc291,random,בצורת הבזק,2026-01-15T10:20:00+00:00,,0.14619512245492347,0,1,he,,
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,טייפון,2026-01-15T10:20:00+00:00,,0.14609905309045487,0,1,he,,
+'f90601fa23',extremes,Volcano,#b83202,random,התפרצות הר געש,2026-01-15T10:20:00+00:00,,0.1456038068151502,0,1,he,,
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,הקרחון,2026-01-15T10:20:00+00:00,,0.1445099887501987,0,1,he,,
