@@ -1,9 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-01-15T10:56:00+00:00,Israel,0.6849209228488521,0,1,he,MED,Asia
 'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2025-12-09T03:41:00+00:00,Israel,0.6111476202796855,1,1,he,MED,Asia
 '02842ef41a',extremes,Fog,#d60d2b,wmo,ערפל מהמר עמק שאן עמק החולה,2025-12-14T03:49:00+00:00,Israel,0.5751419503385474,1,1,he,MED,Asia
-'5282102178',extremes,Flood,#030ba1,wmo,פלאשפליד ישראל,2025-12-10T03:45:00+00:00,Israel,0.5338389079159851,2,1,he,MED,Asia
-'79c5f0a682',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ים צפון,2025-12-08T03:44:00+00:00,Israel,0.5217947188167888,1,1,he,MED,Asia
 'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2025-12-12T03:45:00+00:00,Israel,0.5195572667920615,2,1,he,MED,Asia
 'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2025-12-15T03:54:00+00:00,Israel,0.4714785213653597,1,1,he,MED,Asia
 '7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2025-12-15T03:54:00+00:00,Israel,0.4211025822107339,2,1,he,MED,Asia
@@ -18,18 +15,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2c38aada07',extremes,Earthquake,#870007,usgs,רעידת אדמה קולצ'אן,2026-01-15T12:13:00+00:00,Chile,0.3198596275137257,0,1,he,SWS,South-America
 '3a67915e02',extremes,Earthquake,#870007,usgs,רעידת אדמה פרו,2026-01-15T10:56:00+00:00,Peru,0.3198570624267367,0,1,he,NWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,רעידת אדמה ollagüe,2026-01-15T10:56:00+00:00,Chile,0.3198565627261572,0,1,he,SWS,South-America
-'6bad2a8cbc',extremes,Earthquake,#870007,usgs,רעידת אדמה בסן אגוסטין דה ואלה פרטיל,2026-01-15T12:13:00+00:00,Argentina,0.31985378893005517,0,1,he,SES,South-America
+'6bad2a8cbc',extremes,Earthquake,#870007,usgs,רעידת אדמה בסן אגוסטין דה ואלה פרטיל,2026-01-15T12:13:00+00:00,Argentina,0.3198537889300551,0,1,he,SES,South-America
 '1a17358ebb',extremes,Tsunami,#690191,usgs,צונאמי טובלו,2026-01-15T10:56:00+00:00,Indonesia,0.3198470378843532,0,1,he,SEA,Asia
 '26349abe17',extremes,Tsunami,#690191,usgs,תחנת צונאמי אטו,2026-01-15T12:13:00+00:00,Alaska,0.3198458782942405,0,1,he,NPO,Pacific Ocean
 '464d595634',extremes,Earthquake,#870007,usgs,רעידת אדמה camiña,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,1,he,SWS,South-America
 '018b9ccc96',extremes,Earthquake,#870007,usgs,רעידת אדמה אזור איחוד מאוריציוס,2026-01-15T10:56:00+00:00,,0.3198426792048654,0,1,he,SIO,Indian Ocean
-'76ad379230',extremes,Earthquake,#870007,usgs,רעידת אדמה petropavlovsk kamchatsky,2026-01-15T10:56:00+00:00,Russia,0.31984194914788205,0,1,he,RFE,Asia
+'76ad379230',extremes,Earthquake,#870007,usgs,רעידת אדמה petropavlovsk kamchatsky,2026-01-15T10:56:00+00:00,Russia,0.319841949147882,0,1,he,RFE,Asia
 '4d51911b1d',extremes,Earthquake,#870007,usgs,רעידת אדמה סולה,2026-01-15T10:56:00+00:00,Vanuatu,0.319832409967632,0,1,he,SPO,Pacific Ocean
-'6b1cc9478a',extremes,Earthquake,#870007,usgs,רעידת אדמה mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.31983046756362477,0,1,he,NSA,South-America
+'6b1cc9478a',extremes,Earthquake,#870007,usgs,רעידת אדמה mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.3198304675636247,0,1,he,NSA,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,רעידת אדמה בסן אנטוניו דה לוס קוברס,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,he,SES,South-America
-'fa8badb0c3',extremes,Tsunami,#690191,usgs,צונאמי בקולין,2026-01-15T10:56:00+00:00,Philippines,0.31982732708285266,0,1,he,SEA,Asia
-'23ad2bb822',extremes,Earthquake,#870007,usgs,רעידת אדמה רוסיה,2026-01-15T10:56:00+00:00,Russia,0.31982705319807875,0,1,he,EAS,Asia
-'2617cc6cc9',extremes,Earthquake,#870007,usgs,רעידת אדמה ניו זילנד,2026-01-15T10:56:00+00:00,New Zealand,0.31982595775366973,0,1,he,NZ,Oceania
+'fa8badb0c3',extremes,Tsunami,#690191,usgs,צונאמי בקולין,2026-01-15T10:56:00+00:00,Philippines,0.3198273270828526,0,1,he,SEA,Asia
+'23ad2bb822',extremes,Earthquake,#870007,usgs,רעידת אדמה רוסיה,2026-01-15T10:56:00+00:00,Russia,0.3198270531980787,0,1,he,EAS,Asia
+'2617cc6cc9',extremes,Earthquake,#870007,usgs,רעידת אדמה ניו זילנד,2026-01-15T10:56:00+00:00,New Zealand,0.3198259577536697,0,1,he,NZ,Oceania
 'c797f587a9',extremes,Flood,#030ba1,aidr,מבול boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.3197274241818447,0,1,he,EAU,Oceania
 '2407b3a8ab',extremes,Drought,#edc291,edo,יובש בורונדי,2026-01-15T10:57:00+00:00,Burundi,0.3196375825182323,0,1,he,SEAF,Africa
 'f6ff301646',extremes,Drought,#edc291,edo,בצורת סומליה,2026-01-15T10:57:00+00:00,Somalia,0.3195655994444291,0,1,he,NEAF,Africa
@@ -44,18 +41,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,שריפה בשדה קוצים בהודו,2025-12-19T03:46:00+00:00,India,0.2558445660344169,2,1,he,SAS,Asia
 '57401e749f',extremes,Storm,#b3b2b1,wmo,סערה רג. 11 פטגוניה סובנדינה נורטה,2025-12-16T03:47:00+00:00,Chile,0.2557408723648934,1,1,he,SWS,South-America
 '8c64e91fe4',extremes,Precipitation,#d60d2b,wmo,אזורי משקעים של אזורי לינדי ומטווארה.,2025-12-18T03:44:00+00:00,Tanzania,0.2557393110654636,1,1,he,SEAF,Africa
-'5ff816cd7a',extremes,Thunderstorm,#53785a,wmo,ברד ונואטו,2025-12-13T03:38:00+00:00,Vanuatu,0.2555139021826629,1,1,he,SPO,Oceania
-'5d85dc5645',extremes,Drought,#edc291,edo,יובש ברואנדה,2025-12-16T03:47:00+00:00,Rwanda,0.2237896183950655,2,1,he,SEAF,Africa
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות בזונה סור,2025-12-19T03:46:00+00:00,Ecuador,0.2225087615019164,2,1,he,NWS,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,גשם שוטף ברזיל,2025-12-18T03:44:00+00:00,Brazil,0.2224833242669587,2,1,he,SAM,South-America
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,storm zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.218667669676795,2,1,he,NWS,South-America
 '11db661ab4',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה המלדיביים,2025-12-18T03:44:00+00:00,Maldives,0.2182448831411612,2,1,he,EIO,Indian Ocean
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,סערה בחריין,2025-12-19T03:46:00+00:00,Bahrain,0.2181541511140085,2,1,he,ARP,Asia
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,משקעים אקוודור,2025-12-19T03:46:00+00:00,Ecuador,0.2180288361283774,2,1,he,NWS,South-America
-'5998b1a528',extremes,Thunderstorm,#53785a,wmo,ברד איי סיישל,2025-12-16T03:47:00+00:00,Seychelles,0.217950780113554,2,1,he,EIO,Africa
 '3421a57149',extremes,Storm,#b3b2b1,wmo,סערה אקוודור,2025-12-19T03:46:00+00:00,Ecuador,0.217894413515714,2,1,he,NWS,South-America
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,סערה ליטורל,2025-12-19T03:46:00+00:00,Ecuador,0.2176039223343179,2,1,he,NWS,South-America
-'63f0055272',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה khâi ma pofadder beaufort west,2025-12-16T03:47:00+00:00,South Africa,0.2171670585917926,2,1,he,WSAF,Africa
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,השנה הקרה ביותר,2026-01-15T10:20:00+00:00,,0.1471721414611499,0,1,he,,
 'b6cef22543',extremes,Drought,#edc291,random,הגבלת מים,2026-01-15T10:20:00+00:00,,0.1466996666578138,0,1,he,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,נהר אטמוספרי,2026-01-15T10:20:00+00:00,,0.1465769511973332,0,1,he,,
