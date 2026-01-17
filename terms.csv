@@ -1,14 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-01-15T10:56:00+00:00,Israel,0.4210129753320513,3,1,he,MED,Asia
 'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2025-12-15T03:54:00+00:00,Israel,0.4007567431605557,2,1,he,MED,Asia
+'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-01-15T10:56:00+00:00,Israel,0.3580110440322436,4,1,he,MED,Asia
 '0d9db7ec5c',extremes,Drought,#edc291,edo,יובש ישראל,2025-12-16T03:47:00+00:00,Israel,0.3517064717480988,2,1,he,MED,Asia
-'ebe314dd99',extremes,Flood,#030ba1,aidr,גשמים כבדים ושיטפונות קווינסלנד בפברואר 2020,2026-01-15T10:57:00+00:00,Australia,0.3199146917595632,0,1,he,EAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,רעידת אדמה נמל מתורין,2026-01-15T12:13:00+00:00,Mauritius,0.3198614496640228,0,1,he,SIO,Indian Ocean
 '2c38aada07',extremes,Earthquake,#870007,usgs,רעידת אדמה קולצ'אן,2026-01-15T12:13:00+00:00,Chile,0.3198596275137257,0,1,he,SWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,רעידת אדמה ollagüe,2026-01-15T10:56:00+00:00,Chile,0.3198565627261572,0,1,he,SWS,South-America
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,רעידת אדמה בסן אגוסטין דה ואלה פרטיל,2026-01-15T12:13:00+00:00,Argentina,0.3198537889300551,0,1,he,SES,South-America
 '1a17358ebb',extremes,Tsunami,#690191,usgs,צונאמי טובלו,2026-01-15T10:56:00+00:00,Indonesia,0.3198470378843532,0,1,he,SEA,Asia
-'26349abe17',extremes,Tsunami,#690191,usgs,תחנת צונאמי אטו,2026-01-15T12:13:00+00:00,Alaska,0.31984587829424055,0,1,he,NPO,Pacific Ocean
 '464d595634',extremes,Earthquake,#870007,usgs,רעידת אדמה camiña,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,1,he,SWS,South-America
 '018b9ccc96',extremes,Earthquake,#870007,usgs,רעידת אדמה אזור איחוד מאוריציוס,2026-01-15T10:56:00+00:00,,0.3198426792048654,0,1,he,SIO,Indian Ocean
 '76ad379230',extremes,Earthquake,#870007,usgs,רעידת אדמה petropavlovsk kamchatsky,2026-01-15T10:56:00+00:00,Russia,0.319841949147882,0,1,he,RFE,Asia
@@ -34,26 +32,28 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8710bd49ea',extremes,Earthquake,#870007,usgs,רעידת אדמה severo kuril'sk,2026-01-15T10:56:00+00:00,Russia,0.3197921675817287,0,1,he,RFE,Asia
 'db5f39549c',extremes,Earthquake,#870007,usgs,רעידת אדמה אינדונזיה,2026-01-15T10:56:00+00:00,Indonesia,0.319787770621371,0,1,he,SEA,Asia
 '85a135fac3',extremes,Earthquake,#870007,usgs,רעידת אדמה ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.3197876248263615,0,1,he,RFE,Asia
-'51dfc3f3e1',extremes,Earthquake,#870007,usgs,רעידת אדמה קוקופו,2026-01-15T10:56:00+00:00,Papua New Guinea,0.31978555565455874,0,1,he,EPO,Pacific Ocean
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,רעידת אדמה קוקופו,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197855556545587,0,1,he,EPO,Pacific Ocean
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,רעידת אדמה בורמה מיאנמר,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.3197854094247633,0,1,he,SAS,Asia
 '066ed457ed',extremes,Earthquake,#870007,usgs,רעידת אדמה איי מריאנה הצפוניים,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.3197822395529101,0,1,he,NPO,Pacific Ocean
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,רעידת אדמה אזור איי הנסיך אדוארד,2026-01-15T10:56:00+00:00,,0.3197749182823346,0,1,he,SOO,Antarctica
 'f7921ef009',extremes,Earthquake,#870007,usgs,רעידת אדמה vilyuchinsk,2026-01-15T10:56:00+00:00,Russia,0.3197735132787656,0,1,he,RFE,Asia
-'1133ce1349',extremes,Earthquake,#870007,usgs,רעידת אדמה בקוסטה ריקה,2026-01-15T12:13:00+00:00,Costa Rica,0.31977305475664575,0,1,he,SCA,South-America
+'1133ce1349',extremes,Earthquake,#870007,usgs,רעידת אדמה בקוסטה ריקה,2026-01-15T12:13:00+00:00,Costa Rica,0.3197730547566457,0,1,he,SCA,South-America
 'c797f587a9',extremes,Flood,#030ba1,aidr,מבול boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.3197274241818447,0,1,he,EAU,Oceania
 '2407b3a8ab',extremes,Drought,#edc291,edo,יובש בורונדי,2026-01-15T10:57:00+00:00,Burundi,0.3196375825182323,0,1,he,SEAF,Africa
-'f6ff301646',extremes,Drought,#edc291,edo,בצורת סומליה,2026-01-15T10:57:00+00:00,Somalia,0.3195655994444291,0,1,he,NEAF,Africa
 '45f861329d',extremes,Landslide,#572c03,aidr,מפולת גבעות אדלייד דרום אוסטרליה,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,he,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,אמבריים געש ונואטו,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,he,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,הר געש פיליפינים,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,he,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,נהר מציף את אוסטרליה,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,he,EAU,Oceania
+'ebe314dd99',extremes,Flood,#030ba1,aidr,גשמים כבדים ושיטפונות קווינסלנד בפברואר 2020,2026-01-15T10:57:00+00:00,Australia,0.2719274879956287,1,1,he,EAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,הצפה אוסטרליה,2026-01-15T10:56:00+00:00,Australia,0.2719265309500764,1,1,he,CAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,שיטפון הבזק אוסטרליה,2026-01-15T10:57:00+00:00,Australia,0.2719202089432805,1,1,he,EAU,Oceania
 '3a67915e02',extremes,Earthquake,#870007,usgs,רעידת אדמה פרו,2026-01-15T10:56:00+00:00,Peru,0.2718785030627262,1,1,he,NWS,South-America
+'26349abe17',extremes,Tsunami,#690191,usgs,תחנת צונאמי אטו,2026-01-15T12:13:00+00:00,Alaska,0.27186899655010444,1,1,he,NPO,Pacific Ocean
 '23ad2bb822',extremes,Earthquake,#870007,usgs,רעידת אדמה רוסיה,2026-01-15T10:56:00+00:00,Russia,0.2718529952183668,1,1,he,EAS,Asia
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,רעידת אדמה ניו זילנד,2026-01-15T10:56:00+00:00,New Zealand,0.2718520640906192,1,1,he,NZ,Oceania
 '73d01d320c',extremes,Earthquake,#870007,usgs,רעידת אדמה אפגניסטן,2026-01-15T12:13:00+00:00,Afghanistan,0.2718481300815867,1,1,he,WCA,Asia
 '01e4b0cc71',extremes,Earthquake,#870007,usgs,רעידת אדמה קוריל'סק,2026-01-15T10:56:00+00:00,Russia,0.2718391678463759,1,1,he,EAS,Asia
+'f6ff301646',extremes,Drought,#edc291,edo,בצורת סומליה,2026-01-15T10:57:00+00:00,Somalia,0.2716307595277647,1,1,he,NEAF,Africa
 'd9cc56f031',extremes,Drought,#edc291,edo,תקופה יבשה טג'יקיסטן,2026-01-15T10:57:00+00:00,Tajikistan,0.2716294396510521,1,1,he,WCA,Asia
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי 08p,2025-12-16T03:46:00+00:00,,0.2695350848605743,1,1,he,SPO,Pacific Ocean
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות ברזיל,2025-12-18T03:44:00+00:00,Brazil,0.2561731939153775,1,1,he,SAM,South-America
