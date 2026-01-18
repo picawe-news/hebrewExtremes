@@ -1,6 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-01-15T10:56:00+00:00,Israel,0.3580110440322436,4,1,he,MED,Asia
 '0d9db7ec5c',extremes,Drought,#edc291,edo,יובש ישראל,2025-12-16T03:47:00+00:00,Israel,0.3517064717480988,2,1,he,MED,Asia
+'66889dc3f2',extremes,Earthquake,#870007,usgs,רעידת אדמה ollagüe,2026-01-15T10:56:00+00:00,Chile,0.31985656272615726,0,1,he,SWS,South-America
 '6b1cc9478a',extremes,Earthquake,#870007,usgs,רעידת אדמה mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.3198304675636247,0,1,he,NSA,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,רעידת אדמה בסן אנטוניו דה לוס קוברס,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,he,SES,South-America
 'fa8badb0c3',extremes,Tsunami,#690191,usgs,צונאמי בקולין,2026-01-15T10:56:00+00:00,Philippines,0.3198273270828526,0,1,he,SEA,Asia
@@ -9,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e1256a9495',extremes,Tsunami,#690191,usgs,צונאמי rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614129,0,1,he,SCA,North-America
 'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,צונאמי יאקוטאט,2026-01-15T10:56:00+00:00,Canada,0.319808672196729,0,1,he,NWN,North-America
 'e551102071',extremes,Earthquake,#870007,usgs,רעידת אדמה ונואטו,2026-01-15T10:56:00+00:00,Vanuatu,0.319807582224722,0,1,he,SPO,Pacific Ocean
+'e6998a615e',extremes,Earthquake,#870007,usgs,רעידת אדמה murghob,2026-01-15T12:13:00+00:00,Tajikistan,0.3198049562481557,0,1,he,WCA,Asia
 'c605f8759a',extremes,Earthquake,#870007,usgs,רעידת אדמה גואם,2026-01-15T10:56:00+00:00,Guam,0.3198027513793051,0,1,he,NPO,Pacific Ocean
 '9f3b29621a',extremes,Earthquake,#870007,usgs,רעידת אדמה במרכז הרכס האטלנטי,2026-01-15T10:56:00+00:00,,0.3198024693508642,0,1,he,EAO,Atlantic Ocean
 '70773b5956',extremes,Earthquake,#870007,usgs,רעידת אדמה אלסקה,2026-01-15T10:56:00+00:00,Alaska,0.3198017125682,0,1,he,NWN,North-America
@@ -25,6 +27,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,רעידת אדמה אזור איי הנסיך אדוארד,2026-01-15T10:56:00+00:00,,0.3197749182823346,0,1,he,SOO,Antarctica
 'f7921ef009',extremes,Earthquake,#870007,usgs,רעידת אדמה vilyuchinsk,2026-01-15T10:56:00+00:00,Russia,0.3197735132787656,0,1,he,RFE,Asia
 '1133ce1349',extremes,Earthquake,#870007,usgs,רעידת אדמה בקוסטה ריקה,2026-01-15T12:13:00+00:00,Costa Rica,0.3197730547566457,0,1,he,SCA,South-America
+'c685705bbd',extremes,Earthquake,#870007,usgs,רעידת אדמה בסין,2026-01-15T10:56:00+00:00,China,0.31977260661763446,0,1,he,EAS,Asia
+'6bf5e2061d',extremes,Earthquake,#870007,usgs,רעידת אדמה castlepoint,2026-01-15T10:56:00+00:00,New Zealand,0.31977139966941065,0,1,he,NZ,Oceania
+'f5afb20efd',extremes,Earthquake,#870007,usgs,רעידת אדמה באזור איי סנדוויץ',2026-01-15T10:56:00+00:00,,0.3197666649904967,0,1,he,SOO,Antarctica
+'17c827a010',extremes,Earthquake,#870007,usgs,רעידת אדמה יפן,2026-01-15T10:56:00+00:00,Japan,0.3197648775137647,0,1,he,EAS,Asia
+'edcb89e9c3',extremes,Earthquake,#870007,usgs,רעידת אדמה פפואה גינאה החדשה,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197647017684222,0,1,he,SEA,Asia
+'03f33e230d',extremes,Earthquake,#870007,usgs,רעידת אדמה צ'ילה,2026-01-15T10:56:00+00:00,Chile,0.31975595146311836,0,1,he,SWS,South-America
+'0a2120b175',extremes,Earthquake,#870007,usgs,רעידת אדמה דייגו דה אלמגרו,2026-01-15T10:56:00+00:00,Chile,0.3197547085914504,0,1,he,SWS,South-America
+'7d79b2a1fb',extremes,Earthquake,#870007,usgs,רעידת אדמה קנקונג,2026-01-15T12:13:00+00:00,Indonesia,0.3197536299108499,0,1,he,NAU,Oceania
 'c797f587a9',extremes,Flood,#030ba1,aidr,מבול boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.3197274241818447,0,1,he,EAU,Oceania
 '2407b3a8ab',extremes,Drought,#edc291,edo,יובש בורונדי,2026-01-15T10:57:00+00:00,Burundi,0.3196375825182323,0,1,he,SEAF,Africa
 '45f861329d',extremes,Landslide,#572c03,aidr,מפולת גבעות אדלייד דרום אוסטרליה,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,he,SAU,Oceania
@@ -49,7 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '73d01d320c',extremes,Earthquake,#870007,usgs,רעידת אדמה אפגניסטן,2026-01-15T12:13:00+00:00,Afghanistan,0.2718481300815867,1,1,he,WCA,Asia
 '43165fdae0',extremes,Earthquake,#870007,usgs,רעידת אדמה villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.2718443846256417,1,1,he,SWS,South-America
 '01e4b0cc71',extremes,Earthquake,#870007,usgs,רעידת אדמה קוריל'סק,2026-01-15T10:56:00+00:00,Russia,0.2718391678463759,1,1,he,EAS,Asia
-'f5e86f8f49',extremes,Earthquake,#870007,usgs,רעידת אדמה סן מיגל,2026-01-15T10:56:00+00:00,Ecuador,0.27183558638275196,1,1,he,NWS,South-America
+'f5e86f8f49',extremes,Earthquake,#870007,usgs,רעידת אדמה סן מיגל,2026-01-15T10:56:00+00:00,Ecuador,0.2718355863827519,1,1,he,NWS,South-America
 'f6ff301646',extremes,Drought,#edc291,edo,בצורת סומליה,2026-01-15T10:57:00+00:00,Somalia,0.2716307595277647,1,1,he,NEAF,Africa
 'd9cc56f031',extremes,Drought,#edc291,edo,תקופה יבשה טג'יקיסטן,2026-01-15T10:57:00+00:00,Tajikistan,0.2716294396510521,1,1,he,WCA,Asia
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי 08p,2025-12-16T03:46:00+00:00,,0.2695350848605743,1,1,he,SPO,Pacific Ocean
@@ -57,7 +67,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,שריפה בשדה קוצים בהודו,2025-12-19T03:46:00+00:00,India,0.2558445660344169,2,1,he,SAS,Asia
 '57401e749f',extremes,Storm,#b3b2b1,wmo,סערה רג. 11 פטגוניה סובנדינה נורטה,2025-12-16T03:47:00+00:00,Chile,0.2557408723648934,1,1,he,SWS,South-America
 '8c64e91fe4',extremes,Precipitation,#d60d2b,wmo,אזורי משקעים של אזורי לינדי ומטווארה.,2025-12-18T03:44:00+00:00,Tanzania,0.2557393110654636,1,1,he,SEAF,Africa
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,הקרחון,2026-01-15T10:20:00+00:00,,0.22328353543766888,1,2,he,,
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,הקרחון,2026-01-15T10:20:00+00:00,,0.2232835354376688,1,2,he,,
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות בזונה סור,2025-12-19T03:46:00+00:00,Ecuador,0.2225087615019164,2,1,he,NWS,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,גשם שוטף ברזיל,2025-12-18T03:44:00+00:00,Brazil,0.2224833242669587,2,1,he,SAM,South-America
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,storm zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.218667669676795,2,1,he,NWS,South-America
