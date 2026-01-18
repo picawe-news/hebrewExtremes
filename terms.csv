@@ -1,13 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-01-15T10:56:00+00:00,Israel,0.3580110440322436,4,1,he,MED,Asia
 '0d9db7ec5c',extremes,Drought,#edc291,edo,יובש ישראל,2025-12-16T03:47:00+00:00,Israel,0.3517064717480988,2,1,he,MED,Asia
-'66889dc3f2',extremes,Earthquake,#870007,usgs,רעידת אדמה ollagüe,2026-01-15T10:56:00+00:00,Chile,0.31985656272615726,0,1,he,SWS,South-America
+'66889dc3f2',extremes,Earthquake,#870007,usgs,רעידת אדמה ollagüe,2026-01-15T10:56:00+00:00,Chile,0.3198565627261572,0,1,he,SWS,South-America
 '6b1cc9478a',extremes,Earthquake,#870007,usgs,רעידת אדמה mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.3198304675636247,0,1,he,NSA,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,רעידת אדמה בסן אנטוניו דה לוס קוברס,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,he,SES,South-America
 'fa8badb0c3',extremes,Tsunami,#690191,usgs,צונאמי בקולין,2026-01-15T10:56:00+00:00,Philippines,0.3198273270828526,0,1,he,SEA,Asia
 'f4e7397282',extremes,Tsunami,#690191,usgs,נמל צונאמי alsworth,2026-01-15T10:56:00+00:00,United States,0.3198213068509887,0,1,he,NWN,North-America
 '072f41af80',extremes,Earthquake,#870007,usgs,רעידת אדמה אראטוקה,2026-01-15T10:56:00+00:00,Colombia,0.3198170611292842,0,1,he,NWS,South-America
-'e1256a9495',extremes,Tsunami,#690191,usgs,צונאמי rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614129,0,1,he,SCA,North-America
 'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,צונאמי יאקוטאט,2026-01-15T10:56:00+00:00,Canada,0.319808672196729,0,1,he,NWN,North-America
 'e551102071',extremes,Earthquake,#870007,usgs,רעידת אדמה ונואטו,2026-01-15T10:56:00+00:00,Vanuatu,0.319807582224722,0,1,he,SPO,Pacific Ocean
 'e6998a615e',extremes,Earthquake,#870007,usgs,רעידת אדמה murghob,2026-01-15T12:13:00+00:00,Tajikistan,0.3198049562481557,0,1,he,WCA,Asia
@@ -27,16 +25,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,רעידת אדמה אזור איי הנסיך אדוארד,2026-01-15T10:56:00+00:00,,0.3197749182823346,0,1,he,SOO,Antarctica
 'f7921ef009',extremes,Earthquake,#870007,usgs,רעידת אדמה vilyuchinsk,2026-01-15T10:56:00+00:00,Russia,0.3197735132787656,0,1,he,RFE,Asia
 '1133ce1349',extremes,Earthquake,#870007,usgs,רעידת אדמה בקוסטה ריקה,2026-01-15T12:13:00+00:00,Costa Rica,0.3197730547566457,0,1,he,SCA,South-America
-'c685705bbd',extremes,Earthquake,#870007,usgs,רעידת אדמה בסין,2026-01-15T10:56:00+00:00,China,0.31977260661763446,0,1,he,EAS,Asia
-'6bf5e2061d',extremes,Earthquake,#870007,usgs,רעידת אדמה castlepoint,2026-01-15T10:56:00+00:00,New Zealand,0.31977139966941065,0,1,he,NZ,Oceania
+'c685705bbd',extremes,Earthquake,#870007,usgs,רעידת אדמה בסין,2026-01-15T10:56:00+00:00,China,0.3197726066176344,0,1,he,EAS,Asia
+'6bf5e2061d',extremes,Earthquake,#870007,usgs,רעידת אדמה castlepoint,2026-01-15T10:56:00+00:00,New Zealand,0.3197713996694106,0,1,he,NZ,Oceania
 'f5afb20efd',extremes,Earthquake,#870007,usgs,רעידת אדמה באזור איי סנדוויץ',2026-01-15T10:56:00+00:00,,0.3197666649904967,0,1,he,SOO,Antarctica
 '17c827a010',extremes,Earthquake,#870007,usgs,רעידת אדמה יפן,2026-01-15T10:56:00+00:00,Japan,0.3197648775137647,0,1,he,EAS,Asia
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,רעידת אדמה פפואה גינאה החדשה,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197647017684222,0,1,he,SEA,Asia
-'03f33e230d',extremes,Earthquake,#870007,usgs,רעידת אדמה צ'ילה,2026-01-15T10:56:00+00:00,Chile,0.31975595146311836,0,1,he,SWS,South-America
+'03f33e230d',extremes,Earthquake,#870007,usgs,רעידת אדמה צ'ילה,2026-01-15T10:56:00+00:00,Chile,0.3197559514631183,0,1,he,SWS,South-America
 '0a2120b175',extremes,Earthquake,#870007,usgs,רעידת אדמה דייגו דה אלמגרו,2026-01-15T10:56:00+00:00,Chile,0.3197547085914504,0,1,he,SWS,South-America
 '7d79b2a1fb',extremes,Earthquake,#870007,usgs,רעידת אדמה קנקונג,2026-01-15T12:13:00+00:00,Indonesia,0.3197536299108499,0,1,he,NAU,Oceania
 'c797f587a9',extremes,Flood,#030ba1,aidr,מבול boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.3197274241818447,0,1,he,EAU,Oceania
 '2407b3a8ab',extremes,Drought,#edc291,edo,יובש בורונדי,2026-01-15T10:57:00+00:00,Burundi,0.3196375825182323,0,1,he,SEAF,Africa
+'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-01-15T10:56:00+00:00,Israel,0.30445940242740704,5,1,he,MED,Asia
 '45f861329d',extremes,Landslide,#572c03,aidr,מפולת גבעות אדלייד דרום אוסטרליה,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,he,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,אמבריים געש ונואטו,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,he,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,הר געש פיליפינים,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,he,SEA,Asia
@@ -69,9 +68,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c64e91fe4',extremes,Precipitation,#d60d2b,wmo,אזורי משקעים של אזורי לינדי ומטווארה.,2025-12-18T03:44:00+00:00,Tanzania,0.2557393110654636,1,1,he,SEAF,Africa
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,הקרחון,2026-01-15T10:20:00+00:00,,0.2232835354376688,1,2,he,,
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות בזונה סור,2025-12-19T03:46:00+00:00,Ecuador,0.2225087615019164,2,1,he,NWS,South-America
-'bed53cc600',extremes,Precipitation,#d60d2b,wmo,גשם שוטף ברזיל,2025-12-18T03:44:00+00:00,Brazil,0.2224833242669587,2,1,he,SAM,South-America
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,storm zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.218667669676795,2,1,he,NWS,South-America
-'11db661ab4',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה המלדיביים,2025-12-18T03:44:00+00:00,Maldives,0.2182448831411612,2,1,he,EIO,Indian Ocean
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,סערה בחריין,2025-12-19T03:46:00+00:00,Bahrain,0.2181541511140085,2,1,he,ARP,Asia
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,משקעים אקוודור,2025-12-19T03:46:00+00:00,Ecuador,0.2180288361283774,2,1,he,NWS,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,סערה אקוודור,2025-12-19T03:46:00+00:00,Ecuador,0.217894413515714,2,1,he,NWS,South-America
