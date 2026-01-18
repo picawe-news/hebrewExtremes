@@ -1,18 +1,17 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'92e2638c77',extremes,Flood,#030ba1,wmo,מציף את ישראל,2026-01-18T03:57:00+00:00,Israel,0.6690697792279147,0,1,he,MED,Asia
 '14ee48e99d',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה ישראל,2026-01-18T03:57:00+00:00,Israel,0.6679821010477724,0,1,he,MED,Asia
 '1f98506a0f',extremes,Flood,#030ba1,wmo,flashflood gush dan,2026-01-18T03:57:00+00:00,Israel,0.6623492536092432,0,1,he,MED,Asia
 'd8ba2fa4bf',extremes,Flood,#030ba1,wmo,הצפת דרום יהודה מדבר ים המלח,2026-01-18T03:57:00+00:00,Israel,0.6589260237573561,0,1,he,MED,Asia
+'92e2638c77',extremes,Flood,#030ba1,wmo,מציף את ישראל,2026-01-18T03:57:00+00:00,Israel,0.5688593273437275,1,1,he,MED,Asia
 '7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2026-01-18T03:57:00+00:00,Israel,0.5665303133064015,0,1,he,MED,Asia
 '0d9db7ec5c',extremes,Drought,#edc291,edo,יובש ישראל,2025-12-16T03:47:00+00:00,Israel,0.3517064717480988,2,1,he,MED,Asia
-'66889dc3f2',extremes,Earthquake,#870007,usgs,רעידת אדמה ollagüe,2026-01-15T10:56:00+00:00,Chile,0.31985656272615726,0,1,he,SWS,South-America
+'66889dc3f2',extremes,Earthquake,#870007,usgs,רעידת אדמה ollagüe,2026-01-15T10:56:00+00:00,Chile,0.3198565627261572,0,1,he,SWS,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,רעידת אדמה בסן אנטוניו דה לוס קוברס,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,he,SES,South-America
 'fa8badb0c3',extremes,Tsunami,#690191,usgs,צונאמי בקולין,2026-01-15T10:56:00+00:00,Philippines,0.3198273270828526,0,1,he,SEA,Asia
 'f4e7397282',extremes,Tsunami,#690191,usgs,נמל צונאמי alsworth,2026-01-15T10:56:00+00:00,United States,0.3198213068509887,0,1,he,NWN,North-America
 '072f41af80',extremes,Earthquake,#870007,usgs,רעידת אדמה אראטוקה,2026-01-15T10:56:00+00:00,Colombia,0.3198170611292842,0,1,he,NWS,South-America
 'e1256a9495',extremes,Tsunami,#690191,usgs,צונאמי rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614129,0,1,he,SCA,North-America
 'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,צונאמי יאקוטאט,2026-01-15T10:56:00+00:00,Canada,0.319808672196729,0,1,he,NWN,North-America
-'e551102071',extremes,Earthquake,#870007,usgs,רעידת אדמה ונואטו,2026-01-15T10:56:00+00:00,Vanuatu,0.319807582224722,0,1,he,SPO,Pacific Ocean
 'c605f8759a',extremes,Earthquake,#870007,usgs,רעידת אדמה גואם,2026-01-15T10:56:00+00:00,Guam,0.3198027513793051,0,1,he,NPO,Pacific Ocean
 '9f3b29621a',extremes,Earthquake,#870007,usgs,רעידת אדמה במרכז הרכס האטלנטי,2026-01-15T10:56:00+00:00,,0.3198024693508642,0,1,he,EAO,Atlantic Ocean
 '70773b5956',extremes,Earthquake,#870007,usgs,רעידת אדמה אלסקה,2026-01-15T10:56:00+00:00,Alaska,0.3198017125682,0,1,he,NWN,North-America
