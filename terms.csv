@@ -1,7 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'1f98506a0f',extremes,Flood,#030ba1,wmo,flashflood gush dan,2026-01-18T03:57:00+00:00,Israel,0.6623492536092432,0,1,he,MED,Asia
+'aab7909052',extremes,Fog,#d60d2b,wmo,ערפל ישראל,2026-01-19T04:03:00+00:00,Israel,0.6308829639464592,0,1,he,MED,Asia
 '92e2638c77',extremes,Flood,#030ba1,wmo,מציף את ישראל,2026-01-18T03:57:00+00:00,Israel,0.5688593273437275,1,1,he,MED,Asia
+'7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2026-01-18T03:57:00+00:00,Israel,0.5665303133064015,0,1,he,MED,Asia
 'd8ba2fa4bf',extremes,Flood,#030ba1,wmo,הצפת דרום יהודה מדבר ים המלח,2026-01-18T03:57:00+00:00,Israel,0.5600871201937526,1,1,he,MED,Asia
 '14ee48e99d',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה ישראל,2026-01-18T03:57:00+00:00,Israel,0.4826170680070155,2,1,he,MED,Asia
+'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2026-01-19T04:03:00+00:00,Israel,0.45885254940351,0,1,he,MED,Asia
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,רעידת אדמה בסן אנטוניו דה לוס קוברס,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,he,SES,South-America
 'f4e7397282',extremes,Tsunami,#690191,usgs,נמל צונאמי alsworth,2026-01-15T10:56:00+00:00,United States,0.3198213068509887,0,1,he,NWN,North-America
 'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,צונאמי יאקוטאט,2026-01-15T10:56:00+00:00,Canada,0.319808672196729,0,1,he,NWN,North-America
@@ -30,6 +34,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e36cbc783',extremes,Earthquake,#870007,usgs,רעידת אדמה la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.3197420361636449,0,1,he,NWS,South-America
 '8bf8909453',extremes,Earthquake,#870007,usgs,רעידת אדמה לבוקה,2026-01-15T10:56:00+00:00,Fiji,0.3197390800577933,0,1,he,SPO,Pacific Ocean
 '9de3c9007e',extremes,Earthquake,#870007,usgs,רעידת אדמה יאקוטאט,2026-01-15T10:56:00+00:00,Alaska,0.3197345887234546,0,1,he,NWN,North-America
+'2fa9116266',extremes,Earthquake,#870007,usgs,רעידת אדמה נמל alsworth,2026-01-15T12:13:00+00:00,United States,0.3197340735312253,0,1,he,NWN,North-America
+'b0d647e9d3',extremes,Earthquake,#870007,usgs,רעידת אדמה בדרום מזרח הודו,2026-01-15T10:56:00+00:00,,0.3197330455307343,0,1,he,SOO,Antarctica
+'0f6b56852d',extremes,Earthquake,#870007,usgs,רעידת אדמה baculin,2026-01-15T10:56:00+00:00,Philippines,0.31973083171213906,0,1,he,SEA,Asia
+'80f83e2f4e',extremes,Earthquake,#870007,usgs,רעידת אדמה בוליביה,2026-01-15T12:13:00+00:00,Bolivia,0.31972829453300444,0,1,he,SES,South-America
+'daed8f4597',extremes,Earthquake,#870007,usgs,רעידת אדמה סומליה,2026-01-15T12:13:00+00:00,Somalia,0.31972240885217246,0,1,he,NEAF,Africa
+'997a2e2157',extremes,Earthquake,#870007,usgs,רעידת אדמה ארגנטינה,2026-01-15T10:56:00+00:00,Argentina,0.3197162811068849,0,1,he,SWS,South-America
 '2407b3a8ab',extremes,Drought,#edc291,edo,יובש בורונדי,2026-01-15T10:57:00+00:00,Burundi,0.3196375825182323,0,1,he,SEAF,Africa
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-01-15T10:56:00+00:00,Israel,0.304459402427407,5,1,he,MED,Asia
 'a241cba1ba',extremes,Volcano,#b83202,eonet,אמבריים געש ונואטו,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,he,SPO,Oceania
