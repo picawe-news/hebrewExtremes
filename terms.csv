@@ -1,9 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'4f9450d173',extremes,Snow&Ice,#d60d2b,wmo,פרוסט ישראל,2026-01-21T03:56:00+00:00,Israel,0.715055379469885,0,1,he,MED,Asia
+'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2026-01-20T03:56:00+00:00,Israel,0.7083470100606784,0,1,he,MED,Asia
+'6e08a1f3a5',extremes,Snow&Ice,#d60d2b,wmo,ישראל מקפיאה,2026-01-20T03:56:00+00:00,Israel,0.6938949265209042,0,1,he,MED,Asia
+'d8ba2fa4bf',extremes,Flood,#030ba1,wmo,הצפת דרום יהודה מדבר ים המלח,2026-01-18T03:57:00+00:00,Israel,0.6589260237573561,0,1,he,MED,Asia
 '14ee48e99d',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה ישראל,2026-01-18T03:57:00+00:00,Israel,0.4826170680070155,2,1,he,MED,Asia
 '1f98506a0f',extremes,Flood,#030ba1,wmo,flashflood gush dan,2026-01-18T03:57:00+00:00,Israel,0.4785473357326782,2,1,he,MED,Asia
 '7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2026-01-18T03:57:00+00:00,Israel,0.473323206863875,2,1,he,MED,Asia
+'f8f5c3ad5f',extremes,Drought,#edc291,edo,חוסר גשם ישראל,2026-01-21T03:56:00+00:00,Israel,0.42201435517800095,0,1,he,MED,Asia
 '92e2638c77',extremes,Flood,#030ba1,wmo,מציף את ישראל,2026-01-18T03:57:00+00:00,Israel,0.4112783917558431,3,1,he,MED,Asia
-'aab7909052',extremes,Fog,#d60d2b,wmo,ערפל ישראל,2026-01-19T04:03:00+00:00,Israel,0.38744100023361916,3,1,he,MED,Asia
+'aab7909052',extremes,Fog,#d60d2b,wmo,ערפל ישראל,2026-01-19T04:03:00+00:00,Israel,0.3874410002336191,3,1,he,MED,Asia
 'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2026-01-19T04:03:00+00:00,Israel,0.3315209669440359,2,1,he,MED,Asia
 '0a2120b175',extremes,Earthquake,#870007,usgs,רעידת אדמה דייגו דה אלמגרו,2026-01-15T10:56:00+00:00,Chile,0.3197547085914504,0,1,he,SWS,South-America
 '3e36cbc783',extremes,Earthquake,#870007,usgs,רעידת אדמה la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.3197420361636449,0,1,he,NWS,South-America
@@ -20,11 +25,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '505a53d28b',extremes,Earthquake,#870007,usgs,רעידת אדמה פורט וילה,2026-01-15T10:56:00+00:00,Vanuatu,0.3196954803184954,0,1,he,SPO,Oceania
 '8684156e57',extremes,Earthquake,#870007,usgs,רעידת אדמה isangel,2026-01-15T12:13:00+00:00,Vanuatu,0.3196862671084346,0,1,he,SPO,Pacific Ocean
 '17b150a7a2',extremes,Earthquake,#870007,usgs,רעידת אדמה טנזניה,2026-01-15T10:56:00+00:00,Tanzania,0.3196854740944746,0,1,he,SEAF,Africa
+'ba6e07a583',extremes,Storm,#b3b2b1,emdat,סערה בנפות אל-חשכה,2026-01-15T10:57:00+00:00,Syria,0.31968359283370695,0,1,he,MED,Asia
 '95694d19cf',extremes,Earthquake,#870007,usgs,רעידת אדמה תימן,2026-01-15T12:13:00+00:00,Yemen,0.3196785588064959,0,1,he,NEAF,Africa
 'cc449c3731',extremes,Earthquake,#870007,usgs,רעידת אדמה אזור איי קרמדק,2026-01-15T10:56:00+00:00,,0.3196765422551599,0,1,he,SPO,Pacific Ocean
 '5484f48de4',extremes,Earthquake,#870007,usgs,רעידת אדמה באמצע הרכס ההודי,2026-01-15T10:56:00+00:00,,0.3196762612572651,0,1,he,SIO,Indian Ocean
 'f200ff28aa',extremes,Earthquake,#870007,usgs,רעידת אדמה ארצות הברית,2026-01-15T10:56:00+00:00,United States,0.3196739841660505,0,1,he,WNA,North-America
 'e98c9b3f42',extremes,Earthquake,#870007,usgs,מעבר דראק רעידת אדמה,2026-01-15T10:56:00+00:00,,0.3196709283081229,0,1,he,SOO,Antarctica
+'6ff5caa4ff',extremes,Earthquake,#870007,usgs,רעידת אדמה אטקה,2026-01-15T10:56:00+00:00,Alaska,0.31966948238112836,0,1,he,NPO,Pacific Ocean
+'8b5b4c9d3b',extremes,Earthquake,#870007,usgs,רעידת אדמה פורטו סנטה,2026-01-15T10:56:00+00:00,Peru,0.31966490236557776,0,1,he,NWS,South-America
+'37af8de5d1',extremes,Earthquake,#870007,usgs,רעידת אדמה באזור האי המזרחי,2026-01-15T10:56:00+00:00,,0.3196606738976758,0,1,he,SPO,Pacific Ocean
+'d1b76ff32a',extremes,Earthquake,#870007,usgs,רעידת אדמה מיאקו,2026-01-15T10:56:00+00:00,Japan,0.3196603663022271,0,1,he,EAS,Asia
 '2407b3a8ab',extremes,Drought,#edc291,edo,יובש בורונדי,2026-01-15T10:57:00+00:00,Burundi,0.3196375825182323,0,1,he,SEAF,Africa
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-01-15T10:56:00+00:00,Israel,0.304459402427407,5,1,he,MED,Asia
 'a241cba1ba',extremes,Volcano,#b83202,eonet,אמבריים געש ונואטו,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,he,SPO,Oceania
