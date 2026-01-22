@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'4f9450d173',extremes,Snow&Ice,#d60d2b,wmo,פרוסט ישראל,2026-01-21T03:56:00+00:00,Israel,0.715055379469885,0,1,he,MED,Asia
+'d8ba2fa4bf',extremes,Flood,#030ba1,wmo,הצפת דרום יהודה מדבר ים המלח,2026-01-18T03:57:00+00:00,Israel,0.6589260237573561,0,1,he,MED,Asia
+'04525d6c1f',extremes,Storm,#b3b2b1,wmo,סערה ים צפון,2026-01-22T03:59:00+00:00,Israel,0.6270761468063399,0,1,he,MED,Asia
 '14ee48e99d',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה ישראל,2026-01-18T03:57:00+00:00,Israel,0.5677847858906065,1,1,he,MED,Asia
 '6e08a1f3a5',extremes,Snow&Ice,#d60d2b,wmo,ישראל מקפיאה,2026-01-20T03:56:00+00:00,Israel,0.5013390844113532,2,1,he,MED,Asia
 '7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2026-01-18T03:57:00+00:00,Israel,0.473323206863875,2,1,he,MED,Asia
@@ -18,6 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cc449c3731',extremes,Earthquake,#870007,usgs,רעידת אדמה אזור איי קרמדק,2026-01-15T10:56:00+00:00,,0.3196765422551599,0,1,he,SPO,Pacific Ocean
 '5484f48de4',extremes,Earthquake,#870007,usgs,רעידת אדמה באמצע הרכס ההודי,2026-01-15T10:56:00+00:00,,0.3196762612572651,0,1,he,SIO,Indian Ocean
 'f200ff28aa',extremes,Earthquake,#870007,usgs,רעידת אדמה ארצות הברית,2026-01-15T10:56:00+00:00,United States,0.3196739841660505,0,1,he,WNA,North-America
+'6ff5caa4ff',extremes,Earthquake,#870007,usgs,רעידת אדמה אטקה,2026-01-15T10:56:00+00:00,Alaska,0.31966948238112836,0,1,he,NPO,Pacific Ocean
 '8b5b4c9d3b',extremes,Earthquake,#870007,usgs,רעידת אדמה פורטו סנטה,2026-01-15T10:56:00+00:00,Peru,0.3196649023655777,0,1,he,NWS,South-America
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,רעידת אדמה מיאקו,2026-01-15T10:56:00+00:00,Japan,0.3196603663022271,0,1,he,EAS,Asia
 '7a3d1676da',extremes,Earthquake,#870007,usgs,רעידת אדמה פיליפינים,2026-01-15T10:56:00+00:00,Philippines,0.3196508616073871,0,1,he,SEA,Asia
@@ -26,6 +30,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27bfeaeef2',extremes,Earthquake,#870007,usgs,רעידת אדמה איי קוריל,2026-01-15T10:56:00+00:00,,0.3196396899700217,0,1,he,RFE,Asia
 '2407b3a8ab',extremes,Drought,#edc291,edo,יובש בורונדי,2026-01-15T10:57:00+00:00,Burundi,0.3196375825182323,0,1,he,SEAF,Africa
 '485794e3d4',extremes,Earthquake,#870007,usgs,רעידת אדמה קנדה,2026-01-15T12:13:00+00:00,Canada,0.3196374775984123,0,1,he,NWN,North-America
+'3ba62ce4f2',extremes,Earthquake,#870007,usgs,רעידת אדמה יוון,2026-01-15T10:56:00+00:00,Greece,0.3196343064074037,0,1,he,MED,Europe
+'526ac614cf',extremes,Earthquake,#870007,usgs,רעידת אדמה סנט מארי,2026-01-15T12:13:00+00:00,Martinique,0.3196320647270624,0,1,he,CAR,North-America
+'909be204f9',extremes,Earthquake,#870007,usgs,רעידת אדמה מדרום מזרח לאיי הנאמנות,2026-01-15T10:56:00+00:00,,0.3196248459197977,0,1,he,SPO,Pacific Ocean
+'731557e0bc',extremes,Earthquake,#870007,usgs,רעידת אדמה טימור לסטה,2026-01-15T10:56:00+00:00,Timor Leste,0.3196242788058043,0,1,he,SEA,Asia
+'7d68920b56',extremes,Earthquake,#870007,usgs,רעידת אדמה ניקרגואה,2026-01-15T10:56:00+00:00,Nicaragua,0.31960800063794476,0,1,he,SCA,North-America
+'1f343ea703',extremes,Earthquake,#870007,usgs,רעידת אדמה doğanyol,2026-01-15T12:13:00+00:00,Turkey,0.31959443493919526,0,1,he,MED,Asia
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-01-15T10:56:00+00:00,Israel,0.304459402427407,5,1,he,MED,Asia
 'a241cba1ba',extremes,Volcano,#b83202,eonet,אמבריים געש ונואטו,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,he,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,הר געש פיליפינים,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,he,SEA,Asia
@@ -96,7 +106,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '505a53d28b',extremes,Earthquake,#870007,usgs,רעידת אדמה פורט וילה,2026-01-15T10:56:00+00:00,Vanuatu,0.271741158270721,1,1,he,SPO,Oceania
 '8684156e57',extremes,Earthquake,#870007,usgs,רעידת אדמה isangel,2026-01-15T12:13:00+00:00,Vanuatu,0.2717333270421694,1,1,he,SPO,Pacific Ocean
 '17b150a7a2',extremes,Earthquake,#870007,usgs,רעידת אדמה טנזניה,2026-01-15T10:56:00+00:00,Tanzania,0.2717326529803034,1,1,he,SEAF,Africa
-'95694d19cf',extremes,Earthquake,#870007,usgs,רעידת אדמה תימן,2026-01-15T12:13:00+00:00,Yemen,0.27172677498552156,1,1,he,NEAF,Africa
+'95694d19cf',extremes,Earthquake,#870007,usgs,רעידת אדמה תימן,2026-01-15T12:13:00+00:00,Yemen,0.2717267749855215,1,1,he,NEAF,Africa
 'e98c9b3f42',extremes,Earthquake,#870007,usgs,מעבר דראק רעידת אדמה,2026-01-15T10:56:00+00:00,,0.2717202890619044,1,1,he,SOO,Antarctica
 '37af8de5d1',extremes,Earthquake,#870007,usgs,רעידת אדמה באזור האי המזרחי,2026-01-15T10:56:00+00:00,,0.2717115728130244,1,1,he,SPO,Pacific Ocean
 'f6ff301646',extremes,Drought,#edc291,edo,בצורת סומליה,2026-01-15T10:57:00+00:00,Somalia,0.2716307595277647,1,1,he,NEAF,Africa
