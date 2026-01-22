@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'4f9450d173',extremes,Snow&Ice,#d60d2b,wmo,פרוסט ישראל,2026-01-21T03:56:00+00:00,Israel,0.715055379469885,0,1,he,MED,Asia
+'14ee48e99d',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה ישראל,2026-01-18T03:57:00+00:00,Israel,0.6679821010477724,0,1,he,MED,Asia
+'d8ba2fa4bf',extremes,Flood,#030ba1,wmo,הצפת דרום יהודה מדבר ים המלח,2026-01-18T03:57:00+00:00,Israel,0.6589260237573561,0,1,he,MED,Asia
 '6e08a1f3a5',extremes,Snow&Ice,#d60d2b,wmo,ישראל מקפיאה,2026-01-20T03:56:00+00:00,Israel,0.5898106875427686,1,1,he,MED,Asia
 'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2026-01-20T03:56:00+00:00,Israel,0.5117807147688401,2,1,he,MED,Asia
 '1f98506a0f',extremes,Flood,#030ba1,wmo,flashflood gush dan,2026-01-18T03:57:00+00:00,Israel,0.4785473357326782,2,1,he,MED,Asia
@@ -7,6 +10,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aab7909052',extremes,Fog,#d60d2b,wmo,ערפל ישראל,2026-01-19T04:03:00+00:00,Israel,0.3874410002336191,3,1,he,MED,Asia
 'f8f5c3ad5f',extremes,Drought,#edc291,edo,חוסר גשם ישראל,2026-01-21T03:56:00+00:00,Israel,0.3587122019013007,1,1,he,MED,Asia
 'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2026-01-19T04:03:00+00:00,Israel,0.3315209669440359,2,1,he,MED,Asia
+'0a2120b175',extremes,Earthquake,#870007,usgs,רעידת אדמה דייגו דה אלמגרו,2026-01-15T10:56:00+00:00,Chile,0.3197547085914504,0,1,he,SWS,South-America
+'3e36cbc783',extremes,Earthquake,#870007,usgs,רעידת אדמה la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.3197420361636449,0,1,he,NWS,South-America
 '2fa9116266',extremes,Earthquake,#870007,usgs,רעידת אדמה נמל alsworth,2026-01-15T12:13:00+00:00,United States,0.3197340735312253,0,1,he,NWN,North-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,רעידת אדמה בוליביה,2026-01-15T12:13:00+00:00,Bolivia,0.3197282945330044,0,1,he,SES,South-America
 'ad41fee440',extremes,Earthquake,#870007,usgs,רעידת אדמה לאטה,2026-01-15T10:56:00+00:00,Solomon Islands,0.3197138825463702,0,1,he,SPO,Oceania
@@ -24,7 +29,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b5b4c9d3b',extremes,Earthquake,#870007,usgs,רעידת אדמה פורטו סנטה,2026-01-15T10:56:00+00:00,Peru,0.3196649023655777,0,1,he,NWS,South-America
 '37af8de5d1',extremes,Earthquake,#870007,usgs,רעידת אדמה באזור האי המזרחי,2026-01-15T10:56:00+00:00,,0.3196606738976758,0,1,he,SPO,Pacific Ocean
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,רעידת אדמה מיאקו,2026-01-15T10:56:00+00:00,Japan,0.3196603663022271,0,1,he,EAS,Asia
+'7a3d1676da',extremes,Earthquake,#870007,usgs,רעידת אדמה פיליפינים,2026-01-15T10:56:00+00:00,Philippines,0.31965086160738715,0,1,he,SEA,Asia
+'53e17b7a15',extremes,Earthquake,#870007,usgs,רעידת אדמה houma,2026-01-15T10:56:00+00:00,Tonga,0.31964660187957894,0,1,he,SPO,Pacific Ocean
+'3f3ddd0b49',extremes,Earthquake,#870007,usgs,רעידת אדמה הודו,2026-01-15T10:56:00+00:00,India,0.31963985603378475,0,1,he,SAS,Asia
+'27bfeaeef2',extremes,Earthquake,#870007,usgs,רעידת אדמה איי קוריל,2026-01-15T10:56:00+00:00,,0.3196396899700217,0,1,he,RFE,Asia
 '2407b3a8ab',extremes,Drought,#edc291,edo,יובש בורונדי,2026-01-15T10:57:00+00:00,Burundi,0.3196375825182323,0,1,he,SEAF,Africa
+'485794e3d4',extremes,Earthquake,#870007,usgs,רעידת אדמה קנדה,2026-01-15T12:13:00+00:00,Canada,0.3196374775984123,0,1,he,NWN,North-America
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-01-15T10:56:00+00:00,Israel,0.304459402427407,5,1,he,MED,Asia
 'a241cba1ba',extremes,Volcano,#b83202,eonet,אמבריים געש ונואטו,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,he,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,הר געש פיליפינים,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,he,SEA,Asia
@@ -89,7 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '997a2e2157',extremes,Earthquake,#870007,usgs,רעידת אדמה ארגנטינה,2026-01-15T10:56:00+00:00,Argentina,0.2717588389408521,1,1,he,SWS,South-America
 '90e6558608',extremes,Earthquake,#870007,usgs,רעידת אדמה בדרום הרכס האמצע האטלנטי,2026-01-15T10:56:00+00:00,,0.2717570180651828,1,1,he,SAO,Atlantic Ocean
 'da0b9741fb',extremes,Earthquake,#870007,usgs,רעידת אדמה rancho viejo,2026-01-15T12:13:00+00:00,Mexico,0.2717440014743174,1,1,he,SCA,North-America
-'5bf34f285a',extremes,Earthquake,#870007,usgs,רעידת אדמה איטליה,2026-01-15T10:56:00+00:00,Italy,0.27174379362530515,1,1,he,MED,Europe
+'5bf34f285a',extremes,Earthquake,#870007,usgs,רעידת אדמה איטליה,2026-01-15T10:56:00+00:00,Italy,0.2717437936253051,1,1,he,MED,Europe
 '505a53d28b',extremes,Earthquake,#870007,usgs,רעידת אדמה פורט וילה,2026-01-15T10:56:00+00:00,Vanuatu,0.271741158270721,1,1,he,SPO,Oceania
 '17b150a7a2',extremes,Earthquake,#870007,usgs,רעידת אדמה טנזניה,2026-01-15T10:56:00+00:00,Tanzania,0.2717326529803034,1,1,he,SEAF,Africa
 'f6ff301646',extremes,Drought,#edc291,edo,בצורת סומליה,2026-01-15T10:57:00+00:00,Somalia,0.2716307595277647,1,1,he,NEAF,Africa
@@ -97,7 +107,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45f861329d',extremes,Landslide,#572c03,aidr,מפולת גבעות אדלייד דרום אוסטרליה,2026-01-15T10:57:00+00:00,Australia,0.2312054529413387,2,1,he,SAU,Oceania
 '018b9ccc96',extremes,Earthquake,#870007,usgs,רעידת אדמה אזור איחוד מאוריציוס,2026-01-15T10:56:00+00:00,,0.2310863357255152,2,1,he,SIO,Indian Ocean
 'fa8badb0c3',extremes,Tsunami,#690191,usgs,צונאמי בקולין,2026-01-15T10:56:00+00:00,Philippines,0.231075243817361,2,1,he,SEA,Asia
-'01e4b0cc71',extremes,Earthquake,#870007,usgs,רעידת אדמה קוריל'סק,2026-01-15T10:56:00+00:00,Russia,0.23106329266941952,2,1,he,EAS,Asia
+'01e4b0cc71',extremes,Earthquake,#870007,usgs,רעידת אדמה קוריל'סק,2026-01-15T10:56:00+00:00,Russia,0.2310632926694195,2,1,he,EAS,Asia
 'f5e86f8f49',extremes,Earthquake,#870007,usgs,רעידת אדמה סן מיגל,2026-01-15T10:56:00+00:00,Ecuador,0.2310602484253391,2,1,he,NWS,South-America
 '066ed457ed',extremes,Earthquake,#870007,usgs,רעידת אדמה איי מריאנה הצפוניים,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.2310426680769775,2,1,he,NPO,Pacific Ocean
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,הקרחון,2026-01-15T10:20:00+00:00,,0.2232835354376688,1,2,he,,
