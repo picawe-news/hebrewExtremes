@@ -1,16 +1,26 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '119916aac8',extremes,Fog,#d60d2b,wmo,ערפל עמק החולה,2026-01-29T04:19:00+00:00,Israel,0.3219713805095509,5,1,he,MED,Asia
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,סערת חורף צפון אמריקאית ניו יורק,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,he,ENA,North-America
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ציקלון טרופי איטליה,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,he,MED,Europe
+'fada59714f',extremes,Drought,#edc291,edo,חוסר גשם זמביה,2026-01-15T10:57:00+00:00,Zambia,0.319365512325778,0,1,he,ESAF,Africa
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-01-15T10:56:00+00:00,Israel,0.3190483671140944,5,1,he,MED,Asia
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,רעידת אדמה קלדוניה החדשה,2026-01-15T10:56:00+00:00,New Caledonia,0.317937492940392,0,1,he,SPO,Pacific Ocean
 '74f312cac2',extremes,Earthquake,#870007,usgs,רעידת אדמה arafura sea,2026-01-15T10:56:00+00:00,,0.3176948081825046,0,1,he,SEA,Asia
 '7b672dbbe2',extremes,Earthquake,#870007,usgs,רעידת אדמה עליית דרום מזרח האוקיינוס ​​השקט,2026-01-15T10:56:00+00:00,,0.3173732082305578,0,1,he,SPO,Pacific Ocean
 '628c73fc75',extremes,Drought,#edc291,edo,בצורת פולין,2026-01-15T10:57:00+00:00,Poland,0.316917415290981,0,1,he,WCE,Europe
+'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי 18p,2026-01-29T04:18:00+00:00,,0.3167384485602401,0,1,he,SPO,Pacific Ocean
 '47161f5932',extremes,Earthquake,#870007,usgs,רעידת אדמה גורונטלו,2026-01-15T12:13:00+00:00,Indonesia,0.3158257996969818,0,1,he,SEA,Asia
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,לחש חם ויקטוריה,2026-01-30T04:22:00+00:00,Australia,0.315418814478936,0,1,he,SAU,Oceania
 '16600649e1',extremes,Earthquake,#870007,usgs,אזור רעידת אדמה פיג'י,2026-01-15T10:56:00+00:00,,0.3153261223408374,0,1,he,SPO,Pacific Ocean
 'd4757169ad',extremes,Tropical Cyclone,#4f4f4f,aidr,ציקלון ציקלון יאסי קווינסלנד 2011,2026-01-15T10:57:00+00:00,,0.3152874635080356,0,1,he,NAU,Oceania
 '5c82519f0a',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי 17s,2026-01-24T03:48:00+00:00,,0.3152335128837488,0,1,he,NAU,Oceania
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,נחיתה אוסטרליה,2026-01-15T10:57:00+00:00,Australia,0.3151449660151038,0,1,he,NAU,Oceania
+'ebbb5bceab',extremes,Flood,#030ba1,aidr,שיטפון צפון ומרכז קווינסלנד,2026-01-15T12:14:00+00:00,Australia,0.3151249153040327,0,1,he,NAU,Oceania
+'81df5b3034',extremes,Storm,#b3b2b1,aidr,סערת ברד בצפון סידני 2017,2026-01-25T04:06:00+00:00,,0.31458383794942574,0,1,he,EAU,Oceania
+'e5e64ee526',extremes,Flood,#030ba1,aidr,הצפה בטריטוריה הצפונית של קתרין,2026-01-15T12:14:00+00:00,Australia,0.31401305661368006,0,1,he,NAU,Oceania
+'44211c95de',extremes,Flood,#030ba1,wmo,מציפה את אוסטרליה,2026-01-15T10:56:00+00:00,Australia,0.31329875107483074,0,1,he,CAU,Oceania
+'06972a2776',extremes,Flood,#030ba1,acwe,שיטפון בזק בניו דרום ויילס,2026-01-31T04:17:00+00:00,Australia,0.31305996242973777,0,1,he,EAU,Oceania
+'f7e4598a47',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי ewetse,2026-01-21T03:55:00+00:00,,0.31256797064498404,0,1,he,MDG,Africa
 '92e2638c77',extremes,Flood,#030ba1,wmo,מציף את ישראל,2026-01-18T03:57:00+00:00,Israel,0.2974261657935966,5,1,he,MED,Asia
 'e314f2dd5c',extremes,Thunderstorm,#53785a,wmo,ברד ים צפונה,2026-01-28T03:56:00+00:00,Israel,0.2871358960271155,3,1,he,MED,Asia
 'daed8f4597',extremes,Earthquake,#870007,usgs,רעידת אדמה סומליה,2026-01-15T12:13:00+00:00,Somalia,0.2717640475243465,1,1,he,NEAF,Africa
@@ -96,7 +106,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1f98506a0f',extremes,Flood,#030ba1,wmo,flashflood gush dan,2026-01-18T03:57:00+00:00,Israel,0.2498047001733063,6,1,he,MED,Asia
 'd8ba2fa4bf',extremes,Flood,#030ba1,wmo,הצפת דרום יהודה מדבר ים המלח,2026-01-18T03:57:00+00:00,Israel,0.2485136306927939,6,1,he,MED,Asia
 'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2026-01-19T04:03:00+00:00,Israel,0.2395238986170659,4,1,he,MED,Asia
-'aab7909052',extremes,Fog,#d60d2b,wmo,ערפל ישראל,2026-01-19T04:03:00+00:00,Israel,0.23821473201847132,6,1,he,MED,Asia
+'aab7909052',extremes,Fog,#d60d2b,wmo,ערפל ישראל,2026-01-19T04:03:00+00:00,Israel,0.2382147320184713,6,1,he,MED,Asia
 '04525d6c1f',extremes,Storm,#b3b2b1,wmo,סערה ים צפון,2026-01-22T03:59:00+00:00,Israel,0.2365014650280023,6,1,he,MED,Asia
 '45f861329d',extremes,Landslide,#572c03,aidr,מפולת גבעות אדלייד דרום אוסטרליה,2026-01-15T10:57:00+00:00,Australia,0.2312054529413387,2,1,he,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,אמבריים געש ונואטו,2026-01-15T10:56:00+00:00,Vanuatu,0.2311918853577977,2,1,he,SPO,Oceania
