@@ -1,8 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-01-15T10:56:00+00:00,Israel,0.44082119254545943,3,1,he,MED,Asia
 '119916aac8',extremes,Fog,#d60d2b,wmo,ערפל עמק החולה,2026-01-29T04:19:00+00:00,Israel,0.3787898594230011,4,1,he,MED,Asia
-'0362f0b9c1',extremes,Earthquake,#870007,usgs,רעידת אדמה alo,2026-01-15T10:56:00+00:00,Wallis and Futuna,0.3186027403330493,0,1,he,SPO,Pacific Ocean
-'bb960b1994',extremes,Drought,#edc291,edo,יובש מולדובה,2026-01-15T10:57:00+00:00,Moldova,0.3185744530756314,0,1,he,WCE,Europe
+'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-01-15T10:56:00+00:00,Israel,0.3749980436636405,4,1,he,MED,Asia
 'cdb3eaf147',extremes,Drought,#edc291,edo,יובש באינדונזיה,2026-01-15T10:57:00+00:00,Indonesia,0.3185732548516412,0,1,he,SEA,Asia
 '32ad90607d',extremes,Drought,#edc291,edo,יובש סרביה,2026-01-15T10:57:00+00:00,Serbia,0.3184681122513835,0,1,he,MED,Europe
 'ea0aa28870',extremes,Drought,#edc291,edo,חוסר גשם פינלנד,2026-01-15T10:57:00+00:00,Finland,0.3183978516414232,0,1,he,NEU,Europe
@@ -78,6 +76,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b546e0d0c0',extremes,Drought,#edc291,edo,טריטוריה פלסטינית ביובש,2026-01-15T10:57:00+00:00,Palestinian Territory,0.270919407428008,1,1,he,MED,Asia
 '87ce5fed51',extremes,Drought,#edc291,edo,יובש מונטנגרו,2026-01-15T10:57:00+00:00,Montenegro,0.2709180804549139,1,1,he,MED,Europe
 '938fef97d4',extremes,Earthquake,#870007,usgs,רעידת אדמה neiafu,2026-01-15T10:56:00+00:00,Tonga,0.2708138058466446,1,1,he,SPO,Pacific Ocean
+'0362f0b9c1',extremes,Earthquake,#870007,usgs,רעידת אדמה alo,2026-01-15T10:56:00+00:00,Wallis and Futuna,0.2708123292830919,1,1,he,SPO,Pacific Ocean
+'bb960b1994',extremes,Drought,#edc291,edo,יובש מולדובה,2026-01-15T10:57:00+00:00,Moldova,0.2707882851142867,1,1,he,WCE,Europe
 '5039252952',extremes,Drought,#edc291,edo,בצורת שוודיה,2026-01-15T10:57:00+00:00,Sweden,0.2705785906934507,1,1,he,NEU,Europe
 '4f9450d173',extremes,Snow&Ice,#d60d2b,wmo,פרוסט ישראל,2026-01-21T03:56:00+00:00,Israel,0.2696827900121176,6,1,he,MED,Asia
 'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2026-01-20T03:56:00+00:00,Israel,0.2671527317388017,6,1,he,MED,Asia
