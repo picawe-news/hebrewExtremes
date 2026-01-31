@@ -9,6 +9,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,רעידת אדמה קלדוניה החדשה,2026-01-15T10:56:00+00:00,New Caledonia,0.317937492940392,0,1,he,SPO,Pacific Ocean
 '8c46315dbe',extremes,Earthquake,#870007,aidr,רעידת אדמה אוסטרליה,2026-01-15T10:57:00+00:00,Australia,0.3177806361312545,0,1,he,EAU,Oceania
 '64058b2dc1',extremes,Drought,#edc291,edo,היובש הונגריה,2026-01-15T10:57:00+00:00,Hungary,0.3177722741789591,0,1,he,WCE,Europe
+'74f312cac2',extremes,Earthquake,#870007,usgs,רעידת אדמה arafura sea,2026-01-15T10:56:00+00:00,,0.3176948081825046,0,1,he,SEA,Asia
+'585e678b13',extremes,Earthquake,#870007,usgs,רעידת אדמה שילין חמה,2026-01-15T10:56:00+00:00,China,0.31740547677183917,0,1,he,ESB,Asia
+'7b672dbbe2',extremes,Earthquake,#870007,usgs,רעידת אדמה עליית דרום מזרח האוקיינוס ​​השקט,2026-01-15T10:56:00+00:00,,0.3173732082305578,0,1,he,SPO,Pacific Ocean
+'628c73fc75',extremes,Drought,#edc291,edo,בצורת פולין,2026-01-15T10:57:00+00:00,Poland,0.31691741529098105,0,1,he,WCE,Europe
+'47161f5932',extremes,Earthquake,#870007,usgs,רעידת אדמה גורונטלו,2026-01-15T12:13:00+00:00,Indonesia,0.3158257996969818,0,1,he,SEA,Asia
+'1a066ba374',extremes,Heat Wave,#c40202,acwe,לחש חם ויקטוריה,2026-01-30T04:22:00+00:00,Australia,0.315418814478936,0,1,he,SAU,Oceania
+'16600649e1',extremes,Earthquake,#870007,usgs,אזור רעידת אדמה פיג'י,2026-01-15T10:56:00+00:00,,0.3153261223408374,0,1,he,SPO,Pacific Ocean
+'d4757169ad',extremes,Tropical Cyclone,#4f4f4f,aidr,ציקלון ציקלון יאסי קווינסלנד 2011,2026-01-15T10:57:00+00:00,,0.3152874635080356,0,1,he,NAU,Oceania
+'5c82519f0a',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי 17s,2026-01-24T03:48:00+00:00,,0.31523351288374885,0,1,he,NAU,Oceania
+'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,נחיתה אוסטרליה,2026-01-15T10:57:00+00:00,Australia,0.3151449660151038,0,1,he,NAU,Oceania
 '92e2638c77',extremes,Flood,#030ba1,wmo,מציף את ישראל,2026-01-18T03:57:00+00:00,Israel,0.2974261657935966,5,1,he,MED,Asia
 'e314f2dd5c',extremes,Thunderstorm,#53785a,wmo,ברד ים צפונה,2026-01-28T03:56:00+00:00,Israel,0.2871358960271155,3,1,he,MED,Asia
 'aab7909052',extremes,Fog,#d60d2b,wmo,ערפל ישראל,2026-01-19T04:03:00+00:00,Israel,0.2800761376687898,5,1,he,MED,Asia
