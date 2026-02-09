@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2026-01-20T03:56:00+00:00,Israel,0.38221978979724464,4,1,he,MED,Asia
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,הקרחון,2026-01-15T10:20:00+00:00,,0.33994102012201843,2,2,he,,
+'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2026-01-20T03:56:00+00:00,Israel,0.3248868213276579,5,1,he,MED,Asia
 '5ebfb55f9a',extremes,Wildfire,#d60d2b,eonet,rx nueces 0577 שנקבע Fire nueces טקסס,2026-01-27T03:58:00+00:00,,0.3061383830693329,0,1,he,NCA,North-America
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,סערה דרום אפריקה,2026-02-05T04:27:00+00:00,South Africa,0.3060708547440301,0,1,he,WSAF,Africa
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות בארגנטינה,2026-02-05T04:27:00+00:00,Argentina,0.3060518269057679,0,1,he,SES,South-America
@@ -16,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dbc33f3019',extremes,Snow&Ice,#d60d2b,wmo,רפובליקת הכפור של מולדובה,2026-02-05T04:27:00+00:00,Republic of Moldova,0.3055491868484402,0,1,he,WCE,Europe
 '7e4845fc87',extremes,Precipitation,#d60d2b,wmo,גשם ישראל,2026-01-18T03:57:00+00:00,Israel,0.2962104059097746,4,1,he,MED,Asia
 '1f98506a0f',extremes,Flood,#030ba1,wmo,flashflood gush dan,2026-01-18T03:57:00+00:00,Israel,0.293887882556831,5,1,he,MED,Asia
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,הקרחון,2026-01-15T10:20:00+00:00,,0.2890998821037156,3,2,he,,
 '685995fcc4',extremes,Earthquake,#870007,usgs,רעידת אדמה ממערב לאי macquarie,2026-01-15T10:56:00+00:00,,0.271435568045223,1,1,he,SOO,Antarctica
 'f314bb7747',extremes,Flood,#030ba1,aidr,הצפה pluvial אוסטרליה,2026-01-15T10:57:00+00:00,Australia,0.2704671971914797,1,1,he,SAU,Oceania
 '255621cc4c',extremes,Earthquake,#870007,usgs,רעידת אדמה פנגונה,2026-01-31T04:16:00+00:00,Papua New Guinea,0.2679457138356712,1,1,he,EPO,Pacific Ocean
@@ -61,7 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,גל חום ארגנטינה,2026-01-21T03:56:00+00:00,Argentina,0.2609823080245674,1,1,he,SES,South-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,גל סערה בארגנטינה,2026-02-05T04:27:00+00:00,Argentina,0.2606998144441404,1,1,he,SES,South-America
 '893e673584',extremes,Earthquake,#870007,usgs,רעידת אדמה עליית מרכז מזרח האוקיינוס ​​השקט,2026-02-05T04:27:00+00:00,,0.2606393280558712,1,1,he,EPO,Pacific Ocean
-'21ada6323e',extremes,Drought,#edc291,edo,חוסר גשם אזרבייג'ן,2026-02-05T04:28:00+00:00,Azerbaijan,0.26053003747391573,1,1,he,WCA,Asia
+'21ada6323e',extremes,Drought,#edc291,edo,חוסר גשם אזרבייג'ן,2026-02-05T04:28:00+00:00,Azerbaijan,0.2605300374739157,1,1,he,WCA,Asia
 '0a54633be0',extremes,Drought,#edc291,edo,חוסר גשם בלוקסמבורג,2026-02-05T04:28:00+00:00,Luxembourg,0.2603878916640682,1,1,he,WCE,Europe
 'ab8adba258',extremes,Storm,#b3b2b1,wmo,גל סערה litoral provincia de huasco,2026-02-07T04:19:00+00:00,Chile,0.2603257563494466,1,1,he,SWS,South-America
 'cb6b1bd07a',extremes,Earthquake,#870007,usgs,רעידת אדמה סנגאי,2026-01-20T03:56:00+00:00,Philippines,0.26028606825676,1,1,he,SEA,Asia
@@ -330,7 +330,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80a1b6ba6b',extremes,Drought,#edc291,edo,בצורת בלגיה,2026-02-06T04:28:00+00:00,Belgium,0.2237353669491803,2,1,he,WCE,Europe
 '74e664d18f',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי 16p,2026-01-22T03:59:00+00:00,,0.222600218858405,2,1,he,SPO,Pacific Ocean
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,גל קר ברזיל,2026-02-07T04:19:00+00:00,Brazil,0.2221089871831796,2,1,he,SAM,South-America
-'1ff36d7a46',extremes,Drought,#edc291,edo,יובש בלגיה,2026-02-07T04:19:00+00:00,Belgium,0.22177230414542567,2,1,he,WCE,Europe
+'1ff36d7a46',extremes,Drought,#edc291,edo,יובש בלגיה,2026-02-07T04:19:00+00:00,Belgium,0.2217723041454256,2,1,he,WCE,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,משקעים ארגנטינה,2026-02-05T04:27:00+00:00,Argentina,0.2214055292117732,2,1,he,SES,South-America
 '3f0fdf7387',extremes,Earthquake,#870007,usgs,רעידת אדמה אזור צומת משולשת גלפגוס,2026-01-29T04:18:00+00:00,,0.2213833961445965,2,1,he,EPO,Pacific Ocean
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,גל חום צ'ילה,2026-02-05T04:27:00+00:00,Chile,0.2212992152952636,2,1,he,SWS,South-America
@@ -393,7 +393,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '76fbe8d4b1',extremes,Snow&Ice,#d60d2b,wmo,כפור tvrdošín,2026-01-15T10:56:00+00:00,Slovakia,0.191602666979397,3,1,he,WCE,Europe
 '90ea2112ba',extremes,Snow&Ice,#d60d2b,wmo,ice evenkiyskiy mr,2026-01-15T10:56:00+00:00,Russia,0.1916021786433983,3,1,he,ESB,Europe
 '7d79b2a1fb',extremes,Earthquake,#870007,usgs,רעידת אדמה קנקונג,2026-01-15T12:13:00+00:00,Indonesia,0.1669133932736505,4,1,he,NAU,Oceania
-'22cdaf7557',extremes,Drought,#edc291,edo,בצורת מלאווי,2026-01-15T10:57:00+00:00,Malawi,0.1667057350252732,4,1,he,ESAF,Africa
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,השנה הקרה ביותר,2026-01-15T10:20:00+00:00,,0.1250963202419774,1,1,he,,
 'b6cef22543',extremes,Drought,#edc291,random,הגבלת מים,2026-01-15T10:20:00+00:00,,0.1246947166591417,1,1,he,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,נהר אטמוספרי,2026-01-15T10:20:00+00:00,,0.1245904085177332,1,1,he,,
