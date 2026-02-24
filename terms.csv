@@ -1,14 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'054f4c1126',extremes,Fog,#d60d2b,wmo,ערפל עמק יזרעאל,2026-02-05T04:27:00+00:00,Israel,0.7595199275089002,0,1,he,MED,Asia
-'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2026-02-24T04:31:00+00:00,Israel,0.7197592450804827,0,1,he,MED,Asia
 '55d6fd74dc',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות ישראל,2026-02-24T04:31:00+00:00,Israel,0.6676174936636144,0,1,he,MED,Asia
+'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2026-02-24T04:31:00+00:00,Israel,0.6622454033184102,1,1,he,MED,Asia
+'054f4c1126',extremes,Fog,#d60d2b,wmo,ערפל עמק יזרעאל,2026-02-05T04:27:00+00:00,Israel,0.6455919383825651,1,1,he,MED,Asia
 '234a21371e',extremes,Flood,#030ba1,wmo,שיטפון במדבר דרום יהודה ים המלח,2026-02-24T04:31:00+00:00,Israel,0.5527442911455683,0,1,he,MED,Asia
-'81df5b3034',extremes,Storm,#b3b2b1,aidr,סערת ברד בצפון סידני 2017,2026-02-14T04:22:00+00:00,,0.31384200131878925,0,1,he,EAU,Oceania
+'81df5b3034',extremes,Storm,#b3b2b1,aidr,סערת ברד בצפון סידני 2017,2026-02-14T04:22:00+00:00,,0.3138420013187892,0,1,he,EAU,Oceania
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,גל חום פרגוואי,2026-02-18T04:34:00+00:00,Paraguay,0.3049850830869606,0,1,he,SES,South-America
 '83354d3f6e',extremes,Wildfire,#d60d2b,wmo,מחוז שיזונג שריפות בשדה קוצים,2026-02-19T04:32:00+00:00,China,0.3043246491035716,0,1,he,EAS,Asia
 '240affaefb',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות אקוודור יבשת,2026-02-15T04:35:00+00:00,Ecuador,0.3042976129699625,0,1,he,NWS,South-America
 'a2e0bdac9f',extremes,Snow Avalanche,#deddd5,wmo,רפובליקת המפולת של דגסטאן,2026-02-05T04:27:00+00:00,Russia,0.3042906650990862,0,1,he,ESB,Europe
-'e54d4b5814',extremes,Snow Avalanche,#deddd5,wmo,avalanche heiane,2026-02-05T04:27:00+00:00,Norway,0.30429006691575056,0,1,he,NEU,Europe
+'e54d4b5814',extremes,Snow Avalanche,#deddd5,wmo,avalanche heiane,2026-02-05T04:27:00+00:00,Norway,0.3042900669157505,0,1,he,NEU,Europe
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,רעידת אדמה בורמה מיאנמר,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.2681080399540135,1,1,he,SAS,Asia
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,גל חום ארגנטינה,2026-02-10T04:43:00+00:00,Argentina,0.2638306532131708,1,1,he,SES,South-America
 '4efa147b2d',extremes,Precipitation,#d60d2b,wmo,משקעים maeneo machache ya mkoa wa ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.2608026497011275,1,1,he,SEAF,Africa
