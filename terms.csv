@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-02-14T04:21:00+00:00,Israel,0.6724108226046436,1,1,he,MED,Asia
+'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-02-14T04:21:00+00:00,Israel,0.572149259213947,2,1,he,MED,Asia
 '9d5914f39c',extremes,Storm,#b3b2b1,wmo,סערה בדרום איסלנד,2026-02-19T04:32:00+00:00,Iceland,0.3040450891670598,0,1,he,GIC,Europe
 '5c1bd23e01',extremes,Wildfire,#d60d2b,wmo,מחוז שריפות בשדה קוצים,2026-02-16T04:38:00+00:00,China,0.3036797421406025,0,1,he,EAS,Asia
 '005315f555',extremes,Wildfire,#d60d2b,wmo,מחוז האוטונומי Weixi Lisu,2026-02-09T04:39:00+00:00,China,0.3036771320391478,0,1,he,EAS,Asia
@@ -67,7 +67,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eabe6169ab',extremes,Earthquake,#870007,usgs,רעידת אדמה טונגה,2026-02-05T04:27:00+00:00,Tonga,0.2279451740522143,2,1,he,SPO,Pacific Ocean
 '685995fcc4',extremes,Earthquake,#870007,usgs,רעידת אדמה ממערב לאי macquarie,2026-02-05T04:27:00+00:00,,0.2266828364557098,2,1,he,SOO,Antarctica
 'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2026-02-08T04:43:00+00:00,Israel,0.2253604578526588,4,1,he,MED,Asia
-'221e658bfd',extremes,Drought,#edc291,edo,יובש לוקסמבורג,2026-02-10T04:43:00+00:00,Luxembourg,0.2232690607765747,2,1,he,WCE,Europe
 '02f4a27a12',extremes,Earthquake,#870007,usgs,רעידת אדמה mendi,2026-02-05T04:27:00+00:00,Papua New Guinea,0.2227801741866114,2,1,he,SEA,Oceania
 'd4757169ad',extremes,Tropical Cyclone,#4f4f4f,aidr,ציקלון ציקלון יאסי קווינסלנד 2011,2026-02-05T04:28:00+00:00,,0.2227198329302905,2,1,he,NAU,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות ניו זילנד,2026-02-13T04:34:00+00:00,New Zealand,0.222327044303328,2,1,he,NZ,Oceania
@@ -272,7 +271,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6507524436',extremes,Tropical Cyclone,#4f4f4f,wmo,ציקלון טרופי איים עקרים במזרח,2026-02-25T04:32:00+00:00,United States,0.2197087128180341,2,1,he,CNA,North-America
 '2576b3208f',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה kou kamma joubertina,2026-02-10T04:43:00+00:00,South Africa,0.2197067259969505,2,1,he,WSAF,Africa
 'c083328db2',extremes,Wildfire,#d60d2b,wmo,מחוז משתנה של שריפות,2026-02-17T04:31:00+00:00,China,0.219685638058025,2,1,he,EAS,Asia
-'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,גל סערה אלג'יריה,2026-02-15T04:35:00+00:00,Algeria,0.21966588323549804,2,1,he,SAH,Africa
+'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,גל סערה אלג'יריה,2026-02-15T04:35:00+00:00,Algeria,0.219665883235498,2,1,he,SAH,Africa
 '39dd0129b1',extremes,Snow&Ice,#d60d2b,wmo,שלג סרביה,2026-02-09T04:39:00+00:00,Serbia,0.2196564779282271,2,1,he,MED,Europe
 'bcb6cba683',extremes,Precipitation,#d60d2b,wmo,חצי האי גדות גשם זלעפות,2026-02-16T04:38:00+00:00,New Zealand,0.2196210486083339,2,1,he,NZ,Oceania
 '98923c99f8',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות ליטורי,2026-02-18T04:34:00+00:00,Ecuador,0.219605895759741,2,1,he,NWS,South-America
@@ -333,6 +332,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f2b29262f2',extremes,Drought,#edc291,edo,ביובש בלגיה,2026-02-05T04:28:00+00:00,Belgium,0.1902551571648954,3,1,he,WCE,Europe
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,מבול קולומביה,2026-02-22T04:31:00+00:00,Colombia,0.190185449788754,3,1,he,NWS,South-America
 '80a1b6ba6b',extremes,Drought,#edc291,edo,בצורת בלגיה,2026-02-06T04:28:00+00:00,Belgium,0.1901750619068032,3,1,he,WCE,Europe
+'221e658bfd',extremes,Drought,#edc291,edo,יובש לוקסמבורג,2026-02-10T04:43:00+00:00,Luxembourg,0.1897787016600885,3,1,he,WCE,Europe
 'd3353562c0',extremes,Drought,#edc291,edo,יובש ג'יבוטי,2026-02-06T04:28:00+00:00,Djibouti,0.189736228130194,3,1,he,NEAF,Africa
 'dba9977fc1',extremes,Drought,#edc291,edo,חוסר גשם באיי פארו,2026-02-07T04:19:00+00:00,Faroe Islands,0.1894818337099811,3,1,he,NEU,Europe
 '1f1fab5693',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות ברפובליקה של קונגו,2026-02-13T04:34:00+00:00,Republic of the Congo,0.1892965444893976,3,1,he,CAF,Africa
