@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'5acb09ddba',extremes,Iceberg,#d60d2b,eonet,iceberg d32,2026-03-06T04:21:00+00:00,,0.3184806660855388,0,1,he,EAN,
+'0c9a570bb1',extremes,Storm,#b3b2b1,aidr,טורנדו מורי ריבר עיירות ויקטוריה 2013,2026-02-26T04:29:00+00:00,Australia,0.3097292025722298,0,1,he,SAU,Oceania
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות ברזיל,2026-02-28T04:07:00+00:00,Brazil,0.30633606179389083,0,1,he,SAM,South-America
+'f9551e9298',extremes,Flood,#030ba1,wmo,flashflood mendocino כ,2026-02-25T04:32:00+00:00,United States,0.3028320575713683,0,1,he,CNA,North-America
+'84eb3ca3bf',extremes,Fog,#d60d2b,wmo,אזור אסטרחאן ערפל,2026-02-15T04:35:00+00:00,Russia,0.30283043267758364,0,1,he,ESB,Europe
+'bc6a2eebfd',extremes,Snow&Ice,#d60d2b,wmo,שלג דלפק,2026-02-22T04:30:00+00:00,Canada,0.3028288427855025,0,1,he,NEN,North-America
+'644b9190d6',extremes,Flood,#030ba1,wmo,פלאש מבול סלובקיה,2026-02-16T04:38:00+00:00,Slovakia,0.3028176313831614,0,1,he,WCE,Europe
+'2b705832db',extremes,Snow Avalanche,#deddd5,wmo,רפובליקת המפולת של צפון אוסטיה אלניה,2026-02-25T04:32:00+00:00,Russia,0.3028026665703065,0,1,he,ESB,Europe
+'7c16bb36e0',extremes,Storm,#b3b2b1,wmo,גל סערה manawatu,2026-02-15T04:35:00+00:00,New Zealand,0.3027728612675862,0,1,he,NZ,Oceania
+'7be17d2b72',extremes,Storm,#b3b2b1,wmo,storm litoral y occidente de sierra,2026-03-01T04:35:00+00:00,Ecuador,0.3027407097453443,0,1,he,NWS,South-America
 'e5cad95879',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ישראל,2026-02-14T04:21:00+00:00,Israel,0.2789892112101881,6,1,he,MED,Asia
 'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2026-02-24T04:31:00+00:00,Israel,0.2736938392729877,8,1,he,MED,Asia
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,לחש חם טסמניה,2026-03-05T04:24:00+00:00,Australia,0.2713560046315142,1,1,he,SAU,Oceania
@@ -305,7 +315,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '53fda39314',extremes,Drought,#edc291,edo,חוסר גשם ליטא,2026-03-04T04:21:00+00:00,Lithuania,0.2189038858127699,2,1,he,WCE,Europe
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,מפולת ארצות הברית,2026-02-11T04:41:00+00:00,United States,0.2188875046602563,2,1,he,CNA,North-America
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,קרח איסלנד,2026-02-26T04:29:00+00:00,Iceland,0.2188735266700716,2,1,he,GIC,Europe
-'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,רפובליקת המפולת של חאקאסיה,2026-02-25T04:32:00+00:00,Russia,0.21887052084212244,2,1,he,ESB,Europe
+'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,רפובליקת המפולת של חאקאסיה,2026-02-25T04:32:00+00:00,Russia,0.2188705208421224,2,1,he,ESB,Europe
 '1bb9c937df',extremes,Snow&Ice,#d60d2b,wmo,שלג צ'כיה,2026-02-15T04:35:00+00:00,Czechia,0.2188678738331249,2,1,he,WCE,Europe
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות בערב הסעודית,2026-02-27T04:26:00+00:00,Saudi Arabia,0.2188310999840518,2,1,he,ARP,Asia
 '5886848c6d',extremes,Wildfire,#d60d2b,wmo,אש בשדה קוצים jinggu,2026-02-15T04:35:00+00:00,China,0.2188106480567382,2,1,he,EAS,Asia
