@@ -1,5 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ed9d62bfef',extremes,Thunderstorm,#53785a,wmo,שלום ישראל,2026-02-24T04:31:00+00:00,Israel,0.7197592450804827,0,1,he,MED,Asia
 '55d6fd74dc',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות ישראל,2026-02-24T04:31:00+00:00,Israel,0.4823536391719614,2,1,he,MED,Asia
+'7f426032e8',extremes,Drought,#edc291,edo,ביובש בהוטן,2026-03-06T04:21:00+00:00,Bhutan,0.3086501780272623,0,1,he,TIB,Asia
+'23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,גשם שוטף בטנזניה,2026-03-04T04:20:00+00:00,Tanzania,0.3035679296525882,0,1,he,SEAF,Africa
+'fe5dc71b7f',extremes,Storm,#b3b2b1,wmo,סערה מנדוזה סן קרלוס סן רפאל.,2026-03-14T04:22:00+00:00,Argentina,0.3035176672347151,0,1,he,SES,South-America
+'70773b5956',extremes,Earthquake,#870007,usgs,רעידת אדמה אלסקה,2026-02-25T04:32:00+00:00,Alaska,0.3016907617124394,0,1,he,NPO,Pacific Ocean
+'b4e660db49',extremes,Drought,#edc291,edo,בצורת אורוגוואי,2026-03-06T04:21:00+00:00,Uruguay,0.3016125140710083,0,1,he,SES,South-America
+'8d0d34d451',extremes,Flood,#030ba1,wmo,הצפה קווינסלנד נהר ליכהרדט,2026-02-25T04:32:00+00:00,Australia,0.3013401616721047,0,1,he,CAU,Oceania
+'33030ebc24',extremes,Flood,#030ba1,wmo,מציפה את צרפת,2026-02-26T04:29:00+00:00,France,0.3013008090377669,0,1,he,WCE,Europe
+'aa37cddd19',extremes,Snow&Ice,#d60d2b,wmo,כפור בצפון מזרח איסלנד,2026-03-11T04:22:00+00:00,Iceland,0.3012934122156923,0,1,he,GIC,Europe
+'a8ed721e08',extremes,Fog,#d60d2b,wmo,ערפל הודו,2026-03-02T04:27:00+00:00,India,0.3012932554132724,0,1,he,SAS,Asia
 'aab7909052',extremes,Fog,#d60d2b,wmo,ערפל ישראל,2026-03-14T04:22:00+00:00,Israel,0.2618858856888125,6,1,he,MED,Asia
 'd61de81685',extremes,Storm,#b3b2b1,wmo,גל סערה צ'ילה,2026-03-03T04:27:00+00:00,Chile,0.2585612006716396,1,1,he,SWS,South-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,גשם בניו זילנד,2026-03-05T04:24:00+00:00,New Zealand,0.258451802413449,1,1,he,NZ,Oceania
@@ -44,8 +54,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0de7f7e548',extremes,Drought,#edc291,edo,בצורת קניה,2026-02-22T04:31:00+00:00,Kenya,0.2240010749419954,2,1,he,SEAF,Africa
 'af5e4ac005',extremes,Drought,#edc291,edo,כישוף יבש דנמרק,2026-02-27T04:26:00+00:00,Denmark,0.2231279983757032,2,1,he,NEU,Europe
 '69f6b18bc8',extremes,Drought,#edc291,edo,חוסר גשם בנגלדש,2026-03-14T04:23:00+00:00,Bangladesh,0.22307293450428,2,1,he,SAS,Asia
-'9e020e244e',extremes,Drought,#edc291,edo,יובש בפולין,2026-03-11T04:22:00+00:00,Poland,0.22295341981834363,2,1,he,WCE,Europe
-'8a654473a4',extremes,Drought,#edc291,edo,בצורת סאו טומה ופרינסיפה,2026-03-10T04:22:00+00:00,Sao Tome and Principe,0.22157966715439903,2,1,he,WAF,Africa
+'9e020e244e',extremes,Drought,#edc291,edo,יובש בפולין,2026-03-11T04:22:00+00:00,Poland,0.2229534198183436,2,1,he,WCE,Europe
+'8a654473a4',extremes,Drought,#edc291,edo,בצורת סאו טומה ופרינסיפה,2026-03-10T04:22:00+00:00,Sao Tome and Principe,0.221579667154399,2,1,he,WAF,Africa
 '0769f23236',extremes,Wildfire,#d60d2b,emdat,שריפת יער כפרי ndoubadoudou,2026-03-14T04:23:00+00:00,Central African Republic,0.2215407235080997,2,1,he,CAF,Africa
 '0511e6ef31',extremes,Drought,#edc291,edo,יובש אסטוניה,2026-02-28T04:07:00+00:00,Estonia,0.221491246552545,2,1,he,NEU,Europe
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,גשם ברזיל,2026-02-26T04:29:00+00:00,Brazil,0.2214164949227398,2,1,he,SAM,South-America
@@ -66,7 +76,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,משקעים ניו זילנד,2026-03-06T04:21:00+00:00,New Zealand,0.2205946647018258,2,1,he,NZ,Oceania
 '20d3210be7',extremes,Heat Wave,#c40202,wmo,גל חום ברנרדו דה איריגויאן y alrededores,2026-02-22T04:30:00+00:00,Argentina,0.22058126557763,2,1,he,SES,South-America
 '9adb4dd6c5',extremes,Precipitation,#d60d2b,wmo,גשם שוטף מאינו מצ'צ'ה יא מקואה ורבומה.,2026-02-17T04:31:00+00:00,Tanzania,0.2205746552429318,2,1,he,SEAF,Africa
-'db0dc2e604',extremes,Precipitation,#d60d2b,wmo,משקעים סיישל,2026-03-12T04:26:00+00:00,Seychelles,0.22056982309771872,2,1,he,EIO,Africa
+'db0dc2e604',extremes,Precipitation,#d60d2b,wmo,משקעים סיישל,2026-03-12T04:26:00+00:00,Seychelles,0.2205698230977187,2,1,he,EIO,Africa
 '97bdbea9e0',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות אמזוניה.,2026-03-04T04:20:00+00:00,Ecuador,0.2205530820390161,2,1,he,NWS,South-America
 'f0dc39c1d8',extremes,Storm,#b3b2b1,wmo,סערה סיירה סור,2026-02-13T04:34:00+00:00,Ecuador,0.2205473426773827,2,1,he,NWS,South-America
 '7b864c9f0d',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות סיירה,2026-03-08T04:24:00+00:00,Ecuador,0.2205461946934323,2,1,he,NWS,South-America
@@ -122,7 +132,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '240affaefb',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות אקוודור יבשת,2026-02-15T04:35:00+00:00,Ecuador,0.2198550253707978,2,1,he,NWS,South-America
 '042968096b',extremes,Storm,#b3b2b1,wmo,סערה איסלנד,2026-02-22T04:30:00+00:00,Iceland,0.2198352518950296,2,1,he,GIC,Europe
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,סערה ליטורל,2026-02-19T04:32:00+00:00,Ecuador,0.2198291688692744,2,1,he,NWS,South-America
-'61a00c0855',extremes,Drought,#edc291,edo,יובש סורינאם,2026-03-04T04:21:00+00:00,Suriname,0.21980390087537277,2,1,he,NSA,South-America
+'61a00c0855',extremes,Drought,#edc291,edo,יובש סורינאם,2026-03-04T04:21:00+00:00,Suriname,0.2198039008753727,2,1,he,NSA,South-America
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,מפולת צרפת,2026-02-25T04:32:00+00:00,France,0.219796221155224,2,1,he,WCE,Europe
 '2876c1c93a',extremes,Landslide,#572c03,wmo,מפולת בוץ נורווגיה,2026-02-25T04:32:00+00:00,Norway,0.2197958177537149,2,1,he,NEU,Europe
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,avalanche finnmarkskysten,2026-02-25T04:32:00+00:00,Norway,0.2197945918441279,2,1,he,NEU,Europe
@@ -135,7 +145,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3353502ff9',extremes,Thunderstorm,#53785a,wmo,סופת רעמים באיים הדרומיים של ונואטו.,2026-02-22T04:30:00+00:00,Vanuatu,0.2197439435334276,2,1,he,SPO,Oceania
 '155c83286e',extremes,Precipitation,#d60d2b,wmo,חצי האי קורומנדל גשם,2026-03-11T04:22:00+00:00,New Zealand,0.2197372814776713,2,1,he,NZ,Oceania
 '9a84ac4373',extremes,Tsunami,#690191,usgs,צונאמי אלסקה,2026-02-25T04:32:00+00:00,Alaska,0.2197335868432392,2,1,he,NWN,North-America
-'6b892b36d0',extremes,Storm,#b3b2b1,wmo,סערה אזור 1 - בינונית,2026-03-10T04:22:00+00:00,Paraguay,0.21973237856477518,2,1,he,SES,South-America
+'6b892b36d0',extremes,Storm,#b3b2b1,wmo,סערה אזור 1 - בינונית,2026-03-10T04:22:00+00:00,Paraguay,0.2197323785647751,2,1,he,SES,South-America
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,avalanche lyngen,2026-02-25T04:32:00+00:00,Norway,0.2197208054388644,2,1,he,NEU,Europe
 '6507524436',extremes,Tropical Cyclone,#4f4f4f,wmo,ציקלון טרופי איים עקרים במזרח,2026-02-25T04:32:00+00:00,United States,0.2197087128180341,2,1,he,CNA,North-America
 '9d5914f39c',extremes,Storm,#b3b2b1,wmo,סערה בדרום איסלנד,2026-02-19T04:32:00+00:00,Iceland,0.2196725769232007,2,1,he,GIC,Europe
@@ -264,7 +274,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8465f983bf',extremes,Storm,#b3b2b1,wmo,גל סערה בכר,2026-03-01T04:35:00+00:00,Algeria,0.2178867726735091,2,1,he,SAH,Africa
 '6f085c2045',extremes,Snow Avalanche,#deddd5,wmo,מפולת krasnodar krai,2026-02-26T04:29:00+00:00,Russia,0.2178615254827348,2,1,he,ESB,Europe
 'f872d27104',extremes,Snow Avalanche,#deddd5,wmo,מפולת רפובליקת קברדינו בלקר,2026-03-01T04:35:00+00:00,Russia,0.2177577462873478,2,1,he,ESB,Europe
-'fcb1daa9f9',extremes,Snow Avalanche,#deddd5,wmo,רפובליקת מפולת טובה,2026-02-27T04:26:00+00:00,Russia,0.21774484528404886,2,1,he,ESB,Europe
+'fcb1daa9f9',extremes,Snow Avalanche,#deddd5,wmo,רפובליקת מפולת טובה,2026-02-27T04:26:00+00:00,Russia,0.2177448452840488,2,1,he,ESB,Europe
 'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,avalanche sunnmøre,2026-02-27T04:26:00+00:00,Norway,0.2176914185989187,2,1,he,NEU,Europe
 '6e08a1f3a5',extremes,Snow&Ice,#d60d2b,wmo,ישראל מקפיאה,2026-03-10T04:22:00+00:00,Israel,0.2149489799408135,7,1,he,MED,Asia
 '0d9db7ec5c',extremes,Drought,#edc291,edo,יובש ישראל,2026-03-10T04:22:00+00:00,Israel,0.2103038762888778,5,1,he,MED,Asia
@@ -326,7 +336,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות בארגנטינה,2026-02-26T04:29:00+00:00,Argentina,0.1877096734187296,3,1,he,SES,South-America
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,גשם סיישל,2026-02-16T04:38:00+00:00,Seychelles,0.1876989119790656,3,1,he,EIO,Africa
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,גשם באקוודור,2026-02-17T04:31:00+00:00,Ecuador,0.1876815948239038,3,1,he,NWS,South-America
-'a28c87399b',extremes,Heat Wave,#c40202,wmo,גל חום reg. 4 פרקורדילר,2026-02-18T04:34:00+00:00,Chile,0.18751078450338157,3,1,he,SWS,South-America
+'a28c87399b',extremes,Heat Wave,#c40202,wmo,גל חום reg. 4 פרקורדילר,2026-02-18T04:34:00+00:00,Chile,0.1875107845033815,3,1,he,SWS,South-America
 '039582a476',extremes,Storm,#b3b2b1,wmo,גל סערה litoral de la provincia de huasco,2026-02-16T04:38:00+00:00,Chile,0.1874255737218269,3,1,he,SWS,South-America
 'ca1f8ee565',extremes,Drought,#edc291,edo,יובש נפאל,2026-03-04T04:21:00+00:00,Nepal,0.1873880708550311,3,1,he,TIB,Asia
 'e7eb516918',extremes,Snow&Ice,#d60d2b,wmo,רפובליקת השלג של מולדובה,2026-02-18T04:34:00+00:00,Republic of Moldova,0.1873555850471304,3,1,he,WCE,Europe
