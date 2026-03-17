@@ -14,6 +14,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d0d34d451',extremes,Flood,#030ba1,wmo,הצפה קווינסלנד נהר ליכהרדט,2026-02-25T04:32:00+00:00,Australia,0.3013401616721047,0,1,he,CAU,Oceania
 '33030ebc24',extremes,Flood,#030ba1,wmo,מציפה את צרפת,2026-02-26T04:29:00+00:00,France,0.3013008090377669,0,1,he,WCE,Europe
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,ערפל הודו,2026-03-02T04:27:00+00:00,India,0.3012932554132724,0,1,he,SAS,Asia
+'979cf49354',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה באיים המרכזיים והדרומיים.,2026-02-28T04:07:00+00:00,Vanuatu,0.3012812736148391,0,1,he,SPO,Oceania
+'4bfaf4db07',extremes,Flood,#030ba1,wmo,מבול tehama כ,2026-02-25T04:32:00+00:00,United States,0.3012805934329552,0,1,he,CNA,North-America
+'957a7a09df',extremes,Earthquake,#870007,usgs,רעידת אדמה תחנת attu,2026-03-03T04:26:00+00:00,Alaska,0.3012786131094612,0,1,he,NPO,Pacific Ocean
+'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,ניו זילנד מקפיאה,2026-03-01T04:35:00+00:00,New Zealand,0.3012735554595149,0,1,he,NZ,Oceania
+'b7e98968c0',extremes,Cold Wave,#a7e9fa,wmo,עיר חמי מקפיאה,2026-03-12T04:26:00+00:00,China,0.3012303417424658,0,1,he,EAS,Asia
+'09cc521892',extremes,Storm,#b3b2b1,wmo,נחשול סערה פנים del litoral.,2026-03-03T04:27:00+00:00,Ecuador,0.3012236574640623,0,1,he,NWS,South-America
+'24b660695f',extremes,Landslide,#572c03,wmo,מפולת בוץ סין,2026-02-26T04:29:00+00:00,China,0.3011511596417897,0,1,he,EAS,Asia
+'5048c7ae99',extremes,Storm,#b3b2b1,wmo,גל סערה בצפון מזרח איסלנד,2026-03-10T04:22:00+00:00,Iceland,0.3011359045890096,0,1,he,GIC,Europe
+'631bd831f6',extremes,Tsunami,#690191,usgs,צונאמי איי שלמה,2026-03-07T04:12:00+00:00,Solomon Islands,0.30112147515250703,0,1,he,SPO,Pacific Ocean
+'30e79eda20',extremes,Storm,#b3b2b1,wmo,סערה בדרום מזרח איסלנד,2026-03-02T04:27:00+00:00,Iceland,0.3011154206762354,0,1,he,GIC,Europe
 '7f426032e8',extremes,Drought,#edc291,edo,ביובש בהוטן,2026-03-06T04:21:00+00:00,Bhutan,0.2623526513231729,1,1,he,TIB,Asia
 'aab7909052',extremes,Fog,#d60d2b,wmo,ערפל ישראל,2026-03-14T04:22:00+00:00,Israel,0.2618858856888125,6,1,he,MED,Asia
 'b6a7c43ff9',extremes,Drought,#edc291,edo,יובש בנגלדש,2026-02-28T04:07:00+00:00,Bangladesh,0.2596815614835169,1,1,he,SAS,Asia
