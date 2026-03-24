@@ -11,10 +11,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3738ea4320',extremes,Precipitation,#d60d2b,wmo,משקעים אורוגוואי,2026-03-23T04:42:00+00:00,Uruguay,0.3037483174497337,0,1,he,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,גשם בארגנטינה,2026-03-18T04:36:00+00:00,Argentina,0.3035564454851072,0,1,he,SES,South-America
 '09a4f258b3',extremes,Flood,#030ba1,wmo,מבול בליטא,2026-03-15T04:45:00+00:00,Lithuania,0.3032211140895351,0,1,he,WCE,Europe
+'72b409d93a',extremes,Thunderstorm,#53785a,wmo,סופת רעמים אלג'יריה,2026-03-23T04:42:00+00:00,Algeria,0.302900514416355,0,1,he,SAH,Africa
+'7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,כפור גרמניה,2026-03-17T04:30:00+00:00,Germany,0.302319813409862,0,1,he,WCE,Europe
+'5cb766f03d',extremes,Storm,#b3b2b1,wmo,נחשול סערה אזור 2 - בינוני,2026-03-23T04:42:00+00:00,Paraguay,0.3017737874349709,0,1,he,SES,South-America
 '27476cedd4',extremes,Snow Avalanche,#deddd5,wmo,מפולת מדרום לקריית קראסנויארסק,2026-03-03T04:27:00+00:00,Russia,0.3016744982609392,0,1,he,ESB,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,ערפל גרמניה,2026-03-18T04:36:00+00:00,Germany,0.301570779015968,0,1,he,WCE,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,סערה איסלנד,2026-03-17T04:30:00+00:00,Iceland,0.301549649850429,0,1,he,GIC,Europe
+'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,מפולת מלוחה,2026-03-22T04:33:00+00:00,Norway,0.3015325522744629,0,1,he,NEU,Europe
+'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,מפולת nord troms,2026-03-17T04:30:00+00:00,Norway,0.30153174468190197,0,1,he,NEU,Europe
+'c8be322002',extremes,Snow Avalanche,#deddd5,wmo,מפולת hallingdal,2026-03-20T04:26:00+00:00,Norway,0.3014747300704044,0,1,he,NEU,Europe
 'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות אלג'יריה,2026-03-21T04:17:00+00:00,Algeria,0.3014269212765595,0,1,he,SAH,Africa
+'00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,ציקלון אוסטרליה,2026-03-19T04:35:00+00:00,Australia,0.3013879266688392,0,1,he,CAU,Oceania
+'5b84b6b854',extremes,Tsunami,#690191,usgs,צונאמי בצפון הרכס האמצע האטלנטי,2026-03-22T04:33:00+00:00,,0.30128688811271676,0,1,he,NAO,Atlantic Ocean
+'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,ציקלון 2019 היה ציקלון טרופי קשה ורוניקה,2026-03-17T04:31:00+00:00,Australia,0.30127090757384534,0,1,he,CAU,Oceania
+'23e1a35af5',extremes,Tropical Cyclone,#4f4f4f,wmo,מפרץ טייפון ביגל למפרץ קורי.,2026-03-23T04:42:00+00:00,Australia,0.30119751134970507,0,1,he,CAU,Oceania
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,מפולת ארצות הברית,2026-03-12T04:26:00+00:00,United States,0.3009114025123489,0,1,he,CNA,North-America
 'a68abd98d6',extremes,Snow Avalanche,#deddd5,wmo,avalanche vest finnmark,2026-03-20T04:26:00+00:00,Norway,0.3007225350496376,0,1,he,NEU,Europe
 '426ae6362d',extremes,Snow&Ice,#d60d2b,wmo,frost oron – haute broye,2026-03-13T04:25:00+00:00,Switzerland,0.3005592541141564,0,1,he,WCE,Europe
