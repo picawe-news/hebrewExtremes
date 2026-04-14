@@ -1,0 +1,32 @@
+,phrase,label,sentiment,subjectivity,language,count
+Trump,Trump,ORG,0.11764705882352941,0.2941176470588235,en,3.4000000000000004
+Hezbollah,Hezbollah,ORG,0.11197916666666662,0.8098958333333334,en,3.2
+Shoveli,Shoveli,ORG,-0.21666666666666667,0.0,en,1.0
+the Palestinian Authority,the Palestinian Authority,ORG,0.0,0.0,en,1.0
+the Nations League,the Nations League,ORG,0.0,0.0,en,1.0
+Drohda United,Drohda United,ORG,0.0,0.0,en,1.0
+UAV,UAV,ORG,0.0,0.0,en,1.0
+Candlebro,Candlebro,ORG,0.0,0.0,en,1.0
+Israel Post,Israel Post,ORG,0.0,0.0,en,1.0
+Interior Ministry's,Interior Ministry's,ORG,0.0,0.0,en,1.0
+the General Assembly,the General Assembly,ORG,0.10833333333333335,0.0,en,1.0
+the UN Assembly,the UN Assembly,ORG,0.3,0.0,en,1.0
+Witkoff,Witkoff,ORG,0.0,0.0,en,1.0
+MSNBC,MSNBC,ORG,0.125,0.0,en,1.0
+Rio,Rio,ORG,0.65,0.0,en,1.0
+The Jewish Confederation of Brazil,The Jewish Confederation of Brazil,ORG,0.0,0.0,en,1.0
+NIS,NIS,ORG,0.15,0.0,en,1.0
+Nuno,Nuno,ORG,0.0,0.0,en,1.0
+the Electric Company,the Electric Company,ORG,0.0,0.0,en,1.0
+The Nuno Group,The Nuno Group,ORG,0.4,0.0,en,1.0
+Mossad,Mossad,ORG,-0.07142857142857142,0.0,en,1.0
+Likud,Likud,ORG,-0.05,0.0,en,1.0
+Nahal,Nahal,ORG,-0.06666666666666667,0.0,en,1.0
+Defense,Defense,ORG,-0.06666666666666667,0.0,en,1.0
+the International Stabilization Force,the International Stabilization Force,ORG,-0.016666666666666663,0.0,en,1.0
+State,State,ORG,0.0,0.0,en,1.0
+Hamas,Hamas,ORG,-0.016666666666666663,0.5020833333333333,en,1.0
+Swift,Swift,ORG,-0.5,0.0,en,1.0
+the Air Force,the Air Force,ORG,6.938893903907228e-18,0.0,en,1.0
+the European Broadcasting Union,the European Broadcasting Union,ORG,-0.08333333333333333,0.0,en,1.0
+Hizbollah,Hizbollah,ORG,0.125,0.0,en,1.0

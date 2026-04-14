@@ -1,0 +1,2 @@
+domain,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
+www.ynet.co.il,0.055257369614512476,0.1553753605955307,0.4149787672644816,0.21607895915605552,35.0
