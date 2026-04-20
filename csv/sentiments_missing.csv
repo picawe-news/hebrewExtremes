@@ -1,24 +1,25 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Israeli,Israeli,NORP,,,en,6.6
-Palestinian,Palestinian,NORP,,,en,3.4000000000000004
-Lebanese,Lebanese,NORP,,,en,2.7
-American,American,NORP,,,en,2.6
-Jewish,Jewish,NORP,,,en,1.8
-European,European,NORP,,,en,1.8
-Hundreds,Hundreds,CARDINAL,,,en,1.0
-an election year,an election year,DATE,,,en,1.0
-Carnival,Carnival,FAC,,,en,1.0
-Brazilian,Brazilian,NORP,,,en,1.0
-today,today,DATE,,,en,1.0
-anti-Semitic,anti-Semitic,NORP,,,en,1.0
-Brings out the romance,Brings out the romance,WORK_OF_ART,,,en,1.0
-Moroccans,Moroccans,NORP,,,en,1.0
+Lebanese,Lebanese,NORP,,,en,3.5999999999999996
+Israeli,Israeli,NORP,,,en,2.4000000000000004
+ynet,ynet,NORP,,,en,1.8
+15,15,CARDINAL,,,en,1.8
+Palestinian,Palestinian,NORP,,,en,1.3000000000000003
+American,American,NORP,,,en,1.2000000000000002
+Jewish,Jewish,NORP,,,en,1.1
+European,European,NORP,,,en,1.1
 pro-Palestinian,pro-Palestinian,NORP,,,en,1.0
-Algerians,Algerians,NORP,,,en,1.0
+Moroccans,Moroccans,NORP,,,en,1.0
+Brings out the romance,Brings out the romance,WORK_OF_ART,,,en,1.0
+today,today,DATE,,,en,1.0
+zero,zero,CARDINAL,,,en,1.0
+Brazilian,Brazilian,NORP,,,en,1.0
+Carnival,Carnival,FAC,,,en,1.0
+an election year,an election year,DATE,,,en,1.0
 tonight,tonight,TIME,,,en,1.0
 Iranian,Iranian,NORP,,,en,1.0
-more than 116 mm,more than 116 mm,QUANTITY,,,en,1.0
-zero,zero,CARDINAL,,,en,1.0
+anti-Semitic,anti-Semitic,NORP,,,en,1.0
+Hundreds,Hundreds,CARDINAL,,,en,1.0
+105 km,105 km,QUANTITY,,,en,1.0
 Moroccan,Moroccan,NORP,,,en,1.0
 Cintorino,Cintorino,NORP,,,en,1.0
 Ukrainian,Ukrainian,NORP,,,en,1.0
@@ -32,27 +33,26 @@ Chilean,Chilean,NORP,,,en,1.0
 Argentine,Argentine,NORP,,,en,1.0
 swastika,swastika,NORP,,,en,1.0
 French,French,NORP,,,en,1.0
-105 km,105 km,QUANTITY,,,en,1.0
+Irish,Irish,NORP,,,en,1.0
+Algerians,Algerians,NORP,,,en,1.0
 | Watch,| Watch,WORK_OF_ART,,,en,1.0
+more than 116 mm,more than 116 mm,QUANTITY,,,en,1.0
 |,|,CARDINAL,,,en,1.0
-the past few months,the past few months,DATE,,,en,1.0
 the age of 88,the age of 88,DATE,,,en,1.0
 Mediterranean,Mediterranean,NORP,-0.21666666666666667,0.6,en,1.0
 the late 1950s,the late 1950s,DATE,,,en,1.0
 the 1960s,the 1960s,DATE,,,en,1.0
 three,three,CARDINAL,,,en,1.0
-ynet,ynet,NORP,,,en,1.0
 2045,2045,DATE,,,en,1.0
 years,years,DATE,,,en,1.0
 Mekorot,Mekorot,NORP,,,en,1.0
 Ynet,Ynet,NORP,,,en,1.0
 2026 Live,2026 Live,WORK_OF_ART,,,en,1.0
 2026,2026,DATE,,,en,1.0
+the past few months,the past few months,DATE,,,en,1.0
 the end of the year,the end of the year,DATE,,,en,1.0
-More than 100 mm,More than 100 mm,QUANTITY,,,en,1.0
 Days,Days,DATE,,,en,1.0
 less than a month,less than a month,DATE,,,en,1.0
-15,15,CARDINAL,,,en,1.0
 two,two,CARDINAL,,,en,1.0
 several days,several days,DATE,,,en,1.0
 Italian,Italian,NORP,,,en,1.0
@@ -62,4 +62,5 @@ a few hours later,a few hours later,TIME,,,en,1.0
 the past year,the past year,DATE,,,en,1.0
 Am Yisrael Chai,Am Yisrael Chai,WORK_OF_ART,,,en,1.0
 Rabbi,Rabbi,NORP,,,en,1.0
-Irish,Irish,NORP,,,en,1.0
+More than 100 mm,More than 100 mm,QUANTITY,,,en,1.0
+May 1983,May 1983,DATE,,,en,1.0
