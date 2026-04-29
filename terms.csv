@@ -339,7 +339,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,סערה טרופית סינלאקו,2026-04-11T04:34:00+00:00,,0.2270433773269319,2,1,he,NPO,Pacific Ocean
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,טמפרטורות קפואות בדרום אוסטרליה,2026-03-31T05:00:00+00:00,Australia,0.226973212446242,2,1,he,SAU,Oceania
 '75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,קדחת הטריטוריה הצפונית,2026-03-31T05:00:00+00:00,Australia,0.2266105726689172,2,1,he,NAU,Oceania
-'1a89155ed1',extremes,Drought,#edc291,edo,חוסר גשם סאו טומה ופרינסיפה,2026-04-22T05:13:00+00:00,Sao Tome and Principe,0.22603257481187058,2,1,he,WAF,Africa
+'1a89155ed1',extremes,Drought,#edc291,edo,חוסר גשם סאו טומה ופרינסיפה,2026-04-22T05:13:00+00:00,Sao Tome and Principe,0.2260325748118705,2,1,he,WAF,Africa
 '17a0d42ea4',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי מיילה,2026-04-05T05:01:00+00:00,,0.2257218028385343,2,1,he,EPO,Pacific Ocean
 'db9244a045',extremes,Drought,#edc291,acwe,יבשה ויקטוריה,2026-03-29T05:01:00+00:00,Australia,0.2256810433493313,2,1,he,SAU,Oceania
 '0fce4685d1',extremes,Tropical Cyclone,#4f4f4f,eonet,ציקלון טרופי vaianu,2026-04-06T05:11:00+00:00,,0.225451378901417,2,1,he,SPO,Pacific Ocean
@@ -394,7 +394,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12f98a50ad',extremes,Snow Avalanche,#deddd5,wmo,avalanche hardanger,2026-04-10T05:13:00+00:00,Norway,0.2189291121351544,2,1,he,NEU,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,ערפל בלגיה,2026-04-01T05:12:00+00:00,Belgium,0.2188327915209879,2,1,he,WCE,Europe
 '93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,טייפון אוסטרליה,2026-04-07T04:59:00+00:00,Australia,0.2184990231159798,2,1,he,NAU,Oceania
-'3a67915e02',extremes,Earthquake,#870007,usgs,רעידת אדמה פרו,2026-04-06T05:11:00+00:00,Peru,0.21831677930550383,2,1,he,NWS,South-America
+'3a67915e02',extremes,Earthquake,#870007,usgs,רעידת אדמה פרו,2026-04-06T05:11:00+00:00,Peru,0.2183167793055038,2,1,he,NWS,South-America
 'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,רפובליקת המפולת של חאקאסיה,2026-04-11T04:34:00+00:00,Russia,0.2183089703448465,2,1,he,ESB,Europe
 'ea0aa28870',extremes,Drought,#edc291,edo,חוסר גשם פינלנד,2026-04-02T04:42:00+00:00,Finland,0.2182403703785734,2,1,he,NEU,Europe
 '1a787f170e',extremes,Fog,#d60d2b,wmo,ערפל בריטניה,2026-04-25T05:00:00+00:00,United Kingdom,0.2182261362730489,2,1,he,NEU,Europe
