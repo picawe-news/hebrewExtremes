@@ -7,11 +7,10 @@ Palestinian,Palestinian,NORP,,,en,1.3000000000000003
 American,American,NORP,,,en,1.2000000000000002
 European,European,NORP,,,en,1.1
 Jewish,Jewish,NORP,,,en,1.1
-swastika,swastika,NORP,,,en,1.0
-zero,zero,CARDINAL,,,en,1.0
+French,French,NORP,,,en,1.0
 pro-Palestinian,pro-Palestinian,NORP,,,en,1.0
-May 1983,May 1983,DATE,,,en,1.0
 Moroccans,Moroccans,NORP,,,en,1.0
+Jews,Jews,NORP,,,en,1.0
 Brings out the romance,Brings out the romance,WORK_OF_ART,,,en,1.0
 today,today,DATE,,,en,1.0
 anti-Semitic,anti-Semitic,NORP,,,en,1.0
@@ -20,11 +19,12 @@ Carnival,Carnival,FAC,,,en,1.0
 an election year,an election year,DATE,,,en,1.0
 tonight,tonight,TIME,,,en,1.0
 Iranian,Iranian,NORP,,,en,1.0
-Irish,Irish,NORP,,,en,1.0
-Argentine,Argentine,NORP,,,en,1.0
+zero,zero,CARDINAL,,,en,1.0
 Moroccan,Moroccan,NORP,,,en,1.0
-Algerians,Algerians,NORP,,,en,1.0
+swastika,swastika,NORP,,,en,1.0
+May 1983,May 1983,DATE,,,en,1.0
 Cintorino,Cintorino,NORP,,,en,1.0
+Algerians,Algerians,NORP,,,en,1.0
 Ukrainian,Ukrainian,NORP,,,en,1.0
 4th,4th,ORDINAL,,,en,1.0
 Americans,Americans,NORP,,,en,1.0
@@ -33,7 +33,8 @@ Egyptian,Egyptian,NORP,,,en,1.0
 first,first,ORDINAL,,,en,1.0
 the weekend,the weekend,DATE,,,en,1.0
 Chilean,Chilean,NORP,,,en,1.0
-French,French,NORP,,,en,1.0
+Argentine,Argentine,NORP,,,en,1.0
+Irish,Irish,NORP,,,en,1.0
 Hundreds,Hundreds,CARDINAL,,,en,1.0
 More than 100 mm,More than 100 mm,QUANTITY,,,en,1.0
 105 km,105 km,QUANTITY,,,en,1.0
@@ -64,4 +65,4 @@ Am Yisrael Chai,Am Yisrael Chai,WORK_OF_ART,,,en,1.0
 Rabbi,Rabbi,NORP,,,en,1.0
 | Watch,| Watch,WORK_OF_ART,,,en,1.0
 |,|,CARDINAL,,,en,1.0
-Jews,Jews,NORP,,,en,1.0
+Nine days,Nine days,DATE,,,en,1.0
