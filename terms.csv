@@ -239,7 +239,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2fcbfb335a',extremes,Drought,#edc291,wmo,בצורת olomoucký kraj konice prostějov,2026-05-03T05:44:00+00:00,Czechia,0.1852581962888205,3,1,he,WCE,Europe
 'b2f7553dba',extremes,Storm,#b3b2b1,wmo,נחשול סערה אזור ליטורל,2026-05-01T05:54:00+00:00,Ecuador,0.1851795463019943,3,1,he,NWS,South-America
 '6680336437',extremes,Fog,#d60d2b,wmo,מחוז אוטונומי ערפל nenets,2026-04-24T05:22:00+00:00,Russia,0.1851009864888979,4,1,he,ESB,Europe
-'6d8d284096',extremes,Storm,#b3b2b1,wmo,סערה קטאר,2026-04-22T05:13:00+00:00,Qatar,0.18503557319976027,3,1,he,ARP,Asia
+'6d8d284096',extremes,Storm,#b3b2b1,wmo,סערה קטאר,2026-04-22T05:13:00+00:00,Qatar,0.1850355731997602,3,1,he,ARP,Asia
 'bdb3ebf6fc',extremes,Fog,#d60d2b,wmo,ערפל הרפובליקה הצ'צ'נית,2026-05-01T05:54:00+00:00,Russia,0.1848884174503034,4,1,he,ESB,Europe
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,גל סערה ערב הסעודית,2026-04-27T05:40:00+00:00,Saudi Arabia,0.1847323930182835,3,1,he,ARP,Asia
 'fa762f5750',extremes,Drought,#edc291,edo,חוסר גשם לסוטו,2026-04-22T05:13:00+00:00,Lesotho,0.1846303440952834,3,1,he,ESAF,Africa
