@@ -97,13 +97,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,משקעים אזור אמזוניקה,2026-05-06T05:43:00+00:00,Ecuador,0.1366419484368645,5,1,he,NWS,South-America
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,לחש חם דרום אוסטרליה,2026-05-05T05:29:00+00:00,Australia,0.1365394095823635,5,1,he,SAU,Oceania
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות ברזיל,2026-05-03T05:44:00+00:00,Brazil,0.136459955438203,5,1,he,SAM,South-America
-'4844b80c63',extremes,Precipitation,#d60d2b,wmo,מחוז rain buller,2026-05-08T05:16:00+00:00,New Zealand,0.13637669393478782,5,1,he,NZ,Oceania
+'4844b80c63',extremes,Precipitation,#d60d2b,wmo,מחוז rain buller,2026-05-08T05:16:00+00:00,New Zealand,0.1363766939347878,5,1,he,NZ,Oceania
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,קרח ארגנטינה,2026-05-04T05:50:00+00:00,Argentina,0.1363647557168617,5,1,he,SES,South-America
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,גשם דרום אפריקה,2026-05-06T05:43:00+00:00,South Africa,0.1363465659574107,5,1,he,WSAF,Africa
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות ניו זילנד,2026-05-06T05:43:00+00:00,New Zealand,0.1363291898496647,5,1,he,NZ,Oceania
 'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות מחוז מערבלנד,2026-05-06T05:43:00+00:00,New Zealand,0.1362897251931325,5,1,he,NZ,Oceania
-'2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות אזור אמזוניקה,2026-05-04T05:50:00+00:00,Ecuador,0.13623406118465753,5,1,he,NWS,South-America
-'d04f754034',extremes,Thunderstorm,#53785a,wmo,סופת רעמים דרום אפריקה,2026-05-06T05:43:00+00:00,South Africa,0.13621686827584675,5,1,he,WSAF,Africa
+'2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות אזור אמזוניקה,2026-05-04T05:50:00+00:00,Ecuador,0.1362340611846575,5,1,he,NWS,South-America
+'d04f754034',extremes,Thunderstorm,#53785a,wmo,סופת רעמים דרום אפריקה,2026-05-06T05:43:00+00:00,South Africa,0.1362168682758467,5,1,he,WSAF,Africa
 'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,גשם שוטף מצפון לצלילים ספקים,2026-05-05T05:29:00+00:00,New Zealand,0.1361220402079074,5,1,he,NZ,Oceania
 '983c5f75d7',extremes,Precipitation,#d60d2b,wmo,גשם בכר,2026-05-10T05:51:00+00:00,Algeria,0.136066131177008,6,1,he,SAH,Africa
 'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,משקעים תאילנד,2026-05-09T05:36:00+00:00,Thailand,0.1360345841436299,5,1,he,SEA,Asia
