@@ -1,12 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'7867822b00',extremes,Precipitation,#d60d2b,wmo,משקעים overstrand hermanus,2026-05-12T05:52:00+00:00,South Africa,0.1577664242514384,4,1,he,WSAF,Africa
-'909b2799ff',extremes,Snow&Ice,#d60d2b,wmo,הרפובליקה המקפיאה של מולדובה,2026-05-03T05:44:00+00:00,Republic of Moldova,0.1575355389713721,4,1,he,WCE,Europe
-'ec9681f6d8',extremes,Flood,#030ba1,aidr,שיטפון טסמניה יוני יולי 2016,2026-05-12T05:53:00+00:00,Australia,0.1397486137868443,5,1,he,SAU,Oceania
-'42f9f7020d',extremes,Heat Wave,#c40202,acwe,לחש חם ניו דרום ויילס,2026-05-06T05:43:00+00:00,Australia,0.139099664579756,5,1,he,EAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,שיטפון הבזק אוסטרליה,2026-05-08T05:16:00+00:00,Australia,0.1378479297826748,5,1,he,SAU,Oceania
-'f8714a698d',extremes,Precipitation,#d60d2b,wmo,גשם שוטף באקוודור,2026-05-10T05:51:00+00:00,Ecuador,0.1367736771302243,5,1,he,NWS,South-America
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,משקעים אזור אמזוניקה,2026-05-06T05:43:00+00:00,Ecuador,0.1366419484368645,5,1,he,NWS,South-America
-'4844b80c63',extremes,Precipitation,#d60d2b,wmo,מחוז rain buller,2026-05-08T05:16:00+00:00,New Zealand,0.1363766939347878,5,1,he,NZ,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות ניו זילנד,2026-05-06T05:43:00+00:00,New Zealand,0.1363291898496647,5,1,he,NZ,Oceania
 'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות מחוז מערבלנד,2026-05-06T05:43:00+00:00,New Zealand,0.1362897251931325,5,1,he,NZ,Oceania
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,סופת רעמים דרום אפריקה,2026-05-06T05:43:00+00:00,South Africa,0.1362168682758467,5,1,he,WSAF,Africa
@@ -29,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '007fd2f525',extremes,Storm,#b3b2b1,wmo,גל סערה m_table bay table bay,2026-05-12T05:52:00+00:00,South Africa,0.1344994568558176,6,1,he,WSAF,Africa
 'f6159d54ec',extremes,Heat Wave,#c40202,wmo,גל חום אלג'יריה,2026-05-13T06:03:00+00:00,Algeria,0.1344935016031334,6,1,he,SAH,Africa
 '3d0fc9cdaf',extremes,Storm,#b3b2b1,wmo,סערה renbel makira temotu waters .,2026-05-08T05:16:00+00:00,Solomon Islands,0.1344429079273853,5,1,he,EPO,Oceania
-'464c05f22e',extremes,Precipitation,#d60d2b,wmo,עיר הגשם של קייפטאון,2026-05-13T06:03:00+00:00,South Africa,0.1343475902406293,5,1,he,WSAF,Africa
 'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות אזור האי,2026-05-11T06:14:00+00:00,Ecuador,0.1343435169842596,5,1,he,NWS,South-America
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,גשם סיישל,2026-05-07T05:46:00+00:00,Seychelles,0.1343303619625309,5,1,he,EIO,Africa
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,משקעים אקוודור,2026-05-09T05:36:00+00:00,Ecuador,0.1343171454362447,5,1,he,NWS,South-America
@@ -48,5 +41,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf99db758d',extremes,Fog,#d60d2b,wmo,ערפל לטביה,2026-05-12T05:52:00+00:00,Latvia,0.1341258403918336,5,1,he,WCE,Europe
 '71042959f2',extremes,Flood,#030ba1,wmo,הצפת עורב יוקון הישן,2026-05-09T05:36:00+00:00,Canada,0.1341175280381013,5,1,he,NEN,North-America
 '8465f983bf',extremes,Storm,#b3b2b1,wmo,גל סערה בכר,2026-05-08T05:16:00+00:00,Algeria,0.1341141343763775,5,1,he,SAH,Africa
+'ec9681f6d8',extremes,Flood,#030ba1,aidr,שיטפון טסמניה יוני יולי 2016,2026-05-12T05:53:00+00:00,Australia,0.11878632171881766,6,1,he,SAU,Oceania
+'f8714a698d',extremes,Precipitation,#d60d2b,wmo,גשם שוטף באקוודור,2026-05-10T05:51:00+00:00,Ecuador,0.11625762556069066,6,1,he,NWS,South-America
 '50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות,2026-05-12T05:52:00+00:00,South Africa,0.1161742041859854,6,1,he,WSAF,Africa
+'464c05f22e',extremes,Precipitation,#d60d2b,wmo,עיר הגשם של קייפטאון,2026-05-13T06:03:00+00:00,South Africa,0.1141954517045349,6,1,he,WSAF,Africa
 '13197f48c0',extremes,Precipitation,#d60d2b,wmo,גשם overstrand hermanus,2026-05-11T06:14:00+00:00,South Africa,0.1140961923865783,6,1,he,WSAF,Africa
+'7867822b00',extremes,Precipitation,#d60d2b,wmo,משקעים overstrand hermanus,2026-05-12T05:52:00+00:00,South Africa,0.11398624152166424,6,1,he,WSAF,Africa
