@@ -1,17 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'475ba7d4ed',extremes,Heat Wave,#c40202,wmo,גל חום בלארוס,2026-05-06T05:43:00+00:00,Belarus,0.1582100866810776,5,1,he,WCE,Europe
-'31e0110198',extremes,Storm,#b3b2b1,wmo,גל סערה בכל מימי איי שלמה,2026-05-11T06:14:00+00:00,Solomon Islands,0.157796920327552,4,1,he,EPO,Oceania
-'cf99db758d',extremes,Fog,#d60d2b,wmo,ערפל לטביה,2026-05-12T05:52:00+00:00,Latvia,0.1577951063433337,4,1,he,WCE,Europe
-'8465f983bf',extremes,Storm,#b3b2b1,wmo,גל סערה בכר,2026-05-08T05:16:00+00:00,Algeria,0.1577813345604442,4,1,he,SAH,Africa
 '7867822b00',extremes,Precipitation,#d60d2b,wmo,משקעים overstrand hermanus,2026-05-12T05:52:00+00:00,South Africa,0.1577664242514384,4,1,he,WSAF,Africa
 '909b2799ff',extremes,Snow&Ice,#d60d2b,wmo,הרפובליקה המקפיאה של מולדובה,2026-05-03T05:44:00+00:00,Republic of Moldova,0.1575355389713721,4,1,he,WCE,Europe
-'162f54cd91',extremes,Drought,#edc291,wmo,בצורת hlavní město praha,2026-05-03T05:44:00+00:00,Czechia,0.1572936781979527,4,1,he,WCE,Europe
-'ab5d1234a0',extremes,Flood,#030ba1,aidr,Flood Hobart Flash Flooding Tasmania 2018,2026-05-09T05:36:00+00:00,Australia,0.1398292892425909,5,1,he,SAU,Oceania
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,שיטפון טסמניה יוני יולי 2016,2026-05-12T05:53:00+00:00,Australia,0.1397486137868443,5,1,he,SAU,Oceania
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,לחש חם ניו דרום ויילס,2026-05-06T05:43:00+00:00,Australia,0.139099664579756,5,1,he,EAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,שיטפון הבזק אוסטרליה,2026-05-08T05:16:00+00:00,Australia,0.1378479297826748,5,1,he,SAU,Oceania
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,גשם שוטף באקוודור,2026-05-10T05:51:00+00:00,Ecuador,0.1367736771302243,5,1,he,NWS,South-America
-'50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות,2026-05-12T05:52:00+00:00,South Africa,0.1366755343364535,5,1,he,WSAF,Africa
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,משקעים אזור אמזוניקה,2026-05-06T05:43:00+00:00,Ecuador,0.1366419484368645,5,1,he,NWS,South-America
 '4844b80c63',extremes,Precipitation,#d60d2b,wmo,מחוז rain buller,2026-05-08T05:16:00+00:00,New Zealand,0.1363766939347878,5,1,he,NZ,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות ניו זילנד,2026-05-06T05:43:00+00:00,New Zealand,0.1363291898496647,5,1,he,NZ,Oceania
@@ -34,7 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d88e6d571',extremes,Storm,#b3b2b1,wmo,גל סערה במימי החוף הצפוניים של ונואטו.,2026-05-13T06:03:00+00:00,Vanuatu,0.1345467762228707,6,1,he,SPO,Oceania
 'aa20e76f2d',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות overstrand hermanus,2026-05-10T05:51:00+00:00,South Africa,0.1345320975280828,5,1,he,WSAF,Africa
 '007fd2f525',extremes,Storm,#b3b2b1,wmo,גל סערה m_table bay table bay,2026-05-12T05:52:00+00:00,South Africa,0.1344994568558176,6,1,he,WSAF,Africa
-'f6159d54ec',extremes,Heat Wave,#c40202,wmo,גל חום אלג'יריה,2026-05-13T06:03:00+00:00,Algeria,0.13449350160313348,6,1,he,SAH,Africa
+'f6159d54ec',extremes,Heat Wave,#c40202,wmo,גל חום אלג'יריה,2026-05-13T06:03:00+00:00,Algeria,0.1344935016031334,6,1,he,SAH,Africa
 '3d0fc9cdaf',extremes,Storm,#b3b2b1,wmo,סערה renbel makira temotu waters .,2026-05-08T05:16:00+00:00,Solomon Islands,0.1344429079273853,5,1,he,EPO,Oceania
 '464c05f22e',extremes,Precipitation,#d60d2b,wmo,עיר הגשם של קייפטאון,2026-05-13T06:03:00+00:00,South Africa,0.1343475902406293,5,1,he,WSAF,Africa
 'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות אזור האי,2026-05-11T06:14:00+00:00,Ecuador,0.1343435169842596,5,1,he,NWS,South-America
@@ -45,11 +38,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7b847d91ac',extremes,Storm,#b3b2b1,wmo,נחשול סערה פיורדלנד מצפון לרעש הרעש,2026-05-08T05:16:00+00:00,New Zealand,0.1342239778312154,5,1,he,NZ,Oceania
 '0b0bfa28bb',extremes,Fog,#d60d2b,wmo,כניסת בריכת ערפל,2026-05-10T05:51:00+00:00,Canada,0.1342174112270659,5,1,he,NEN,North-America
 '9c446693a2',extremes,Precipitation,#d60d2b,wmo,גשם אלג'יריה,2026-05-06T05:43:00+00:00,Algeria,0.1342106891390855,5,1,he,SAH,Africa
-'8a3ed6b772',extremes,Heat Wave,#c40202,wmo,גל חום אזור ריאזן,2026-05-07T05:46:00+00:00,Russia,0.13419809358852852,5,1,he,ESB,Europe
+'8a3ed6b772',extremes,Heat Wave,#c40202,wmo,גל חום אזור ריאזן,2026-05-07T05:46:00+00:00,Russia,0.1341980935885285,5,1,he,ESB,Europe
 '6eaf39d77f',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות היבשת הדרומית,2026-05-07T05:46:00+00:00,New Zealand,0.1341830590614785,5,1,he,NZ,Oceania
 'c81100c57c',extremes,Earthquake,#870007,usgs,רעידת אדמה אדאק,2026-05-10T05:51:00+00:00,Alaska,0.1341641104798299,5,1,he,NPO,Pacific Ocean
-'45ad0e811d',extremes,Storm,#b3b2b1,wmo,גל סערה בכל מימי החוף של ונואטו.,2026-05-11T06:14:00+00:00,Vanuatu,0.13415554031970783,5,1,he,SPO,Oceania
+'45ad0e811d',extremes,Storm,#b3b2b1,wmo,גל סערה בכל מימי החוף של ונואטו.,2026-05-11T06:14:00+00:00,Vanuatu,0.1341555403197078,5,1,he,SPO,Oceania
 '0dbfb0c2b4',extremes,Cold Wave,#a7e9fa,wmo,סין גל קר,2026-05-07T05:46:00+00:00,China,0.1341483037193938,5,1,he,EAS,Asia
 '7e83ea89df',extremes,Precipitation,#d60d2b,wmo,גשם שוטף אזור אינסולר,2026-05-12T05:52:00+00:00,Ecuador,0.1341389680953921,5,1,he,NWS,South-America
+'31e0110198',extremes,Storm,#b3b2b1,wmo,גל סערה בכל מימי איי שלמה,2026-05-11T06:14:00+00:00,Solomon Islands,0.1341273822784192,5,1,he,EPO,Oceania
+'cf99db758d',extremes,Fog,#d60d2b,wmo,ערפל לטביה,2026-05-12T05:52:00+00:00,Latvia,0.13412584039183365,5,1,he,WCE,Europe
 '71042959f2',extremes,Flood,#030ba1,wmo,הצפת עורב יוקון הישן,2026-05-09T05:36:00+00:00,Canada,0.1341175280381013,5,1,he,NEN,North-America
+'8465f983bf',extremes,Storm,#b3b2b1,wmo,גל סערה בכר,2026-05-08T05:16:00+00:00,Algeria,0.13411413437637756,5,1,he,SAH,Africa
+'50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות,2026-05-12T05:52:00+00:00,South Africa,0.11617420418598547,6,1,he,WSAF,Africa
 '13197f48c0',extremes,Precipitation,#d60d2b,wmo,גשם overstrand hermanus,2026-05-11T06:14:00+00:00,South Africa,0.1140961923865783,6,1,he,WSAF,Africa
