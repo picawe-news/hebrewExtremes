@@ -1,1 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-05-13T06:03:00+00:00,Israel,0.7422010968285822,0,1,he,MED,Asia
+'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2026-05-17T06:01:00+00:00,Israel,0.7385067213263473,0,1,he,MED,Asia
+'3bb7041ef3',extremes,Heat Wave,#c40202,wmo,גל חום ישראל,2026-05-31T06:40:00+00:00,Israel,0.7239109964983969,0,1,he,MED,Asia
+'72398d4cf4',extremes,Heat Wave,#c40202,wmo,גל חום בעמק שאן בצפון הערבה,2026-05-31T06:40:00+00:00,Israel,0.6798289982562732,0,1,he,MED,Asia
+'6ae2fe0eac',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון,2026-05-20T06:33:00+00:00,Israel,0.6675433605256403,0,1,he,MED,Asia
+'67d5b0cc16',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון ים מרכז,2026-05-29T06:38:00+00:00,Israel,0.6481344296534023,0,1,he,MED,Asia
+'023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2026-05-16T05:40:00+00:00,Israel,0.5646379809595731,0,1,he,MED,Asia
+'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2026-05-23T05:53:00+00:00,Israel,0.5423200402851828,0,1,he,MED,Asia
+'0d9db7ec5c',extremes,Drought,#edc291,edo,יובש ישראל,2026-05-19T06:33:00+00:00,Israel,0.49954881705972903,0,1,he,MED,Asia
+'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,כישוף קור מערב אוסטרליה,2026-05-27T06:46:00+00:00,Australia,0.319318399336074,0,1,he,CAU,Oceania
