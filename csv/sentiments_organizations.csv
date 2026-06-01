@@ -1,38 +1,41 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Hezbollah,Hezbollah,ORG,0.022108843537414935,0.6717687074829933,en,4.8999999999999995
-Hamas,Hamas,ORG,0.06649831649831649,0.5314604377104376,en,1.8
 IDF,IDF,ORG,0.0,0.0,en,1.8
+Hamas,Hamas,ORG,0.06649831649831649,0.5314604377104376,en,1.8
 Trump,Trump,ORG,0.2857142857142857,0.7142857142857142,en,1.4000000000000001
 Shoveli,Shoveli,ORG,-0.21666666666666667,0.0,en,1.0
-Drohda United,Drohda United,ORG,0.0,0.0,en,1.0
-the UN Assembly,the UN Assembly,ORG,0.3,0.0,en,1.0
-the General Assembly,the General Assembly,ORG,0.10833333333333335,0.0,en,1.0
 Interior Ministry's,Interior Ministry's,ORG,0.0,0.0,en,1.0
 Israel Post,Israel Post,ORG,0.0,0.0,en,1.0
 Candlebro,Candlebro,ORG,0.0,0.0,en,1.0
 UAV,UAV,ORG,0.0,0.0,en,1.0
-Hizbollah,Hizbollah,ORG,0.125,0.0,en,1.0
+Drohda United,Drohda United,ORG,0.0,0.0,en,1.0
 the Nations League,the Nations League,ORG,0.0,0.0,en,1.0
-MSNBC,MSNBC,ORG,0.125,0.0,en,1.0
-Orban,Orban,ORG,0.4000000000000001,0.0,en,1.0
+Hizbollah,Hizbollah,ORG,0.125,0.0,en,1.0
 the International Criminal Court,the International Criminal Court,ORG,-0.13333333333333333,0.0,en,1.0
+Orban,Orban,ORG,0.4000000000000001,0.0,en,1.0
+the UN Assembly,the UN Assembly,ORG,0.3,0.0,en,1.0
 Tottenham,Tottenham,ORG,0.01428571428571429,0.0,en,1.0
 The Ministry of Health's,The Ministry of Health's,ORG,-0.03125,0.0,en,1.0
+"the ""New York Times""","the ""New York Times""",ORG,0.05492424242424242,0.0,en,1.0
+the Derry city council,the Derry city council,ORG,-0.3333333333333333,0.0,en,1.0
+the Irish Football Association,the Irish Football Association,ORG,-0.3333333333333333,0.0,en,1.0
+the General Assembly,the General Assembly,ORG,0.10833333333333335,0.0,en,1.0
+MSNBC,MSNBC,ORG,0.125,0.0,en,1.0
 Witkoff,Witkoff,ORG,0.0,0.0,en,1.0
+the Electric Company,the Electric Company,ORG,0.0,0.0,en,1.0
+the European Broadcasting Union,the European Broadcasting Union,ORG,-0.08333333333333333,0.0,en,1.0
+the Air Force,the Air Force,ORG,6.938893903907228e-18,0.0,en,1.0
+Swift,Swift,ORG,-0.5,0.0,en,1.0
+State,State,ORG,0.0,0.0,en,1.0
+the International Stabilization Force,the International Stabilization Force,ORG,-0.016666666666666663,0.0,en,1.0
+Defense,Defense,ORG,-0.06666666666666667,0.0,en,1.0
+Nahal,Nahal,ORG,-0.06666666666666667,0.0,en,1.0
+Likud,Likud,ORG,-0.05,0.0,en,1.0
+Mossad,Mossad,ORG,-0.07142857142857142,0.0,en,1.0
+The Nuno Group,The Nuno Group,ORG,0.4,0.0,en,1.0
+NIS,NIS,ORG,0.15,0.0,en,1.0
+Nuno,Nuno,ORG,0.0,0.0,en,1.0
+the Palestinian Authority,the Palestinian Authority,ORG,0.0,0.0,en,1.0
 The Jewish Confederation of Brazil,The Jewish Confederation of Brazil,ORG,0.0,0.0,en,1.0
 Rio,Rio,ORG,0.65,0.0,en,1.0
-the Electric Company,the Electric Company,ORG,0.0,0.0,en,1.0
-the Palestinian Authority,the Palestinian Authority,ORG,0.0,0.0,en,1.0
-Nuno,Nuno,ORG,0.0,0.0,en,1.0
-NIS,NIS,ORG,0.15,0.0,en,1.0
-The Nuno Group,The Nuno Group,ORG,0.4,0.0,en,1.0
-Mossad,Mossad,ORG,-0.07142857142857142,0.0,en,1.0
-Likud,Likud,ORG,-0.05,0.0,en,1.0
-Nahal,Nahal,ORG,-0.06666666666666667,0.0,en,1.0
-Defense,Defense,ORG,-0.06666666666666667,0.0,en,1.0
-the International Stabilization Force,the International Stabilization Force,ORG,-0.016666666666666663,0.0,en,1.0
-State,State,ORG,0.0,0.0,en,1.0
-Swift,Swift,ORG,-0.5,0.0,en,1.0
-the Air Force,the Air Force,ORG,6.938893903907228e-18,0.0,en,1.0
-the European Broadcasting Union,the European Broadcasting Union,ORG,-0.08333333333333333,0.0,en,1.0
-"the ""New York Times""","the ""New York Times""",ORG,0.05492424242424242,0.0,en,1.0
+Nations League,Nations League,ORG,-0.3333333333333333,0.0,en,1.0
