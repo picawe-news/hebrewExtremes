@@ -1,17 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'72398d4cf4',extremes,Heat Wave,#c40202,wmo,גל חום בעמק שאן בצפון הערבה,2026-05-31T06:40:00+00:00,Israel,0.5778546485178322,1,1,he,MED,Asia
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-05-13T06:03:00+00:00,Israel,0.5563972724229362,2,1,he,MED,Asia
 'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2026-05-17T06:01:00+00:00,Israel,0.533571106158286,2,1,he,MED,Asia
-'3bb7041ef3',extremes,Heat Wave,#c40202,wmo,גל חום ישראל,2026-05-31T06:40:00+00:00,Israel,0.5230256949700918,2,1,he,MED,Asia
+'72398d4cf4',extremes,Heat Wave,#c40202,wmo,גל חום בעמק שאן בצפון הערבה,2026-05-31T06:40:00+00:00,Israel,0.49117645124015735,2,1,he,MED,Asia
 '6ae2fe0eac',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון,2026-05-20T06:33:00+00:00,Israel,0.4823000779797751,2,1,he,MED,Asia
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2026-05-16T05:40:00+00:00,Israel,0.4799422838156371,1,1,he,MED,Asia
-'67d5b0cc16',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון ים מרכז,2026-05-29T06:38:00+00:00,Israel,0.4682771254245831,2,1,he,MED,Asia
 'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2026-05-23T05:53:00+00:00,Israel,0.4609720342424053,1,1,he,MED,Asia
+'3bb7041ef3',extremes,Heat Wave,#c40202,wmo,גל חום ישראל,2026-05-31T06:40:00+00:00,Israel,0.444571840724578,3,1,he,MED,Asia
 '0d9db7ec5c',extremes,Drought,#edc291,edo,יובש ישראל,2026-05-19T06:33:00+00:00,Israel,0.4246164945007696,1,1,he,MED,Asia
+'67d5b0cc16',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון ים מרכז,2026-05-29T06:38:00+00:00,Israel,0.3980355566108956,3,1,he,MED,Asia
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,גל חום אירופאי פריז,2026-05-28T06:38:00+00:00,France,0.3188743911320906,0,1,he,,
 '3dc98006fe',extremes,Drought,#edc291,acwe,חוסר גשם במערב אוסטרליה,2026-05-27T06:46:00+00:00,Australia,0.3187355267638593,0,1,he,CAU,Oceania
 'efa91cca03',extremes,Drought,#edc291,acwe,מפלס מים נמוך במערב אוסטרליה,2026-05-28T06:38:00+00:00,Australia,0.3171220211358438,0,1,he,CAU,Oceania
-'100e8ab2b6',extremes,Cold Wave,#a7e9fa,acwe,coldwave מערב אוסטרליה,2026-05-29T06:39:00+00:00,Australia,0.3170272289400485,0,1,he,CAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,aidr,מציפה את אוסטרליה,2026-05-17T06:01:00+00:00,Australia,0.3144297525232813,0,1,he,EAU,Oceania
 '3296e9a239',extremes,Flood,#030ba1,aidr,גשם זלעפות אוסטרליה,2026-05-17T06:01:00+00:00,Australia,0.3140784366970541,0,1,he,SAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,aidr,הצפה אוסטרליה,2026-05-17T06:01:00+00:00,Australia,0.3125799332300237,0,1,he,EAU,Oceania
@@ -35,4 +34,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,מזג אוויר קר במערב אוסטרליה,2026-05-28T06:38:00+00:00,Australia,0.2711729645889122,1,1,he,CAU,Oceania
 'cfd153353e',extremes,Tropical Cyclone,#4f4f4f,eonet,סערה טרופית jangmi,2026-05-30T06:01:00+00:00,,0.2711678709811354,1,1,he,NPO,Pacific Ocean
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,גל חום פריז,2026-05-29T06:39:00+00:00,France,0.2706786999369174,1,1,he,,
+'100e8ab2b6',extremes,Cold Wave,#a7e9fa,acwe,coldwave מערב אוסטרליה,2026-05-29T06:39:00+00:00,Australia,0.2694731445990412,1,1,he,CAU,Oceania
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה בקנדה,2026-05-30T06:01:00+00:00,Canada,0.2610352572095744,1,1,he,NEN,North-America
