@@ -1,14 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '72398d4cf4',extremes,Heat Wave,#c40202,wmo,גל חום בעמק שאן בצפון הערבה,2026-05-31T06:40:00+00:00,Israel,0.4911764512401573,2,1,he,MED,Asia
 '6ae2fe0eac',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון,2026-05-20T06:33:00+00:00,Israel,0.4823000779797751,2,1,he,MED,Asia
-'023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2026-05-16T05:40:00+00:00,Israel,0.4799422838156371,1,1,he,MED,Asia
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,סערה ישראל,2026-05-13T06:03:00+00:00,Israel,0.4736877565594958,3,1,he,MED,Asia
 'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2026-05-23T05:53:00+00:00,Israel,0.4609720342424053,1,1,he,MED,Asia
 'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2026-05-17T06:01:00+00:00,Israel,0.453535440234543,3,1,he,MED,Asia
 '3bb7041ef3',extremes,Heat Wave,#c40202,wmo,גל חום ישראל,2026-05-31T06:40:00+00:00,Israel,0.444571840724578,3,1,he,MED,Asia
-'0d9db7ec5c',extremes,Drought,#edc291,edo,יובש ישראל,2026-05-19T06:33:00+00:00,Israel,0.4246164945007696,1,1,he,MED,Asia
+'023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2026-05-16T05:40:00+00:00,Israel,0.4079509412432915,2,1,he,MED,Asia
 '67d5b0cc16',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון ים מרכז,2026-05-29T06:38:00+00:00,Israel,0.3980355566108956,3,1,he,MED,Asia
-'3dc98006fe',extremes,Drought,#edc291,acwe,חוסר גשם במערב אוסטרליה,2026-05-27T06:46:00+00:00,Australia,0.3187355267638593,0,1,he,CAU,Oceania
+'0d9db7ec5c',extremes,Drought,#edc291,edo,יובש ישראל,2026-05-19T06:33:00+00:00,Israel,0.3609240203256541,2,1,he,MED,Asia
 'efa91cca03',extremes,Drought,#edc291,acwe,מפלס מים נמוך במערב אוסטרליה,2026-05-28T06:38:00+00:00,Australia,0.3171220211358438,0,1,he,CAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,aidr,מציפה את אוסטרליה,2026-05-17T06:01:00+00:00,Australia,0.3144297525232813,0,1,he,EAU,Oceania
 '3296e9a239',extremes,Flood,#030ba1,aidr,גשם זלעפות אוסטרליה,2026-05-17T06:01:00+00:00,Australia,0.3140784366970541,0,1,he,SAU,Oceania
@@ -28,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,גשם ברזיל,2026-05-24T06:22:00+00:00,Brazil,0.3075301606579164,0,1,he,SAM,South-America
 '5b34407f4a',extremes,Wildfire,#d60d2b,acwe,אש בשדה קוצים טסמניה,2026-05-31T06:41:00+00:00,Australia,0.3075284239990557,0,1,he,SAU,Oceania
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,גשם שוטף ברזיל,2026-05-22T06:32:00+00:00,Brazil,0.3074060371871512,0,1,he,SAM,South-America
-'3f340afd02',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות אקוודור,2026-05-23T05:53:00+00:00,Ecuador,0.3074010252881586,0,1,he,NWS,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,גשם באקוודור,2026-05-18T06:38:00+00:00,Ecuador,0.3072401619742098,0,1,he,NWS,South-America
 '226e93183d',extremes,Precipitation,#d60d2b,wmo,משקעים טווחי המערב,2026-05-21T06:35:00+00:00,New Zealand,0.3071233239779767,0,1,he,NZ,Oceania
 'aaee78223c',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות אזורי ליטורל e interandina,2026-05-23T05:53:00+00:00,Ecuador,0.3070156683885335,0,1,he,NWS,South-America
@@ -40,8 +38,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,כישוף קור מערב אוסטרליה,2026-05-27T06:46:00+00:00,Australia,0.2714206394356628,1,1,he,CAU,Oceania
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,מזג אוויר קר במערב אוסטרליה,2026-05-28T06:38:00+00:00,Australia,0.2711729645889122,1,1,he,CAU,Oceania
 'cfd153353e',extremes,Tropical Cyclone,#4f4f4f,eonet,סערה טרופית jangmi,2026-05-30T06:01:00+00:00,,0.2711678709811354,1,1,he,NPO,Pacific Ocean
+'3dc98006fe',extremes,Drought,#edc291,acwe,חוסר גשם במערב אוסטרליה,2026-05-27T06:46:00+00:00,Australia,0.2709251977492804,1,1,he,CAU,Oceania
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,גל חום פריז,2026-05-29T06:39:00+00:00,France,0.2706786999369174,1,1,he,,
 '100e8ab2b6',extremes,Cold Wave,#a7e9fa,acwe,coldwave מערב אוסטרליה,2026-05-29T06:39:00+00:00,Australia,0.2694731445990412,1,1,he,CAU,Oceania
-'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,גל חום אירופי בורדו,2026-05-30T06:01:00+00:00,France,0.26433313953475746,1,1,he,,
+'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,גל חום אירופי בורדו,2026-05-30T06:01:00+00:00,France,0.2643331395347574,1,1,he,,
 '53fda39314',extremes,Drought,#edc291,edo,חוסר גשם ליטא,2026-05-30T06:01:00+00:00,Lithuania,0.2639518563949096,1,1,he,WCE,Europe
+'3f340afd02',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות אקוודור,2026-05-23T05:53:00+00:00,Ecuador,0.2612908714949348,1,1,he,NWS,South-America
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה בקנדה,2026-05-30T06:01:00+00:00,Canada,0.2610352572095744,1,1,he,NEN,North-America
