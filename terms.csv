@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,משקעים דרום אפריקה,2026-06-02T07:08:00+00:00,South Africa,0.3067490541237992,0,1,he,WSAF,Africa
+'9b59bee21e',extremes,Drought,#edc291,edo,תקופה יבשה בפולין,2026-05-22T06:32:00+00:00,Poland,0.3066279559490994,0,1,he,WCE,Europe
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,משקעים אקוודור,2026-06-03T07:23:00+00:00,Ecuador,0.306596621934285,0,1,he,NWS,South-America
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,גשם שוטף באקוודור,2026-05-30T06:01:00+00:00,Ecuador,0.3057629227076989,0,1,he,NWS,South-America
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,מפולת רוסיה,2026-05-16T05:40:00+00:00,Russia,0.3057063186238186,0,1,he,ESB,Europe
@@ -24,6 +25,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,סערה בחריין,2026-05-17T06:01:00+00:00,Bahrain,0.3041728208060811,0,1,he,ARP,Asia
 'e6e3ef6e92',extremes,Storm,#b3b2b1,wmo,גל סערה ניגריה,2026-05-24T06:22:00+00:00,Nigeria,0.3041476296640066,0,1,he,WAF,Africa
 '94d9daff60',extremes,Thunderstorm,#53785a,wmo,ברד בגזאם,2026-06-04T07:06:00+00:00,Algeria,0.3041196981422997,0,1,he,SAH,Africa
+'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,גל סערה בארגנטינה,2026-05-16T05:40:00+00:00,Argentina,0.3039754998436308,0,1,he,SES,South-America
+'e537c7081f',extremes,Thunderstorm,#53785a,wmo,סופת רעמים הונג קונג,2026-05-19T06:33:00+00:00,Hong Kong,0.30373464046409654,0,1,he,EAS,Asia
+'3894a694d1',extremes,Flood,#030ba1,aidr,שיטפון הבזק אוסטרליה,2026-05-28T06:38:00+00:00,Australia,0.30373354278922127,0,1,he,SAU,Oceania
+'9c373151bb',extremes,Storm,#b3b2b1,wmo,סערה אזור 1 - חמורה,2026-05-17T06:01:00+00:00,Paraguay,0.30367249050763556,0,1,he,SES,South-America
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,גל סערה פרגוואי,2026-05-29T06:38:00+00:00,Paraguay,0.3036650998667485,0,1,he,SES,South-America
+'02711610b5',extremes,Storm,#b3b2b1,wmo,סערה ארגנטינה,2026-05-16T05:40:00+00:00,Argentina,0.3035810106561183,0,1,he,SES,South-America
+'d2793b8bae',extremes,Drought,#edc291,edo,בצורת דרום סודן,2026-05-16T05:40:00+00:00,South Sudan,0.30340836322113435,0,1,he,NEAF,Africa
+'2c6b443aaa',extremes,Storm,#b3b2b1,wmo,רפובליקת הסערה של מולדובה,2026-05-29T06:38:00+00:00,Republic of Moldova,0.3032454567949423,0,1,he,WCE,Europe
+'34fd30e809',extremes,Earthquake,#870007,usgs,רעידת אדמה קלמה,2026-05-26T06:31:00+00:00,Chile,0.3032177329399749,0,1,he,SWS,South-America
 '72398d4cf4',extremes,Heat Wave,#c40202,wmo,גל חום בעמק שאן בצפון הערבה,2026-05-31T06:40:00+00:00,Israel,0.3016437381178615,5,1,he,MED,Asia
 '6ae2fe0eac',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון,2026-05-20T06:33:00+00:00,Israel,0.2961925353893293,5,1,he,MED,Asia
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2026-05-16T05:40:00+00:00,Israel,0.294744555048278,4,1,he,MED,Asia
@@ -81,8 +91,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9fdc419684',extremes,Drought,#edc291,edo,כישוף יבש צ'כיה,2026-05-30T06:01:00+00:00,Czechia,0.2598015124896661,1,1,he,WCE,Europe
 'ce4931e51e',extremes,Flood,#030ba1,wmo,flashflood דרום אוסטרליה קופר קריק,2026-05-23T05:53:00+00:00,Australia,0.2595419153468651,1,1,he,CAU,Oceania
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,סערה ברזיל,2026-05-22T06:32:00+00:00,Brazil,0.2590402164635665,1,1,he,SAM,South-America
-'be647fc7a4',extremes,Storm,#b3b2b1,wmo,גל סערה אקוודור,2026-05-21T06:35:00+00:00,Ecuador,0.25896425340779494,1,1,he,NWS,South-America
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,גל סערה אקוודור,2026-05-21T06:35:00+00:00,Ecuador,0.2589642534077949,1,1,he,NWS,South-America
 '64058b2dc1',extremes,Drought,#edc291,edo,היובש הונגריה,2026-05-16T05:40:00+00:00,Hungary,0.2589371318883576,1,1,he,WCE,Europe
 '44211c95de',extremes,Flood,#030ba1,aidr,מציפה את אוסטרליה,2026-05-17T06:01:00+00:00,Australia,0.2271754961980707,2,1,he,EAU,Oceania
-'8ece67f5a6',extremes,Thunderstorm,#53785a,wmo,ברד.,2026-05-27T06:46:00+00:00,Libya,0.22201641176301007,2,1,he,SAH,Africa
+'8ece67f5a6',extremes,Thunderstorm,#53785a,wmo,ברד.,2026-05-27T06:46:00+00:00,Libya,0.22201641176301,2,1,he,SAH,Africa
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,משקעים ארגנטינה,2026-05-28T06:38:00+00:00,Argentina,0.2215002673424604,2,1,he,SES,South-America
