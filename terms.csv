@@ -5,6 +5,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3bd2789f86',extremes,Earthquake,#870007,usgs,רעידת אדמה שאלאלה,2026-06-01T07:30:00+00:00,Oman,0.3027641868817838,0,1,he,ARS,Indian Ocean
 '5c657726ab',extremes,Drought,#edc291,edo,בצורת לטביה,2026-05-20T06:33:00+00:00,Latvia,0.302604333916478,0,1,he,WCE,Europe
 '4d446959e2',extremes,Drought,#edc291,edo,בצורת אסטוניה,2026-05-26T06:31:00+00:00,Estonia,0.3020858806749503,0,1,he,NEU,Europe
+'95b5264574',extremes,Heat Wave,#c40202,wmo,גל חום קנדה,2026-05-18T06:38:00+00:00,Canada,0.30203028619114464,0,1,he,NEN,North-America
+'b8a0990dab',extremes,Heat Wave,#c40202,wmo,גל חום צרפת,2026-05-24T06:22:00+00:00,France,0.3020206695494974,0,1,he,WCE,Europe
+'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,כפור ברזיל,2026-05-21T06:35:00+00:00,Brazil,0.3019834550583949,0,1,he,SAM,South-America
+'829105287e',extremes,Storm,#b3b2b1,wmo,סערה ג'מייקה,2026-05-26T06:31:00+00:00,Jamaica,0.3019380669718039,0,1,he,CAR,North-America
+'179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,מפולת סוצ'י,2026-05-31T06:40:00+00:00,Russia,0.30174566856881607,0,1,he,ESB,Europe
+'d7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,ברזיל מקפיאה,2026-06-04T07:06:00+00:00,Brazil,0.3016852870927108,0,1,he,SAM,South-America
+'3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,כפור קנדה,2026-05-22T06:32:00+00:00,Canada,0.3016527188304066,0,1,he,NEN,North-America
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות ברזיל,2026-05-23T05:53:00+00:00,Brazil,0.30162861836853677,0,1,he,SAM,South-America
+'aafce152ff',extremes,Storm,#b3b2b1,wmo,storm litoral y estribación de cordillera,2026-05-30T06:01:00+00:00,Ecuador,0.30157602727033583,0,1,he,NWS,South-America
+'09b8af5c65',extremes,Earthquake,#870007,usgs,רעידת אדמה הוואי,2026-05-25T06:52:00+00:00,Hawaii,0.3015670161383677,0,1,he,NPO,North-America
 '6ae2fe0eac',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון,2026-05-20T06:33:00+00:00,Israel,0.2961925353893293,5,1,he,MED,Asia
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2026-05-16T05:40:00+00:00,Israel,0.294744555048278,4,1,he,MED,Asia
 '67d5b0cc16',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון ים מרכז,2026-05-29T06:38:00+00:00,Israel,0.287580689651372,5,1,he,MED,Asia
@@ -86,9 +96,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3894a694d1',extremes,Flood,#030ba1,aidr,שיטפון הבזק אוסטרליה,2026-05-28T06:38:00+00:00,Australia,0.258173511370838,1,1,he,SAU,Oceania
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,סערה אזור 1 - חמורה,2026-05-17T06:01:00+00:00,Paraguay,0.2581216169314901,1,1,he,SES,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,גל סערה פרגוואי,2026-05-29T06:38:00+00:00,Paraguay,0.2581153348867362,1,1,he,SES,South-America
-'02711610b5',extremes,Storm,#b3b2b1,wmo,סערה ארגנטינה,2026-05-16T05:40:00+00:00,Argentina,0.25804385905770055,1,1,he,SES,South-America
+'02711610b5',extremes,Storm,#b3b2b1,wmo,סערה ארגנטינה,2026-05-16T05:40:00+00:00,Argentina,0.2580438590577005,1,1,he,SES,South-America
 'd2793b8bae',extremes,Drought,#edc291,edo,בצורת דרום סודן,2026-05-16T05:40:00+00:00,South Sudan,0.2578971087379641,1,1,he,NEAF,Africa
-'2c6b443aaa',extremes,Storm,#b3b2b1,wmo,רפובליקת הסערה של מולדובה,2026-05-29T06:38:00+00:00,Republic of Moldova,0.25775863827570095,1,1,he,WCE,Europe
+'2c6b443aaa',extremes,Storm,#b3b2b1,wmo,רפובליקת הסערה של מולדובה,2026-05-29T06:38:00+00:00,Republic of Moldova,0.2577586382757009,1,1,he,WCE,Europe
 '74126f3d38',extremes,Drought,#edc291,edo,בצורת ברוניי,2026-05-23T05:53:00+00:00,Brunei,0.2576692629055229,1,1,he,SEA,Asia
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,סערה טרינידד וטובגו,2026-05-17T06:01:00+00:00,Trinidad and Tobago,0.2576194792626402,1,1,he,NSA,North-America
 'd56de5f4df',extremes,Drought,#edc291,edo,חוסר גשם לטביה,2026-05-29T06:39:00+00:00,Latvia,0.2576169488285277,1,1,he,WCE,Europe
@@ -101,13 +111,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72398d4cf4',extremes,Heat Wave,#c40202,wmo,גל חום בעמק שאן בצפון הערבה,2026-05-31T06:40:00+00:00,Israel,0.2563971774001822,6,1,he,MED,Asia
 'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2026-05-23T05:53:00+00:00,Israel,0.2406302829497495,5,1,he,MED,Asia
 '3bb7041ef3',extremes,Heat Wave,#c40202,wmo,גל חום ישראל,2026-05-31T06:40:00+00:00,Israel,0.2320692794322341,7,1,he,MED,Asia
-'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,כישוף קור מערב אוסטרליה,2026-05-27T06:46:00+00:00,Australia,0.23070754352031336,2,1,he,CAU,Oceania
-'3dc98006fe',extremes,Drought,#edc291,acwe,חוסר גשם במערב אוסטרליה,2026-05-27T06:46:00+00:00,Australia,0.23028641808688835,2,1,he,CAU,Oceania
+'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,כישוף קור מערב אוסטרליה,2026-05-27T06:46:00+00:00,Australia,0.2307075435203133,2,1,he,CAU,Oceania
+'3dc98006fe',extremes,Drought,#edc291,acwe,חוסר גשם במערב אוסטרליה,2026-05-27T06:46:00+00:00,Australia,0.2302864180868883,2,1,he,CAU,Oceania
 '100e8ab2b6',extremes,Cold Wave,#a7e9fa,acwe,coldwave מערב אוסטרליה,2026-05-29T06:39:00+00:00,Australia,0.229052172909185,2,1,he,CAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,aidr,מציפה את אוסטרליה,2026-05-17T06:01:00+00:00,Australia,0.2271754961980707,2,1,he,EAU,Oceania
 '60a34b83b0',extremes,Flood,#030ba1,acwe,הצפת דרום אוסטרליה,2026-06-04T07:06:00+00:00,Australia,0.226584821554404,2,1,he,SAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,aidr,הצפה אוסטרליה,2026-05-17T06:01:00+00:00,Australia,0.2258390017586921,2,1,he,EAU,Oceania
-'ab5d1234a0',extremes,Flood,#030ba1,aidr,Flood Hobart Flash Flooding Tasmania 2018,2026-06-01T07:30:00+00:00,Australia,0.22552333738137859,2,1,he,SAU,Oceania
+'ab5d1234a0',extremes,Flood,#030ba1,aidr,Flood Hobart Flash Flooding Tasmania 2018,2026-06-01T07:30:00+00:00,Australia,0.2255233373813785,2,1,he,SAU,Oceania
 'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,גל חום אירופי בורדו,2026-05-30T06:01:00+00:00,France,0.2246831686045438,2,1,he,,
 '8ece67f5a6',extremes,Thunderstorm,#53785a,wmo,ברד.,2026-05-27T06:46:00+00:00,Libya,0.22201641176301,2,1,he,SAH,Africa
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,משקעים ארגנטינה,2026-05-28T06:38:00+00:00,Argentina,0.2215002673424604,2,1,he,SES,South-America
