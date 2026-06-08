@@ -1,11 +1,11 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Israeli,Israeli,NORP,,,en,4.0
-Lebanese,Lebanese,NORP,,,en,3.5999999999999996
-Palestinian,Palestinian,NORP,,,en,2.1000000000000005
-15,15,CARDINAL,,,en,1.8
-ynet,ynet,NORP,,,en,1.8
+Israeli,Israeli,NORP,,,en,2.6000000000000005
+Lebanese,Lebanese,NORP,,,en,2.2
+Palestinian,Palestinian,NORP,,,en,1.4000000000000004
 American,American,NORP,,,en,1.2000000000000002
+15,15,CARDINAL,,,en,1.1
 Jewish,Jewish,NORP,,,en,1.1
+ynet,ynet,NORP,,,en,1.1
 European,European,NORP,,,en,1.1
 Iranian,Iranian,NORP,,,en,1.0
 Cintorino,Cintorino,NORP,,,en,1.0
