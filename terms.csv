@@ -2,20 +2,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da462ab339',extremes,Heat Wave,#c40202,wmo,גל חום בעמק שאן עמק הקינרות,2026-06-07T06:48:00+00:00,Israel,0.584719935923321,1,1,he,MED,Asia
 '0740ada65c',extremes,Heat Wave,#c40202,wmo,גל חום מדבר ים המלח בדרום יהודה,2026-06-07T06:48:00+00:00,Israel,0.3401915193853312,4,1,he,MED,Asia
 '12775cc05a',extremes,Drought,#edc291,edo,בצורת ברזיל,2026-05-24T06:22:00+00:00,Brazil,0.3035446612034712,0,1,he,SAM,South-America
-'be9f9ddcc5',extremes,Flood,#030ba1,wmo,מציפה את דנמרק,2026-06-07T06:48:00+00:00,Denmark,0.3017147469837677,0,1,he,NEU,Europe
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,כפור קנדה,2026-05-22T06:32:00+00:00,Canada,0.3016527188304066,0,1,he,NEN,North-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות ברזיל,2026-05-23T05:53:00+00:00,Brazil,0.3016286183685367,0,1,he,SAM,South-America
 'aafce152ff',extremes,Storm,#b3b2b1,wmo,storm litoral y estribación de cordillera,2026-05-30T06:01:00+00:00,Ecuador,0.3015760272703358,0,1,he,NWS,South-America
-'0514da3654',extremes,Snow&Ice,#d60d2b,wmo,קרח ברזיל,2026-05-22T06:32:00+00:00,Brazil,0.3015563031300498,0,1,he,SAM,South-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,סערה קטאר,2026-05-19T06:33:00+00:00,Qatar,0.3015047795826054,0,1,he,ARP,Asia
-'530909dfe4',extremes,Heat Wave,#c40202,wmo,גל חום רוסיה,2026-05-22T06:32:00+00:00,Russia,0.3014304421405824,0,1,he,ESB,Europe
 '766190540a',extremes,Storm,#b3b2b1,wmo,גל סערה טנזניה,2026-05-20T06:33:00+00:00,Tanzania,0.301348000372587,0,1,he,SEAF,Africa
 '38d6fb4787',extremes,Earthquake,#870007,usgs,אזור אזור השבר של רעידת אדמה,2026-05-27T06:46:00+00:00,,0.301237269873381,0,1,he,ARS,Indian Ocean
 '95694d19cf',extremes,Earthquake,#870007,usgs,רעידת אדמה תימן,2026-06-01T07:30:00+00:00,Yemen,0.3011575322060412,0,1,he,NEAF,Africa
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,קנדה קרח,2026-05-22T06:32:00+00:00,Canada,0.3011566017354719,0,1,he,NEN,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,גל סערה בקנדה,2026-05-31T06:40:00+00:00,Canada,0.3011146116517371,0,1,he,NEN,North-America
 'e058bc3eb7',extremes,Drought,#edc291,edo,בצורת סרי לנקה,2026-05-26T06:31:00+00:00,Sri Lanka,0.3011122555880161,0,1,he,BOB,Asia
-'110d2ee2b9',extremes,Heat Wave,#c40202,wmo,אזור גל חום קלוגה,2026-05-21T06:35:00+00:00,Russia,0.3010969309157825,0,1,he,ESB,Europe
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2026-05-16T05:40:00+00:00,Israel,0.294744555048278,4,1,he,MED,Asia
 '67d5b0cc16',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון ים מרכז,2026-05-29T06:38:00+00:00,Israel,0.287580689651372,5,1,he,MED,Asia
 'cfd153353e',extremes,Tropical Cyclone,#4f4f4f,eonet,סערה טרופית jangmi,2026-05-30T06:01:00+00:00,,0.2711678709811354,1,1,he,NPO,Pacific Ocean
@@ -105,12 +101,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,כפור ברזיל,2026-05-21T06:35:00+00:00,Brazil,0.2566859367996357,1,1,he,SAM,South-America
 '829105287e',extremes,Storm,#b3b2b1,wmo,סערה ג'מייקה,2026-05-26T06:31:00+00:00,Jamaica,0.2566473569260333,1,1,he,CAR,North-America
 '179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,מפולת סוצ'י,2026-05-31T06:40:00+00:00,Russia,0.2564838182834936,1,1,he,ESB,Europe
+'be9f9ddcc5',extremes,Flood,#030ba1,wmo,מציפה את דנמרק,2026-06-07T06:48:00+00:00,Denmark,0.25645753493620255,1,1,he,NEU,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,ברזיל מקפיאה,2026-06-04T07:06:00+00:00,Brazil,0.2564324940288042,1,1,he,SAM,South-America
 '72398d4cf4',extremes,Heat Wave,#c40202,wmo,גל חום בעמק שאן בצפון הערבה,2026-05-31T06:40:00+00:00,Israel,0.2563971774001822,6,1,he,MED,Asia
+'0514da3654',extremes,Snow&Ice,#d60d2b,wmo,קרח ברזיל,2026-05-22T06:32:00+00:00,Brazil,0.2563228576605423,1,1,he,SAM,South-America
+'530909dfe4',extremes,Heat Wave,#c40202,wmo,גל חום רוסיה,2026-05-22T06:32:00+00:00,Russia,0.256215875819495,1,1,he,ESB,Europe
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,שלג קנדה,2026-05-19T06:33:00+00:00,Canada,0.2560477562002086,1,1,he,NEN,North-America
+'110d2ee2b9',extremes,Heat Wave,#c40202,wmo,אזור גל חום קלוגה,2026-05-21T06:35:00+00:00,Russia,0.2559323912784151,1,1,he,ESB,Europe
 '6ae2fe0eac',extremes,Storm,#b3b2b1,wmo,גל סערה ים צפון,2026-05-20T06:33:00+00:00,Israel,0.2517636550809299,6,1,he,MED,Asia
 'b47766f171',extremes,Drought,#edc291,edo,יובש ישראל,2026-05-23T05:53:00+00:00,Israel,0.2406302829497495,5,1,he,MED,Asia
-'3bb7041ef3',extremes,Heat Wave,#c40202,wmo,גל חום ישראל,2026-05-31T06:40:00+00:00,Israel,0.2320692794322341,7,1,he,MED,Asia
 'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,כישוף קור מערב אוסטרליה,2026-05-27T06:46:00+00:00,Australia,0.2307075435203133,2,1,he,CAU,Oceania
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,מזג אוויר קר במערב אוסטרליה,2026-05-28T06:38:00+00:00,Australia,0.2304970199005753,2,1,he,CAU,Oceania
 '3dc98006fe',extremes,Drought,#edc291,acwe,חוסר גשם במערב אוסטרליה,2026-05-27T06:46:00+00:00,Australia,0.2302864180868883,2,1,he,CAU,Oceania
@@ -120,21 +119,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3296e9a239',extremes,Flood,#030ba1,aidr,גשם זלעפות אוסטרליה,2026-05-17T06:01:00+00:00,Australia,0.2269216705136215,2,1,he,SAU,Oceania
 '60a34b83b0',extremes,Flood,#030ba1,acwe,הצפת דרום אוסטרליה,2026-06-04T07:06:00+00:00,Australia,0.226584821554404,2,1,he,SAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,aidr,הצפה אוסטרליה,2026-05-17T06:01:00+00:00,Australia,0.2258390017586921,2,1,he,EAU,Oceania
-'ab5d1234a0',extremes,Flood,#030ba1,aidr,Flood Hobart Flash Flooding Tasmania 2018,2026-06-01T07:30:00+00:00,Australia,0.2255233373813785,2,1,he,SAU,Oceania
 '6977541e84',extremes,Drought,#edc291,edo,בצורת מדגסקר,2026-06-02T07:08:00+00:00,Madagascar,0.2247283574836974,2,1,he,MDG,Africa
-'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,גל חום אירופי בורדו,2026-05-30T06:01:00+00:00,France,0.2246831686045438,2,1,he,,
 '53fda39314',extremes,Drought,#edc291,edo,חוסר גשם ליטא,2026-05-30T06:01:00+00:00,Lithuania,0.2243590779356731,2,1,he,WCE,Europe
 'ecd6c72a27',extremes,Drought,#edc291,edo,חוסר גשם מדגסקר,2026-06-01T07:30:00+00:00,Madagascar,0.2238366516197896,2,1,he,MDG,Africa
 'fe07b8547c',extremes,Drought,#edc291,edo,בצורת צ'כיה,2026-05-15T06:09:00+00:00,Czechia,0.2237301344895708,2,1,he,WCE,Europe
-'2180c0c4a1',extremes,Drought,#edc291,edo,חוסר גשם בפולין,2026-06-02T07:08:00+00:00,Poland,0.22366561318983383,2,1,he,WCE,Europe
-'815e4bf638',extremes,Drought,#edc291,edo,חוסר גשם הונגריה,2026-05-15T06:09:00+00:00,Hungary,0.22262165954738114,2,1,he,WCE,Europe
+'2180c0c4a1',extremes,Drought,#edc291,edo,חוסר גשם בפולין,2026-06-02T07:08:00+00:00,Poland,0.2236656131898338,2,1,he,WCE,Europe
+'815e4bf638',extremes,Drought,#edc291,edo,חוסר גשם הונגריה,2026-05-15T06:09:00+00:00,Hungary,0.2226216595473811,2,1,he,WCE,Europe
 '98db96b6de',extremes,Drought,#edc291,edo,בצורת ליטא,2026-05-17T06:01:00+00:00,Lithuania,0.2223891806738125,2,1,he,WCE,Europe
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,גשם ברזיל,2026-05-24T06:22:00+00:00,Brazil,0.2221905410753445,2,1,he,SAM,South-America
 '5b34407f4a',extremes,Wildfire,#d60d2b,acwe,אש בשדה קוצים טסמניה,2026-05-31T06:41:00+00:00,Australia,0.2221892863393177,2,1,he,SAU,Oceania
 '8ece67f5a6',extremes,Thunderstorm,#53785a,wmo,ברד.,2026-05-27T06:46:00+00:00,Libya,0.22201641176301,2,1,he,SAH,Africa
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,משקעים ארגנטינה,2026-05-28T06:38:00+00:00,Argentina,0.2215002673424604,2,1,he,SES,South-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,משקעים קנדה,2026-05-19T06:33:00+00:00,Canada,0.2204617755666022,2,1,he,NEN,North-America
-'e188f4e183',extremes,Storm,#b3b2b1,wmo,סערה טנזניה,2026-05-20T06:33:00+00:00,Tanzania,0.2200139576567218,2,1,he,SEAF,Africa
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,סערת איי שלמה,2026-05-16T05:40:00+00:00,Solomon Islands,0.2189614644005345,2,1,he,EPO,Oceania
 '09b8af5c65',extremes,Earthquake,#870007,usgs,רעידת אדמה הוואי,2026-05-25T06:52:00+00:00,Hawaii,0.2178821691599707,2,1,he,NPO,North-America
+'3bb7041ef3',extremes,Heat Wave,#c40202,wmo,גל חום ישראל,2026-05-31T06:40:00+00:00,Israel,0.19725888751739898,8,1,he,MED,Asia
+'ab5d1234a0',extremes,Flood,#030ba1,aidr,Flood Hobart Flash Flooding Tasmania 2018,2026-06-01T07:30:00+00:00,Australia,0.19169483677417173,3,1,he,SAU,Oceania
+'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,גל חום אירופי בורדו,2026-05-30T06:01:00+00:00,France,0.19098069331386222,3,1,he,,
+'e188f4e183',extremes,Storm,#b3b2b1,wmo,סערה טנזניה,2026-05-20T06:33:00+00:00,Tanzania,0.1870118640082135,3,1,he,SEAF,Africa
 '34fd30e809',extremes,Earthquake,#870007,usgs,רעידת אדמה קלמה,2026-05-26T06:31:00+00:00,Chile,0.186213590241762,3,1,he,SWS,South-America
