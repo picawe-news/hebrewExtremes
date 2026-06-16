@@ -1,9 +1,19 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '3bb7041ef3',extremes,Heat Wave,#c40202,wmo,גל חום ישראל,2026-05-31T06:40:00+00:00,Israel,0.5322946830974152,2,1,he,MED,Asia
-'0740ada65c',extremes,Heat Wave,#c40202,wmo,גל חום מדבר ים המלח בדרום יהודה,2026-06-07T06:48:00+00:00,Israel,0.40022531692391916,3,1,he,MED,Asia
+'0740ada65c',extremes,Heat Wave,#c40202,wmo,גל חום מדבר ים המלח בדרום יהודה,2026-06-07T06:48:00+00:00,Israel,0.4002253169239191,3,1,he,MED,Asia
 'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2026-06-14T07:07:00+00:00,Israel,0.3445086261162111,4,1,he,MED,Asia
 'f8f5c3ad5f',extremes,Drought,#edc291,edo,חוסר גשם ישראל,2026-06-12T07:05:00+00:00,Israel,0.335183187595853,3,1,he,MED,Asia
+'fe07b8547c',extremes,Drought,#edc291,edo,בצורת צ'כיה,2026-06-04T07:06:00+00:00,Czechia,0.30602190362179904,0,1,he,WCE,Europe
+'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,מפולת רוסיה,2026-06-06T06:08:00+00:00,Russia,0.30178598784978755,0,1,he,ESB,Europe
+'44d9ac0858',extremes,Earthquake,#870007,usgs,רעידת אדמה pāpa'ikou,2026-06-15T08:36:00+00:00,Hawaii,0.30159619676985855,0,1,he,NPO,Pacific Ocean
+'4c1d7f8a34',extremes,Wildfire,#d60d2b,wmo,אזור אשנגלסק,2026-06-10T06:49:00+00:00,Russia,0.30144146681474115,0,1,he,ESB,Europe
+'8768fed4c8',extremes,Wildfire,#d60d2b,wmo,אזור קמרובו שריפות,2026-06-03T07:23:00+00:00,Russia,0.3013612181081352,0,1,he,ESB,Europe
+'f760624a54',extremes,Earthquake,#870007,usgs,רעידת אדמה vallenar,2026-06-12T07:05:00+00:00,Chile,0.30116983366891,0,1,he,SWS,South-America
+'ed5655acf2',extremes,Flood,#030ba1,wmo,הצפה בוורברטון בדרום אוסטרליה,2026-05-29T06:38:00+00:00,Australia,0.30114203585170324,0,1,he,CAU,Oceania
+'406b2198bd',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות באזור אמזוניקה,2026-06-15T08:36:00+00:00,Ecuador,0.30108773487204776,0,1,he,NWS,South-America
 '44211c95de',extremes,Flood,#030ba1,wmo,מציפה את אוסטרליה,2026-06-09T06:32:00+00:00,Australia,0.3008569923576457,0,1,he,CAU,Oceania
+'1878bbb853',extremes,Wildfire,#d60d2b,wmo,רפובליקת השריפות של טטרסטן,2026-06-13T06:38:00+00:00,Russia,0.3007802057584675,0,1,he,ESB,Europe
+'d5197c0b14',extremes,Wildfire,#d60d2b,wmo,אזור שרטוב סאראטוב,2026-05-28T06:38:00+00:00,Russia,0.3006779985413808,0,1,he,ESB,Europe
 'c2ab86656b',extremes,Snow&Ice,#d60d2b,wmo,קרח לסתו,2026-06-03T07:23:00+00:00,Lesotho,0.3006249433966227,0,1,he,ESAF,Africa
 '47ff492c3a',extremes,Storm,#b3b2b1,wmo,גל סערה מלמפה שפע ומחוז טאפה,2026-06-12T07:05:00+00:00,Vanuatu,0.3006137502601456,0,1,he,SPO,Oceania
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,גשם חזק בניו דרום ויילס,2026-06-14T07:07:00+00:00,Australia,0.2682471744168505,1,1,he,EAU,Oceania
@@ -11,9 +21,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,גשם באקוודור,2026-06-09T06:32:00+00:00,Ecuador,0.2618023827161298,1,1,he,NWS,South-America
 '5b34407f4a',extremes,Wildfire,#d60d2b,acwe,אש בשדה קוצים טסמניה,2026-05-31T06:41:00+00:00,Australia,0.2613991603991973,1,1,he,SAU,Oceania
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,גשם בקנדה,2026-06-07T06:48:00+00:00,Canada,0.2609747436222607,1,1,he,NEN,North-America
-'23ce7b59e3',extremes,Storm,#b3b2b1,wmo,סערה malampa shefa ומחוז tafea,2026-06-14T07:07:00+00:00,Vanuatu,0.25916227033076683,1,1,he,SPO,Oceania
+'23ce7b59e3',extremes,Storm,#b3b2b1,wmo,סערה malampa shefa ומחוז tafea,2026-06-14T07:07:00+00:00,Vanuatu,0.2591622703307668,1,1,he,SPO,Oceania
 '4c0e0f411e',extremes,Storm,#b3b2b1,wmo,סערה אזור אמזוניקה,2026-06-15T08:36:00+00:00,Ecuador,0.2570907724482707,1,1,he,NWS,South-America
-'8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,שריפה בדרום אוסטרליה,2026-06-15T08:36:00+00:00,Australia,0.25661460176714784,1,1,he,CAU,Oceania
+'8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,שריפה בדרום אוסטרליה,2026-06-15T08:36:00+00:00,Australia,0.2566146017671478,1,1,he,CAU,Oceania
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,גל סערה ניו זילנד,2026-06-08T07:13:00+00:00,New Zealand,0.2558695163001768,1,1,he,NZ,Oceania
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,גל סערה דרום אפריקה,2026-06-02T07:08:00+00:00,South Africa,0.2556725325499804,1,1,he,WSAF,Africa
 '81cbe2ec3c',extremes,Earthquake,#870007,usgs,רעידת אדמה בהוטן,2026-06-10T06:49:00+00:00,Bhutan,0.2555047886054744,1,1,he,TIB,Asia
@@ -78,7 +88,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,כפור ברזיל,2026-05-21T06:35:00+00:00,Brazil,0.2181830462796903,3,1,he,SAM,South-America
 '829105287e',extremes,Storm,#b3b2b1,wmo,סערה ג'מייקה,2026-05-26T06:31:00+00:00,Jamaica,0.2181502533871283,2,1,he,CAR,North-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,ארגנטינה מקפיאה,2026-05-26T06:31:00+00:00,Argentina,0.2181164313371268,2,1,he,SES,South-America
-'1c7749f12f',extremes,Storm,#b3b2b1,wmo,סערה סיישל,2026-06-15T08:36:00+00:00,Seychelles,0.21807376166281137,2,1,he,EIO,Africa
+'1c7749f12f',extremes,Storm,#b3b2b1,wmo,סערה סיישל,2026-06-15T08:36:00+00:00,Seychelles,0.2180737616628113,2,1,he,EIO,Africa
 '179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,מפולת סוצ'י,2026-05-31T06:40:00+00:00,Russia,0.2180112455409695,2,1,he,ESB,Europe
 'be9f9ddcc5',extremes,Flood,#030ba1,wmo,מציפה את דנמרק,2026-06-07T06:48:00+00:00,Denmark,0.2179889046957721,2,1,he,NEU,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,ברזיל מקפיאה,2026-06-04T07:06:00+00:00,Brazil,0.2179676199244835,2,1,he,SAM,South-America
@@ -117,10 +127,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd61de81685',extremes,Storm,#b3b2b1,wmo,גל סערה צ'ילה,2026-05-28T06:38:00+00:00,Chile,0.2175231955147183,2,1,he,SWS,South-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,קנדה מקפיאה,2026-05-24T06:22:00+00:00,Canada,0.2175197562909025,2,1,he,NEN,North-America
 '2433af70de',extremes,Storm,#b3b2b1,wmo,גל סערה בליז,2026-06-12T07:05:00+00:00,Belize,0.2175138802394355,2,1,he,SCA,North-America
-'501b14a5de',extremes,Precipitation,#d60d2b,wmo,משקעים אזור אמזוניקה,2026-06-14T07:07:00+00:00,Ecuador,0.21751049723584762,2,1,he,NWS,South-America
+'501b14a5de',extremes,Precipitation,#d60d2b,wmo,משקעים אזור אמזוניקה,2026-06-14T07:07:00+00:00,Ecuador,0.2175104972358476,2,1,he,NWS,South-America
 '04915d4188',extremes,Precipitation,#d60d2b,wmo,גשם של מקאו,2026-06-08T07:13:00+00:00,Macao,0.2175064011297763,2,1,he,EAS,Asia
 'c40c3d7ce2',extremes,Flood,#030ba1,wmo,מציפה את שוודיה,2026-06-12T07:05:00+00:00,Sweden,0.2174919685857314,2,1,he,NEU,Europe
-'3421a57149',extremes,Storm,#b3b2b1,wmo,סערה אקוודור,2026-06-08T07:13:00+00:00,Ecuador,0.21748394805746832,2,1,he,NWS,South-America
+'3421a57149',extremes,Storm,#b3b2b1,wmo,סערה אקוודור,2026-06-08T07:13:00+00:00,Ecuador,0.2174839480574683,2,1,he,NWS,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,גל סערה ברזיל,2026-06-06T06:08:00+00:00,Brazil,0.2174756933915285,2,1,he,SAM,South-America
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,קרח איסלנד,2026-05-29T06:38:00+00:00,Iceland,0.2174697435976412,2,1,he,GIC,Europe
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,גל קר ברזיל,2026-06-06T06:08:00+00:00,Brazil,0.2174297946423957,2,1,he,SAM,South-America
@@ -177,14 +187,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,מזג אוויר קשה בקנדה,2026-05-30T06:01:00+00:00,Canada,0.1885979733339174,3,1,he,NEN,North-America
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,מפולת נורווגיה,2026-05-20T06:33:00+00:00,Norway,0.1883985201775113,3,1,he,NEU,Europe
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,משקעים דרום אפריקה,2026-06-02T07:08:00+00:00,South Africa,0.1883822628637781,3,1,he,WSAF,Africa
-'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,משקעים אקוודור,2026-06-03T07:23:00+00:00,Ecuador,0.18828865044539267,3,1,he,NWS,South-America
+'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,משקעים אקוודור,2026-06-03T07:23:00+00:00,Ecuador,0.1882886504453926,3,1,he,NWS,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,משקעים ארגנטינה,2026-05-28T06:38:00+00:00,Argentina,0.1882752272410913,3,1,he,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות בארגנטינה,2026-05-28T06:38:00+00:00,Argentina,0.1882495623966698,3,1,he,SES,South-America
 '023403ed71',extremes,Drought,#edc291,edo,בצורת ישראל,2026-06-09T06:33:00+00:00,Israel,0.1881456295022643,5,1,he,MED,Asia
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,גל חום ניו דרום ויילס,2026-05-29T06:39:00+00:00,Australia,0.18813157727948,3,1,he,EAU,Oceania
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,משקעים ברזיל,2026-05-24T06:22:00+00:00,Brazil,0.1880525483358487,3,1,he,SAM,South-America
 '628c73fc75',extremes,Drought,#edc291,edo,בצורת פולין,2026-05-25T06:53:00+00:00,Poland,0.1878516008428411,3,1,he,WCE,Europe
-'f8714a698d',extremes,Precipitation,#d60d2b,wmo,גשם שוטף באקוודור,2026-05-30T06:01:00+00:00,Ecuador,0.18777665490786544,3,1,he,NWS,South-America
+'f8714a698d',extremes,Precipitation,#d60d2b,wmo,גשם שוטף באקוודור,2026-05-30T06:01:00+00:00,Ecuador,0.1877766549078654,3,1,he,NWS,South-America
 '9fdc419684',extremes,Drought,#edc291,edo,כישוף יבש צ'כיה,2026-05-30T06:01:00+00:00,Czechia,0.1877065927737836,3,1,he,WCE,Europe
 '3a81ba6638',extremes,Landslide,#572c03,aidr,מפולת סומרסבי ניו סאות' ויילס,2026-06-06T06:08:00+00:00,Australia,0.1876794460046268,3,1,he,EAU,Oceania
 'da462ab339',extremes,Heat Wave,#c40202,wmo,גל חום בעמק שאן עמק הקינרות,2026-06-07T06:48:00+00:00,Israel,0.1874478145182972,8,1,he,MED,Asia
@@ -197,7 +207,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '311c580f74',extremes,Drought,#edc291,edo,פינלנד יבשה,2026-06-01T07:30:00+00:00,Finland,0.1858019847644517,3,1,he,NEU,Europe
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,גל חום צרפת,2026-05-24T06:22:00+00:00,France,0.185478443687085,3,1,he,WCE,Europe
 '09b8af5c65',extremes,Earthquake,#870007,usgs,רעידת אדמה הוואי,2026-05-25T06:52:00+00:00,Hawaii,0.1851998437859751,3,1,he,NPO,North-America
-'0b472ebc54',extremes,Storm,#b3b2b1,wmo,גל סערה Cañar y Azuay,2026-06-10T06:49:00+00:00,Ecuador,0.18466252223757096,3,1,he,NWS,South-America
+'0b472ebc54',extremes,Storm,#b3b2b1,wmo,גל סערה Cañar y Azuay,2026-06-10T06:49:00+00:00,Ecuador,0.1846625222375709,3,1,he,NWS,South-America
 '3dc98006fe',extremes,Drought,#edc291,acwe,חוסר גשם במערב אוסטרליה,2026-05-27T06:46:00+00:00,Australia,0.1663819370677767,4,1,he,CAU,Oceania
 'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,גל חום אירופי בורדו,2026-05-30T06:01:00+00:00,France,0.1623335893167828,4,1,he,,
 'e82c94efda',extremes,Earthquake,#870007,usgs,רעידת אדמה valparaíso,2026-06-02T07:08:00+00:00,Chile,0.1580006580776513,4,1,he,SWS,South-America
