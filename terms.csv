@@ -106,7 +106,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,snow canada,2026-06-13T06:38:00+00:00,Canada,0.1572087568723957,4,1,he,NEN,North-America
 '406b2198bd',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות באזור אמזוניקה,2026-06-15T08:36:00+00:00,Ecuador,0.1571696794015517,4,1,he,NWS,South-America
 '0ebdc15703',extremes,Earthquake,#870007,usgs,רעידת אדמה kahaluu keauhou,2026-06-03T07:22:00+00:00,Hawaii,0.1571623391925402,4,1,he,NPO,Pacific Ocean
-'2433af70de',extremes,Storm,#b3b2b1,wmo,גל סערה בליז,2026-06-12T07:05:00+00:00,Belize,0.15715377847299208,4,1,he,SCA,North-America
+'2433af70de',extremes,Storm,#b3b2b1,wmo,גל סערה בליז,2026-06-12T07:05:00+00:00,Belize,0.157153778472992,4,1,he,SCA,North-America
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,משקעים אזור אמזוניקה,2026-06-14T07:07:00+00:00,Ecuador,0.1571513342528998,4,1,he,NWS,South-America
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,גל סערה ניו זילנד,2026-06-08T07:13:00+00:00,New Zealand,0.1571358666978459,4,1,he,NZ,Oceania
 '3421a57149',extremes,Storm,#b3b2b1,wmo,סערה אקוודור,2026-06-08T07:13:00+00:00,Ecuador,0.1571321524715208,4,1,he,NWS,South-America
@@ -115,7 +115,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10bce00d3d',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות של אזורי העיר,2026-06-10T06:49:00+00:00,Chad,0.1570158818327608,4,1,he,SAH,Africa
 'f8bd5aec38',extremes,Storm,#b3b2b1,wmo,סערה נאפו,2026-06-10T06:49:00+00:00,Ecuador,0.1570132778900126,4,1,he,NWS,South-America
 '3a54defe28',extremes,Wildfire,#d60d2b,wmo,שריפה במוסקבה,2026-06-11T07:14:00+00:00,Russia,0.1570119035494432,4,1,he,ESB,Europe
-'432bab655c',extremes,Wildfire,#d60d2b,wmo,שריפה בארצות הברית,2026-06-06T06:08:00+00:00,United States,0.15699653078690348,4,1,he,CNA,North-America
+'432bab655c',extremes,Wildfire,#d60d2b,wmo,שריפה בארצות הברית,2026-06-06T06:08:00+00:00,United States,0.1569965307869034,4,1,he,CNA,North-America
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,סערה ונואטו,2026-06-10T06:49:00+00:00,Vanuatu,0.1569704336093343,4,1,he,SPO,Oceania
 '806dd08d67',extremes,Flood,#030ba1,acwe,מציף את ויקטוריה,2026-06-15T08:36:00+00:00,Australia,0.138306064418261,5,1,he,SAU,Oceania
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,משקעים קנדה,2026-06-09T06:32:00+00:00,Canada,0.1364528636625657,5,1,he,NEN,North-America
