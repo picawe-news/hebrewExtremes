@@ -113,22 +113,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '44d9ac0858',extremes,Earthquake,#870007,usgs,רעידת אדמה pāpa'ikou,2026-06-15T08:36:00+00:00,Hawaii,0.1574350996900958,4,1,he,NPO,Pacific Ocean
 '6018dbdbc5',extremes,Flood,#030ba1,wmo,נחל מספריים flashflood ליד מקאולי,2026-06-13T06:38:00+00:00,Canada,0.1574347146619094,4,1,he,NEN,North-America
 '0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,כפור צ'ילה,2026-06-12T07:05:00+00:00,Chile,0.1574197762053,4,1,he,SWS,South-America
-'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,גל חום אתיופיה,2026-06-10T06:49:00+00:00,Ethiopia,0.15741641433015946,4,1,he,NEAF,Africa
+'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,גל חום אתיופיה,2026-06-10T06:49:00+00:00,Ethiopia,0.1574164143301594,4,1,he,NEAF,Africa
 '104591a5db',extremes,Precipitation,#d60d2b,wmo,גשם בצ'אד,2026-06-17T07:33:00+00:00,Chad,0.157394910934057,4,1,he,SAH,Africa
 '4c1d7f8a34',extremes,Wildfire,#d60d2b,wmo,אזור אשנגלסק,2026-06-10T06:49:00+00:00,Russia,0.1573543296864623,4,1,he,ESB,Europe
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,קרח ארגנטינה,2026-06-09T06:32:00+00:00,Argentina,0.1573477581759579,4,1,he,SES,South-America
 'a715281618',extremes,Storm,#b3b2b1,wmo,גל סערה ונואטו,2026-06-09T06:32:00+00:00,Vanuatu,0.1573451660926059,4,1,he,SPO,Oceania
-'023d124975',extremes,Drought,#edc291,edo,יובש סרי לנקה,2026-06-04T07:06:00+00:00,Sri Lanka,0.15734511286805447,4,1,he,BOB,Asia
-'8db658717e',extremes,Flood,#030ba1,wmo,flashflood אוסטרליה,2026-06-06T06:08:00+00:00,Australia,0.15731627544264243,4,1,he,CAU,Oceania
-'8768fed4c8',extremes,Wildfire,#d60d2b,wmo,אזור קמרובו שריפות,2026-06-03T07:23:00+00:00,Russia,0.15731243936005962,4,1,he,ESB,Europe
-'734861543c',extremes,Storm,#b3b2b1,wmo,גל סערה אזור אמזוניקה,2026-06-13T06:38:00+00:00,Ecuador,0.15731026927134978,4,1,he,NWS,South-America
-'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,כפור ארגנטינה,2026-06-09T06:32:00+00:00,Argentina,0.15730218224142975,4,1,he,SES,South-America
+'023d124975',extremes,Drought,#edc291,edo,יובש סרי לנקה,2026-06-04T07:06:00+00:00,Sri Lanka,0.1573451128680544,4,1,he,BOB,Asia
+'8db658717e',extremes,Flood,#030ba1,wmo,flashflood אוסטרליה,2026-06-06T06:08:00+00:00,Australia,0.1573162754426424,4,1,he,CAU,Oceania
+'8768fed4c8',extremes,Wildfire,#d60d2b,wmo,אזור קמרובו שריפות,2026-06-03T07:23:00+00:00,Russia,0.1573124393600596,4,1,he,ESB,Europe
+'734861543c',extremes,Storm,#b3b2b1,wmo,גל סערה אזור אמזוניקה,2026-06-13T06:38:00+00:00,Ecuador,0.1573102692713497,4,1,he,NWS,South-America
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,כפור ארגנטינה,2026-06-09T06:32:00+00:00,Argentina,0.1573021822414297,4,1,he,SES,South-America
 '869ff000f5',extremes,Precipitation,#d60d2b,wmo,גשם בליז,2026-06-11T07:14:00+00:00,Belize,0.1572734415624619,4,1,he,SCA,North-America
-'406b2198bd',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות באזור אמזוניקה,2026-06-15T08:36:00+00:00,Ecuador,0.15716967940155177,4,1,he,NWS,South-America
+'406b2198bd',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות באזור אמזוניקה,2026-06-15T08:36:00+00:00,Ecuador,0.1571696794015517,4,1,he,NWS,South-America
 '0ebdc15703',extremes,Earthquake,#870007,usgs,רעידת אדמה kahaluu keauhou,2026-06-03T07:22:00+00:00,Hawaii,0.1571623391925402,4,1,he,NPO,Pacific Ocean
 '3421a57149',extremes,Storm,#b3b2b1,wmo,סערה אקוודור,2026-06-08T07:13:00+00:00,Ecuador,0.1571321524715208,4,1,he,NWS,South-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,סערה אוסטרליה,2026-06-06T06:08:00+00:00,Australia,0.1570828784872822,4,1,he,CAU,Oceania
-'10bce00d3d',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות של אזורי העיר,2026-06-10T06:49:00+00:00,Chad,0.15701588183276086,4,1,he,SAH,Africa
+'10bce00d3d',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות של אזורי העיר,2026-06-10T06:49:00+00:00,Chad,0.1570158818327608,4,1,he,SAH,Africa
 '3a54defe28',extremes,Wildfire,#d60d2b,wmo,שריפה במוסקבה,2026-06-11T07:14:00+00:00,Russia,0.1570119035494432,4,1,he,ESB,Europe
 '806dd08d67',extremes,Flood,#030ba1,acwe,מציף את ויקטוריה,2026-06-15T08:36:00+00:00,Australia,0.138306064418261,5,1,he,SAU,Oceania
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,משקעים קנדה,2026-06-09T06:32:00+00:00,Canada,0.1364528636625657,5,1,he,NEN,North-America
