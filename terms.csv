@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'7978d58b02',extremes,Precipitation,#d60d2b,wmo,גשם ברזיל,2026-06-17T07:33:00+00:00,Brazil,0.2075829976103359,7,2,he,SAM,South-America
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,גל קר ברזיל,2026-06-06T06:08:00+00:00,Brazil,0.1848153254460363,3,1,he,SAM,South-America
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,גרמניה מקפיאה,2026-06-11T07:14:00+00:00,Germany,0.1847321016205035,3,1,he,WCE,Europe
 '1878bbb853',extremes,Wildfire,#d60d2b,wmo,רפובליקת השריפות של טטרסטן,2026-06-13T06:38:00+00:00,Russia,0.1847166438614187,3,1,he,ESB,Europe
@@ -7,6 +6,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2ab86656b',extremes,Snow&Ice,#d60d2b,wmo,קרח לסתו,2026-06-03T07:23:00+00:00,Lesotho,0.1846212933634509,3,1,he,ESAF,Africa
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,מציפה את קנדה,2026-06-09T06:32:00+00:00,Canada,0.1844860459911366,3,1,he,NEN,North-America
 'a29729e148',extremes,Storm,#b3b2b1,wmo,גל סערה ישראל,2026-06-14T07:07:00+00:00,Israel,0.1798356560115753,8,1,he,MED,Asia
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,גשם ברזיל,2026-06-17T07:33:00+00:00,Brazil,0.17659556296878554,8,2,he,SAM,South-America
 '567f445b3d',extremes,Tropical Cyclone,#4f4f4f,eonet,סופה טרופית cristina,2026-06-12T07:05:00+00:00,,0.1663779425299613,4,1,he,SCA,North-America
 'acd0e1409b',extremes,Flood,#030ba1,acwe,הצפת ניו דרום ויילס,2026-06-13T06:38:00+00:00,Australia,0.1643367387802319,4,1,he,EAU,Oceania
 '60a34b83b0',extremes,Flood,#030ba1,acwe,הצפת דרום אוסטרליה,2026-06-04T07:06:00+00:00,Australia,0.1637075335730568,4,1,he,SAU,Oceania
