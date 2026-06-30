@@ -41,8 +41,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,גשם שוטף ברזיל,2026-06-18T07:16:00+00:00,Brazil,0.1161722033630078,6,1,he,SAM,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,משקעים ברזיל,2026-06-16T08:27:00+00:00,Brazil,0.1161306610689366,6,1,he,SAM,South-America
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,לחש חם ויקטוריה,2026-06-13T06:38:00+00:00,Australia,0.1159670673603807,6,1,he,SAU,Oceania
-'48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ghana,2026-06-11T07:14:00+00:00,Ghana,0.11536922693139183,6,1,he,WAF,Africa
-'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,כפור ברזיל,2026-06-15T08:36:00+00:00,Brazil,0.11526402612105018,6,1,he,SAM,South-America
+'48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,סופת רעמים ghana,2026-06-11T07:14:00+00:00,Ghana,0.1153692269313918,6,1,he,WAF,Africa
+'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,כפור ברזיל,2026-06-15T08:36:00+00:00,Brazil,0.1152640261210501,6,1,he,SAM,South-America
 '78598a21cd',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות minganie anticosti,2026-06-16T08:27:00+00:00,Canada,0.1150544962662982,6,1,he,NEN,North-America
 '11ece58a02',extremes,Storm,#b3b2b1,wmo,גל סערה בחריין,2026-06-16T08:27:00+00:00,Bahrain,0.1148991317420589,6,1,he,ARP,Asia
 '8b27d7924c',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות בכר,2026-06-14T07:07:00+00:00,Algeria,0.1148596448487032,6,1,he,SAH,Africa
