@@ -1,8 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'869ff000f5',extremes,Precipitation,#d60d2b,wmo,גשם בליז,2026-06-11T07:14:00+00:00,Belize,0.1336824253280926,5,1,he,SCA,North-America
-'406b2198bd',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות באזור אמזוניקה,2026-06-15T08:36:00+00:00,Ecuador,0.1335942274913189,5,1,he,NWS,South-America
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,משקעים אזור אמזוניקה,2026-06-14T07:07:00+00:00,Ecuador,0.1335786341149648,5,1,he,NWS,South-America
-'c40c3d7ce2',extremes,Flood,#030ba1,wmo,מציפה את שוודיה,2026-06-12T07:05:00+00:00,Sweden,0.1335672552077121,5,1,he,NEU,Europe
 '10bce00d3d',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות של אזורי העיר,2026-06-10T06:49:00+00:00,Chad,0.1334634995578466,5,1,he,SAH,Africa
 '1878bbb853',extremes,Wildfire,#d60d2b,wmo,רפובליקת השריפות של טטרסטן,2026-06-13T06:38:00+00:00,Russia,0.1334577751898749,5,1,he,ESB,Europe
 '0b472ebc54',extremes,Storm,#b3b2b1,wmo,גל סערה Cañar y Azuay,2026-06-10T06:49:00+00:00,Ecuador,0.1334186723166449,5,1,he,NWS,South-America
@@ -15,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,כפור ברזיל,2026-06-15T08:36:00+00:00,Brazil,0.1152640261210501,6,1,he,SAM,South-America
 '78598a21cd',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות minganie anticosti,2026-06-16T08:27:00+00:00,Canada,0.1150544962662982,6,1,he,NEN,North-America
 '11ece58a02',extremes,Storm,#b3b2b1,wmo,גל סערה בחריין,2026-06-16T08:27:00+00:00,Bahrain,0.1148991317420589,6,1,he,ARP,Asia
-'8b27d7924c',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות בכר,2026-06-14T07:07:00+00:00,Algeria,0.1148596448487032,6,1,he,SAH,Africa
 'bc4b81854d',extremes,Storm,#b3b2b1,wmo,גל סערה djelfa,2026-06-16T08:27:00+00:00,Algeria,0.1146441309021555,6,1,he,SAH,Africa
 '769c0da087',extremes,Storm,#b3b2b1,wmo,מצב סערה של כווית,2026-06-16T08:27:00+00:00,Kuwait,0.1144540826685092,6,1,he,ARP,Asia
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,גל סערה סיישל,2026-06-16T08:27:00+00:00,Seychelles,0.1140859159169603,6,1,he,EIO,Africa
@@ -25,4 +21,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6018dbdbc5',extremes,Flood,#030ba1,wmo,נחל מספריים flashflood ליד מקאולי,2026-06-13T06:38:00+00:00,Canada,0.1137465813432294,6,1,he,NEN,North-America
 '104591a5db',extremes,Precipitation,#d60d2b,wmo,גשם בצ'אד,2026-06-17T07:33:00+00:00,Chad,0.1137178231498561,6,1,he,SAH,Africa
 '734861543c',extremes,Storm,#b3b2b1,wmo,גל סערה אזור אמזוניקה,2026-06-13T06:38:00+00:00,Ecuador,0.1136566695485501,6,1,he,NWS,South-America
+'406b2198bd',extremes,Precipitation,#d60d2b,wmo,גשם זלעפות באזור אמזוניקה,2026-06-15T08:36:00+00:00,Ecuador,0.11355509336762107,6,1,he,NWS,South-America
 'bc85c67872',extremes,Storm,#b3b2b1,wmo,סערה כווית,2026-06-17T07:33:00+00:00,Kuwait,0.0974831159193427,7,1,he,ARP,Asia
