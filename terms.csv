@@ -30,7 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6018dbdbc5',extremes,Flood,#030ba1,wmo,נחל מספריים flashflood ליד מקאולי,2026-06-13T06:38:00+00:00,Canada,0.1137465813432294,6,1,he,NEN,North-America
 '0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,כפור צ'ילה,2026-06-12T07:05:00+00:00,Chile,0.1137357883083292,6,1,he,SWS,South-America
 '104591a5db',extremes,Precipitation,#d60d2b,wmo,גשם בצ'אד,2026-06-17T07:33:00+00:00,Chad,0.1137178231498561,6,1,he,SAH,Africa
-'734861543c',extremes,Storm,#b3b2b1,wmo,גל סערה אזור אמזוניקה,2026-06-13T06:38:00+00:00,Ecuador,0.11365666954855011,6,1,he,NWS,South-America
+'734861543c',extremes,Storm,#b3b2b1,wmo,גל סערה אזור אמזוניקה,2026-06-13T06:38:00+00:00,Ecuador,0.1136566695485501,6,1,he,NWS,South-America
 'f760624a54',extremes,Earthquake,#870007,usgs,רעידת אדמה vallenar,2026-06-12T07:05:00+00:00,Chile,0.1135860568890911,6,1,he,SWS,South-America
 '2433af70de',extremes,Storm,#b3b2b1,wmo,גל סערה בליז,2026-06-12T07:05:00+00:00,Belize,0.1135436049467367,6,1,he,SCA,North-America
 'bc85c67872',extremes,Storm,#b3b2b1,wmo,סערה כווית,2026-06-17T07:33:00+00:00,Kuwait,0.0974831159193427,7,1,he,ARP,Asia
